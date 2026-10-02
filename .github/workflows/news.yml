@@ -45,6 +45,3 @@ jobs:
           git add -A data content
           git status --short
           git diff --staged --quiet || (git commit -m "Update news" && git pull --rebase --autostash && git push)
-      eply.github.com"
-          git add data/fashion.sql content/
-          git diff --staged --quiet || (git commit -m "Update news" && git pull --rebase && git push)
