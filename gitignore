@@ -1,0 +1,8 @@
+# secrets and local environment
+.env
+.venv/
+
+# generated working data
+data/fashion.db
+__pycache__/
+*.pyc

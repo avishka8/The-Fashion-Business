@@ -1,0 +1,29 @@
+# Feeds the pipeline checks. Add publisher RSS feeds here once you have verified their URLs and terms of use.
+# trust_query: true means the feed is already topic-scoped by its search query, so only the AI judges relevance.
+per_feed: 30
+
+feeds:
+  - name: Google News - funding
+    url: https://news.google.com/rss/search?q=Indian+fashion+brand+funding+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+  - name: Google News - retail
+    url: https://news.google.com/rss/search?q=India+apparel+retail+expansion+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+  - name: Google News - D2C
+    url: https://news.google.com/rss/search?q=D2C+fashion+brand+India+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+  - name: Google News - textiles
+    url: https://news.google.com/rss/search?q=India+textile+garment+exports+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+  - name: Google News - handloom and GI
+    url: https://news.google.com/rss/search?q=India+handloom+GI+tag+weavers+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+  - name: Google News - fashion weeks
+    url: https://news.google.com/rss/search?q=Lakme+Fashion+Week+OR+%22India+Couture+Week%22+OR+%22India+Fashion+Week%22+when:7d&hl=en-IN&gl=IN&ceid=IN:en
+    trust_query: true
+
+# An item must mention at least one of these (title or snippet, lowercase match)...
+must_match_any: [fashion, apparel, garment, textile, handloom, weave, saree, sari, ethnic wear, couture, designer, d2c, footwear, lifestyle brand]
+
+# ...and none of these (keeps celebrity and red-carpet items out before any AI cost is spent).
+block_any: [red carpet, actress, actor, bollywood, spotted, airport look, ootd, looks stunning, steals the show, photos]
