@@ -1,3 +1,47 @@
+[116] (retail) Crocs Expands Gujarat Retail Presence With New Bhuj Store
+    Footwear brand Crocs has expanded its retail presence in Gujarat by opening a new store in Bhuj. The new outlet aims to increase the brand's accessibility in the region.
+    sources: IFAB MEDIA
+
+[117] (d2c) Behind India’s D2C revolution: Building brands and retail
+    The text discusses the D2C revolution in India, focusing on building brands and scaling businesses. It also touches upon rewriting retail strategies.
+    sources: Forbes India
+
+[125] (policy) MSME body seeks support as India signs FTAs
+    An MSME body has called for handholding and support as India signs more Free Trade Agreements. The appeal focuses on the needs of MSMEs amid changing trade policies.
+    sources: Business Standard
+
+[131] (textiles) LG Sinha comments on the artistry of weavers and craftswomen
+    Lieutenant Governor Sinha stated that the true prosperity of a society is reflected in the artistry of its weavers and craftswomen. The text highlights the importance of these artisans without providing additional business metrics or details.
+    sources: The Kashmir Horizon
+
+[133] (fashion-week) Lakme Fashion Week and FDCI to stage Delhi 2026 edition
+    Lakme Fashion Week and FDCI have announced they will stage their Delhi 2026 edition. The event is scheduled to take place from October 13 to 18.
+    sources: The News Mill, mid-day.com
+
+[134] (fashion-week) Lakmé Fashion Week x FDCI Grand Finale with AM.IT
+    Lakmé Fashion Week in partnership with FDCI is set to host its grand finale. The finale will feature Amit Aggarwal's label, AM.IT.
+    sources: EventFAQs
+
+[135] (fashion-week) Lakmē Fashion Week Returns to Delhi
+    Lakmē Fashion Week has announced its return to Delhi. The event highlights upcoming showcases and details to watch.
+    sources: ELLE India
+
+[138] (fashion-week) Lakmé Fashion Week Returns To Delhi
+    Lakmé Fashion Week is returning to Delhi for its October edition. Designers including Manish Malhotra and Amit Aggarwal are set to participate in the event.
+    sources: News18
+
+[139] (fashion-week) Lakmé 9to5 Grand Finale With Amit Aggarwal
+    Lakmé hosted the 9to5 Grand Finale featuring designer Amit Aggarwal. The snippet highlights the fashion-week event.
+    sources: Passionate In Marketing
+
+[140] (brand-moves) Kora by NM launches Folk Fusion festive menswear collection
+    Kora by NM has introduced a new festive menswear collection titled Folk Fusion. The line features traditional Indian craftsmanship including Bandhani, Patola, and mirror work.
+    sources: t2ONLINE
+
+[141] (fashion-week) Lakmé Fashion Week October 2026 dates unveiled for New Delhi show
+    The dates for Lakmé Fashion Week in October 2026 have been unveiled for the upcoming show in New Delhi. Further details regarding the schedule and participants were noted.
+    sources: Asianet Newsable
+
 [56] (d2c) Jaipur Kurti Enters Its Next Growth Chapter
     The brand Jaipur Kurti, rooted in Jaipur, is expanding its presence across India. The company has entered its next growth chapter.
     sources: Ahmedabad Mirror, NewsX
@@ -84,7 +128,7 @@
 
 [96] (policy) Textiles ministry extends RoSCTL scheme till December 31
     The textiles ministry has extended the RoSCTL scheme. The extension is effective until December 31.
-    sources: Manorama Yearbook
+    sources: Manorama Yearbook, Apparel Views, NDTV Profit
 
 [97] (textiles) Tiruppur's rise as India's textile export powerhouse
     This article discusses the growth and rise of Tiruppur as a major textile cluster and export powerhouse in India. It examines the factors that transformed the region into a key hub for textile exports.
@@ -112,7 +156,7 @@
 
 [104] (textiles) India-EU FTA and Tirupur apparel exports potential
     The text discusses whether the proposed India-EU Free Trade Agreement can help Tirupur double its apparel exports to $4 billion. It focuses on the potential trade and export implications for the region.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [112] (textiles) South Indian cotton yarn remains weak, prices down in Mumbai
     South Indian cotton yarn continues to remain weak in the market. Consequently, cotton yarn prices have decreased in Mumbai.
@@ -126,98 +170,6 @@
     Between September 21 and September 26, 2026, 19 Indian startups across diverse sectors raised over $397 million from investors. The funded sectors include footwear, EV, foodtech, cleantech, healthtech, defencetech, fintech, and AI.
     sources: instagram.com
 
-[6] (d2c) The Indian Garage Co growth tapers down in FY26
-    D2C fashion brand The Indian Garage Co has experienced a tapering down of its growth. The information is noted in the context of the brand's financial performance for fiscal year 2026.
-    sources: Entrackr
-
-[9] (brand-moves) India apparel's next growth test: Can scale translate into profit?
-    India's apparel sector faces a critical test regarding whether increasing scale can successfully translate into profitability. The industry must navigate strategic challenges to ensure sustainable financial growth.
-    sources: Fibre2Fashion
-
-[11] (funding) Nykaa and L’Oréal’s BOLD join to invest in Indian beauty startups
-    Nykaa and L’Oréal’s venture fund BOLD have joined hands to invest in Indian beauty startups. The partnership focuses on supporting emerging businesses in the Indian beauty sector.
-    sources: Entrackr, indianretailer.com, Moneycontrol.com
-
-[16] (funding) Nykaa and L’Oréal Venture Fund to Back Indian Beauty Entrepreneurs
-    Nykaa and the L’Oréal Venture Fund are joining forces to back Indian beauty entrepreneurs. The initiative focuses on supporting emerging businesses within the Indian beauty sector.
-    sources: WWD, CNBC TV18
-
-[17] (funding) D2C brand Unniyarcha raises Rs 10 crore in funding
-    D2C brand Unniyarcha has raised Rs 10 crore in funding. The capital will be used to expand its silver jewellery business.
-    sources: The Retail Jeweller India
-
-[19] (funding) Nykaa and L’Oréal’s BOLD partner to invest in Indian beauty brands
-    Beauty retailer Nykaa has partnered with L’Oréal’s venture capital fund BOLD. The collaboration focuses on investing in emerging Indian beauty brands.
-    sources: indianstartupnews.com, indianretailer.com
-
-[26] (retail) Veil of Veda expands beauty portfolio
-    Veil of Veda is expanding its beauty portfolio with the introduction of Glow Drops and Lip Veil. The development marks a new addition to the brand's existing product offerings.
-    sources: indianretailer.com
-
 [29] (funding) Omara Ventures India Limited Announces SME IPO
     Omara Ventures India Limited has announced its SME IPO details, amounting to ₹41.99 Crore. The public offering is scheduled to begin on September 30, 2026, accompanied by the Red Herring Prospectus (RHP).
     sources: Moneycontrol.com
-
-[31] (retail) Cantabil Retail Continues Footprint Expansion
-    Cantabil Retail is continuing its footprint expansion following sustained store openings. The company is growing its physical retail presence through ongoing store launches.
-    sources: Sahi
-
-[32] (retail) SNITCH Expands Northeast Presence With New Dimapur Store
-    SNITCH has expanded its presence in the Northeast with the opening of a new store in Dimapur. The store opening marks a new retail expansion for the brand in the region.
-    sources: Apparel Resources, Apparel Resources
-
-[33] (retail) Miraggio Opens New Fashion Accessories Store in Vashi
-    Miraggio has opened a new fashion accessories store in Vashi, India. The retail expansion adds to the brand's physical presence in the Indian market.
-    sources: Indian Retailer
-
-[34] (retail) Off-White launches third India store at Quest Mall, Kolkata
-    Off-White has launched its third store in India. The new retail location is situated at Quest Mall in Kolkata.
-    sources: India Retailing
-
-[35] (retail) Pepe Jeans London opens three upgraded stores in Bengaluru
-    Pepe Jeans London has opened three upgraded stores in Bengaluru. The expansion focuses on enhancing the retail footprint of the brand in the city.
-    sources: ET Retail
-
-[36] (retail) Pepe Jeans opens three Bengaluru stores and plans expansion
-    Pepe Jeans has opened three new stores in Bengaluru. The brand also has plans to open 100 more stores across India.
-    sources: Fibre2Fashion, Fibre2Fashion
-
-[37] (retail) Van Heusen opens new store in Anna Nagar, Chennai
-    Van Heusen has expanded its retail presence in Chennai by opening a new store in Anna Nagar. The launch adds to the brand's physical retail footprint in the region.
-    sources: IFAB MEDIA
-
-[38] (retail) Fabletics Opens First India Store with Reliance Brands
-    Fabletics has opened its first store in India. The expansion is done in partnership with Reliance Brands.
-    sources: Rediff MoneyWiz
-
-[39] (retail) Value fashion to drive growth for organized apparel retailers
-    Value fashion is expected to drive 12 to 13 percent growth for organized apparel retailers. The sector's expansion is closely tied to this segment.
-    sources: Indian Retailer
-
-[40] (retail) Off-White Opens Third Store in India at Kolkata
-    Off-White has opened its third store in India located in Kolkata. The new location expands the brand's retail presence within the country.
-    sources: Indian Retailer
-
-[41] (retail) La Martina Opens New Store at Ambience Mall
-    La Martina has opened a new store at Ambience Mall. The announcement highlights the brand's retail expansion in the market.
-    sources: Indian Retailer
-
-[42] (retail) SleepyCat Opens Its 50th Store in Gurugram
-    SleepyCat has unveiled its 50th store in Gurugram. The milestone marks the expansion of the brand's retail presence.
-    sources: Indian Retailer
-
-[43] (retail) The Souled Store opens new retail store in Jamshedpur
-    The Souled Store has expanded its retail presence by opening a new store in Jamshedpur, Jharkhand. The opening marks the brand's latest retail expansion effort.
-    sources: Indian Retailer
-
-[44] (retail) Off-White Expands India Retail Footprint with Kolkata Store
-    Off-White has expanded its retail footprint in India by opening a new store in Kolkata. The development marks the brand's continued retail growth within the Indian market.
-    sources: Indian Retailer
-
-[45] (retail) Tier-II, III Cities and Omnichannel Drive India's Menswear Growth
-    India's menswear market is experiencing growth driven by tier-II and tier-III cities as well as omnichannel strategies. The expansion highlights shifting consumer reach and retail approaches in the country's fashion sector.
-    sources: Indian Retailer
-
-[46] (d2c) Bewakoof Records Revenue Growth in FY26
-    D2C fashion brand Bewakoof has recorded a 40 percent revenue growth in FY26. The text reports the financial milestone achieved by the brand during this period.
-    sources: Indian Retailer
