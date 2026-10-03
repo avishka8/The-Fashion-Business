@@ -1,3 +1,31 @@
+[145] (retail) V-Mart Retail Q2 FY27 Revenue Up 18% to ₹953 Crore
+    V-Mart Retail reported an 18 percent increase in revenue to ₹953 crore for the second quarter of fiscal year 2027. The company's total store count reached 613 during this period.
+    sources: Sahi
+
+[146] (brand-moves) QWEEN targets Rs 100 crore revenue and expansion
+    Backed by Rosy Blue and Kashikey, QWEEN is targeting Rs 100 crore in revenue. The company is currently gearing up for business expansion.
+    sources: ETRetail.com
+
+[148] (funding) Aman Gupta invests in FIG Living
+    Aman Gupta has invested in FIG Living. The brand is targeting expansion beyond lighting.
+    sources: Indian Retailer
+
+[151] (d2c) Inside The Bear House's Bet on India's Changing Officewear Culture
+    The article discusses The Bear House and its strategy regarding India's evolving officewear culture. It examines the brand's approach to capturing this market segment.
+    sources: Indian Retailer
+
+[155] (textiles) Textiles Sector Report: Stable US/EU Retail Growth
+    A textiles sector report by Motilal Oswal Financial Services Ltd highlights stable US and EU retail growth. Additionally, 2H imports are expected to improve.
+    sources: Investment Guru India
+
+[156] (textiles) Indiahandmade transforms India's craft economy
+    Indiahandmade is working to transform India's craft economy by integrating traditional weaving with the digital age. The initiative focuses on supporting artisans and traditional craft sectors through digital platforms.
+    sources: DD News
+
+[157] (textiles) Pochampally Ikat products get QR-code tags
+    Pochampally Ikat products are now being tagged with QR codes. This measure provides authentication and details regarding the products.
+    sources: Hyderabad Mail
+
 [116] (retail) Crocs Expands Gujarat Retail Presence With New Bhuj Store
     Footwear brand Crocs has expanded its retail presence in Gujarat by opening a new store in Bhuj. The new outlet aims to increase the brand's accessibility in the region.
     sources: IFAB MEDIA
@@ -12,7 +40,7 @@
 
 [131] (textiles) LG Sinha comments on the artistry of weavers and craftswomen
     Lieutenant Governor Sinha stated that the true prosperity of a society is reflected in the artistry of its weavers and craftswomen. The text highlights the importance of these artisans without providing additional business metrics or details.
-    sources: The Kashmir Horizon
+    sources: The Kashmir Horizon, Cross Town News
 
 [133] (fashion-week) Lakme Fashion Week and FDCI to stage Delhi 2026 edition
     Lakme Fashion Week and FDCI have announced they will stage their Delhi 2026 edition. The event is scheduled to take place from October 13 to 18.
@@ -44,7 +72,7 @@
 
 [56] (d2c) Jaipur Kurti Enters Its Next Growth Chapter
     The brand Jaipur Kurti, rooted in Jaipur, is expanding its presence across India. The company has entered its next growth chapter.
-    sources: Ahmedabad Mirror, NewsX
+    sources: Ahmedabad Mirror, NewsX, outlookbusiness.com
 
 [60] (funding) Bangalore Watch Company raises USD 1.4 million seed round
     Bangalore Watch Company has raised a USD 1.4 million seed round from its customers. The brand is using the funding to eye global expansion.
@@ -100,7 +128,7 @@
 
 [81] (d2c) Bewakoof's FY26 revenue and losses
     Bewakoof recorded a 40% jump in revenue to Rs 243 Cr in FY26. During the same period, its losses rose by 19%.
-    sources: Entrackr, Apparel Resources
+    sources: Entrackr, Apparel Resources, Apparel Resources
 
 [84] (retail) Nykaa Fashion launches Hidden Gems accelerator
     Nykaa Fashion has launched the Hidden Gems accelerator program. The initiative offers zero commission for six months.
