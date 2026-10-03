@@ -1,3 +1,11 @@
+[160] (funding) India Startup Funding Rounds and Trends for 2026
+    This article discusses the latest funding rounds, trends, and news regarding startups in India for the year 2026. It provides an overview of the startup funding landscape.
+    sources: Tracxn
+
+[164] (textiles) Cotton yarn prices dip in north India
+    Cotton yarn prices have dipped in north India due to weakness in the market. The snippet reports on the market conditions affecting cotton yarn in the region.
+    sources: Fibre2Fashion
+
 [145] (retail) V-Mart Retail Q2 FY27 Revenue Up 18% to ₹953 Crore
     V-Mart Retail reported an 18 percent increase in revenue to ₹953 crore for the second quarter of fiscal year 2027. The company's total store count reached 613 during this period.
     sources: Sahi
@@ -184,7 +192,7 @@
 
 [104] (textiles) India-EU FTA and Tirupur apparel exports potential
     The text discusses whether the proposed India-EU Free Trade Agreement can help Tirupur double its apparel exports to $4 billion. It focuses on the potential trade and export implications for the region.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [112] (textiles) South Indian cotton yarn remains weak, prices down in Mumbai
     South Indian cotton yarn continues to remain weak in the market. Consequently, cotton yarn prices have decreased in Mumbai.
