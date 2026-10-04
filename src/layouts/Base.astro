@@ -12,6 +12,8 @@ const { title = "The Fashion Business" } = Astro.props;
 <body>
   <header class="nav">
     <a class="logo" href="/"><img src="/img/logo-wing.png" alt="" onerror="this.style.display='none'" /><span>TFB</span></a>
+    <input type="checkbox" id="menu" hidden />
+    <label for="menu" class="burger" aria-label="Menu"><span></span></label>
     <nav>
       <a href="/#home">home</a><a href="/#newsletter">newsletter</a><a href="/#news">news list</a><a href="/article">article</a><a href="/#contact">contact</a>
     </nav>
@@ -22,6 +24,7 @@ const { title = "The Fashion Business" } = Astro.props;
   <script>
     const io = new IntersectionObserver((es) => es.forEach((e) => e.isIntersecting && (e.target.classList.add("in"), io.unobserve(e.target))), { threshold: 0.12 });
     document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
+    document.querySelectorAll(".nav nav a").forEach((a) => a.addEventListener("click", () => ((document.getElementById("menu") as HTMLInputElement).checked = false)));
   </script>
 </body>
 </html>
@@ -57,5 +60,15 @@ const { title = "The Fashion Business" } = Astro.props;
   footer { background:#000; color:#bbb; display:flex; justify-content:space-between; flex-wrap:wrap; gap:8px; padding:22px 6vw; font-size:.85rem }
   input, textarea { width:100%; font:inherit; padding:12px 14px; border:1px solid #cfc7bb; background:#fff; outline:0; transition:border .2s }
   input:focus, textarea:focus { border-color:#000 }
-  @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto } .reveal { opacity:1; transform:none; transition:none } }
+  .burger { display:none }
+  @media (max-width:760px) {
+    .nav { display:flex; justify-content:space-between }
+    .burger { display:block; order:3; width:28px; height:20px; position:relative; cursor:pointer }
+    .burger::before, .burger::after, .burger span { content:""; position:absolute; left:0; right:0; height:2px; background:#fff }
+    .burger::before { top:0 } .burger span { top:9px } .burger::after { bottom:0 }
+    .join { order:2; margin-left:auto; margin-right:18px }
+    .nav nav { display:none; position:absolute; top:64px; left:0; right:0; flex-direction:column; gap:0; background:#000; padding:6px 6vw 16px; border-top:1px solid #222 }
+    #menu:checked ~ nav { display:flex }
+    .nav nav a { padding:14px 0; border-bottom:1px solid #1c1c1c; font-size:1.1rem }
+  }
 </style>

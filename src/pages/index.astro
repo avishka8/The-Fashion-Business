@@ -131,6 +131,13 @@ const title = "The Fashion Business";
   @keyframes curtain { to { transform:translateY(-100%); visibility:hidden } }
   .hero-in > * { animation:fadeup 1s 3.5s both } .skip-intro .hero-in > * { animation-delay:0s }
   @keyframes fadeup { from { opacity:0; transform:translateY(18px) } }
-  @media (max-width:800px) { .split { grid-template-columns:1fr } .flower { opacity:.5 } .intro-title { white-space:normal } }
-  @media (prefers-reduced-motion:reduce) { #intro { display:none } .hero-in > * { animation:none } }
+  @media (max-width:600px) {
+    .hero { min-height:calc(100svh - 64px) }
+    .hero h1 { font-size:clamp(2.1rem,10.5vw,3rem); margin-bottom:26px }
+    .wing-slot { height:40px } .wing-slot img { max-height:40px; max-width:80vw }
+    .flower { width:46vw !important; opacity:.4 }
+    .section { padding-block:64px }
+    .week { padding:36px 20px } .wt { margin:26px 0 32px }
+    .card { padding:22px }
+  }
 </style>
