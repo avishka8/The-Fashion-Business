@@ -1,174 +1,162 @@
+<div align="center">
+
 # The Fashion Business
 
-An automated news engine for **the business of fashion in India**: funding, retail, D2C, textiles and exports, fashion-week commerce, policy and brand strategy. No celebrity or red-carpet content.
+**Business news for Indian fashion. Automated, ad-free, and built to be read.**
 
-A scheduled GitHub Actions job collects stories, filters out what is off-topic, groups duplicates, writes short factual summaries with a free AI model, and publishes the result as plain JSON files that any frontend can read. It runs every 4 hours without anyone touching it.
+[**Live site → the-fashion-business.vercel.app**](https://the-fashion-business.vercel.app/)
 
-> **Status:** backend complete and running in the cloud. The frontend (planned: Astro, deployed free on Vercel) and the hand-written sections (weekly "global influence" features, Indian brand histories) are the next phase.
+Astro · Python · GitHub Actions · Gemini · Vercel
+
+</div>
 
 ---
+
+## The idea
+
+Indian fashion is a large, fast-moving industry: D2C brands raising rounds, legacy houses opening stores in tier-II cities, handloom clusters, export numbers, wedding-season economics. Most coverage of it is celebrity-led or locked inside trade magazines.
+
+**The Fashion Business** covers the *business* of Indian fashion only: funding, retail, D2C, textiles and exports, fashion-week commerce, policy and brand strategy. No red carpets, no outfit galleries.
+
+It has two layers:
+
+- **Automated news.** A pipeline finds, filters, groups and summarises stories every 4 hours, with no one at a keyboard.
+- **Editorial.** A weekly long-form article and, later, deep histories of Indian brands, written by a human.
+
+> **Status:** early stage, live and updating. The news engine and website are complete; accounts, the newsletter and brand histories are next.
+
+## What's live
+
+- **Landing page** with an animated intro and a premium editorial design.
+- **News list** fed by the pipeline, with source links on every story.
+- **Article of the Week**, a dedicated long-form reading page.
+- **Newsletter, contact and Join pages** (see "Not built yet" for what is still a mockup).
+- **Fully responsive**, with a mobile menu.
+- **Self-updating:** each time the pipeline publishes, the site rebuilds and redeploys on its own.
 
 ## How it works
 
 ```
- Google News RSS feeds  ──►  keyword filter  ──►  duplicate grouping  ──►  AI summary
- (sources.yaml)              (block celebrity)    (similar headlines       (relevance, category,
-                                                   become one story)        brands, headline, summary)
-                                                                                  │
- content/news/*.json  ◄──  approve / auto-publish  ◄──  draft  ◄─────────────────┘
- content/drafts.txt        (data/decisions.json)
+ News feeds ─► keyword filter ─► duplicate grouping ─► AI summary ─► review / auto-publish
+ (RSS)         (no celebrity)    (same story, many      (headline,     (data/decisions.json)
+                                  outlets = one)         category,            │
+                                                         brands)              ▼
+ Visitors ◄─ Vercel ◄─ Astro site ◄─ content/news/*.json ◄─ commit by news-bot
 ```
 
-1. **Collect:** reads the RSS feeds in `sources.yaml`.
-2. **Filter:** drops celebrity items by keyword before any AI cost is spent. Topic-scoped feeds are marked `trust_query: true`, so the AI judges their relevance.
-3. **Group:** headlines at least 72% similar are merged into one story with several source links.
-4. **Summarise:** the AI sees only the feed headline and snippet. It decides relevance, assigns one of 8 categories, extracts brand names, and writes a neutral headline and a 2 to 3 sentence summary.
-5. **Publish:** stories start as drafts. Approve them by id in `data/decisions.json`, or let chosen categories publish automatically with `FB_AUTO_PUBLISH`.
-6. **Export:** published stories are written to `content/news/`, one JSON file per story plus `index.json`.
+1. **GitHub Actions** wakes up every 4 hours and runs the Python pipeline.
+2. The pipeline **collects** headlines from Google News RSS searches, **filters** off-topic items, **groups** near-duplicates, and asks **Gemini** (free tier) to judge relevance and write a short, neutral summary.
+3. Stories wait as drafts, or publish straight away for categories you choose. Approvals are a JSON file you can edit from your phone.
+4. The bot commits the results to this repo. **Vercel** sees the commit and redeploys the **Astro** site.
 
-Story statuses: `draft`, `published`, `rejected`, `merged` (folded into another story) and `irrelevant` (rejected by the AI, remembered so it isn't reprocessed).
+Summaries use only the headline and snippet, never the full article, and every story links back to its sources.
 
----
+## Tech stack
+
+| Layer | Choice | Why |
+|---|---|---|
+| Website | Astro | Fast static output, reads the pipeline's JSON and Markdown directly |
+| Hosting | Vercel (free) | Auto-deploys on every commit |
+| Pipeline | Python, SQLite, `feedparser` | Small, readable, no server to run |
+| Scheduling | GitHub Actions | Free cloud cron; state is saved back to the repo |
+| AI | Gemini free tier (Ollama or Anthropic optional) | Zero cost; provider is a setting, not a rewrite |
 
 ## Project structure
 
 ```
 The Fashion Business/
-├── .github/workflows/news.yml   # cloud schedule: runs every 4 hours (UTC) and on demand
+├── src/                          # the website
+│   ├── layouts/Base.astro        # nav, footer, fonts, global styles
+│   ├── pages/
+│   │   ├── index.astro           # home, newsletter, news list, contact (one scrolling page)
+│   │   ├── article.astro         # article page, likes and comments
+│   │   └── join.astro            # log in / sign up
+│   └── articles/weekly.md        # the weekly article, written in Markdown
+├── public/img/                   # logo wing and flower artwork
 ├── content/
-│   ├── drafts.txt               # readable list of drafts waiting for review (generated)
-│   └── news/
-│       ├── index.json           # all published stories, newest first (frontend reads this)
-│       └── <id>-<slug>.json     # one file per published story
+│   ├── drafts.txt                # drafts waiting for review (generated)
+│   └── news/                     # published stories as JSON (generated, read by the site)
 ├── data/
-│   ├── decisions.json           # you edit this: {"approve": [3, 5], "reject": [4]}
-│   ├── fashion.sql              # text copy of the database, committed so state survives between runs
-│   └── fashion.db               # local SQLite database (git-ignored)
-├── pipeline.py                  # collect, filter, group, summarise, review, export
-├── ci.py                        # glue for the cloud run: restore state, apply decisions, save state
-├── sources.yaml                 # feeds and keyword filters
-├── requirements.txt
-├── .env.example                 # template for local settings
-└── .gitignore
+│   ├── decisions.json            # approve / reject stories by id
+│   ├── fashion.sql               # pipeline state, saved as text between runs
+│   └── fashion.db                # local database (git-ignored)
+├── .github/workflows/news.yml    # the 4-hourly cloud schedule
+├── pipeline.py                   # collect, filter, group, summarise, export
+├── ci.py                         # cloud glue: restore state, apply decisions, save state
+├── sources.yaml                  # feeds and keyword filters
+├── package.json, astro.config.mjs, tsconfig.json
+└── requirements.txt
 ```
 
----
+## Run it yourself
 
-## Run it in the cloud (GitHub Actions)
+**Website**
 
-1. Push this repo to GitHub.
-2. Add your AI key: **Settings → Secrets and variables → Actions → New repository secret**, named `GEMINI_API_KEY`.
-3. Allow the bot to commit: **Settings → Actions → General → Workflow permissions → Read and write**.
-4. Open the **Actions** tab, choose **News pipeline**, and click **Run workflow** to test it. After that it runs every 4 hours.
-
-Each run restores state from `data/fashion.sql`, applies your decisions, processes new items, saves state again, and commits the changes back to the repo as `news-bot`.
-
-### Reviewing stories (works from a phone, no terminal)
-
-1. Read `content/drafts.txt` on GitHub. Each draft has an id, category, headline, summary and sources.
-2. Edit `data/decisions.json` with the pencil icon:
-   ```json
-   {"approve": [3, 5], "reject": [4]}
-   ```
-3. Commit. The next run applies it (or start a run manually from the Actions tab).
-
-Decisions are re-applied on every run, which is harmless: only drafts can change status.
-
-### Skipping review
-
-Add `FB_AUTO_PUBLISH` to the workflow's `env:` to publish categories immediately:
-
-```yaml
-FB_AUTO_PUBLISH: "fashion-week,textiles,retail,d2c,policy,other-business"
+```bash
+npm install
+npm run dev          # http://localhost:4321
+npm run build        # production build
 ```
 
-I recommend keeping `funding` and `brand-moves` on manual review, since a wrong number there hurts credibility most.
-
----
-
-## Run it locally
+**News pipeline** (needs a free key from [Google AI Studio](https://aistudio.google.com))
 
 ```bash
 python -m venv .venv
-source .venv/Scripts/activate        # Git Bash on Windows; on macOS/Linux: source .venv/bin/activate
+source .venv/Scripts/activate        # macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env                 # then put your key in .env
+cp .env.example .env                 # add GEMINI_API_KEY inside
+python pipeline.py run
 ```
 
-```bash
-python pipeline.py run               # fetch, filter, group, summarise, export
-python pipeline.py review            # list drafts
-python pipeline.py approve 3 5       # publish drafts by id
-python pipeline.py reject 4          # discard drafts
-python ci.py before                  # rebuild the local database from data/fashion.sql
-python ci.py after                   # save state and refresh content/drafts.txt
+**In the cloud:** add `GEMINI_API_KEY` as a repository secret, set Workflow permissions to *Read and write*, and run **News pipeline** from the Actions tab. Connect the repo to Vercel to deploy the site.
+
+### Reviewing stories
+
+Read `content/drafts.txt`, then edit `data/decisions.json` on GitHub (works from a phone):
+
+```json
+{"approve": [3, 5], "reject": [4]}
 ```
 
-The cloud is the source of truth. Before working locally, run `git pull`; to rebuild your local database, delete `data/fashion.db` and run `python ci.py before`.
+To publish whole categories automatically, set `FB_AUTO_PUBLISH` in `.github/workflows/news.yml`, for example `"fashion-week,textiles,retail"`. Keep `funding` on manual review, since a wrong number there hurts credibility most.
 
----
-
-## AI providers (free by default)
-
-| `FB_PROVIDER` | Cost | Setup |
-|---|---|---|
-| `gemini` (default) | Free tier | Key from Google AI Studio in `GEMINI_API_KEY` |
-| `ollama` | Free, runs locally | Install Ollama, `ollama pull llama3.2`, set `FB_PROVIDER=ollama` |
-| `anthropic` | Paid | `pip install anthropic`, set `ANTHROPIC_API_KEY` and `FB_PROVIDER=anthropic` |
-
-Free tiers have per-minute and per-day limits that the provider can change; check your live quota in AI Studio. The pipeline waits between calls, retries once on a rate limit, and stops with a clear message if the key, quota or model name is wrong.
-
-## Settings
-
-Set as environment variables, in `.env` locally or in the workflow's `env:` in the cloud.
+### Settings
 
 | Variable | Default | Purpose |
 |---|---|---|
 | `GEMINI_API_KEY` | none | Key for the default provider |
 | `FB_PROVIDER` | `gemini` | `gemini`, `ollama` or `anthropic` |
-| `FB_MODEL` | per provider | Override the model name (default `gemini-flash-lite-latest`) |
-| `FB_MAX_LLM_CALLS` | `40` (workflow uses 60) | Cap on AI calls per run |
-| `FB_CALL_DELAY` | `6` | Seconds between AI calls (keeps free tiers under their rate limit) |
+| `FB_MODEL` | per provider | Override the model name |
+| `FB_MAX_LLM_CALLS` | `40` (workflow: 60) | Cap on AI calls per run |
+| `FB_CALL_DELAY` | `6` | Seconds between calls, to respect free-tier limits |
 | `FB_AUTO_PUBLISH` | empty | Categories that skip review |
-
-Categories: `funding`, `retail`, `d2c`, `textiles`, `fashion-week`, `policy`, `brand-moves`, `other-business`.
-
----
 
 ## Design decisions
 
-- **Headline-only summaries.** The pipeline never fetches full articles. It summarises the headline and snippet in its own words and links every story to its sources. This keeps it clear of copying publishers' work.
-- **State as a text dump.** A cloud runner forgets everything between runs. Committing a binary SQLite file would bloat the repo, so `ci.py` saves a text dump (`data/fashion.sql`) that git stores compactly, and rebuilds the database from it at the start of each run.
+- **Headline-only summaries** keep the site clear of copying publishers' articles.
+- **State as a text dump.** A cloud runner forgets everything between runs, and a binary database would bloat git. A text dump stays small and diff-friendly.
 - **Review without a server.** Decisions are a JSON file edited in the GitHub web UI, so there is no admin panel to host or secure.
-- **Idempotent and bounded.** Seen links are never reprocessed, decisions can be re-applied safely, and a per-run call cap plus a fatal-error stop keep a bad key or quota from burning through requests.
-- **Provider-agnostic AI step.** One `complete(prompt)` function per provider, using only the standard library for HTTP, so switching models is a setting, not a rewrite.
+- **Bounded and safe to re-run.** Seen links are never reprocessed, a per-run call cap limits cost, and a bad key stops the run immediately.
 
-## Limitations
+## Not built yet (honest status)
 
-- Google News snippets are just the headline, so summaries are short and can only restate what the headline says.
-- AI summaries can still be vague or occasionally wrong. Spot-check them, especially anything with numbers.
-- Google News RSS is convenient for building. For a commercial launch, use publisher feeds whose terms you have checked, or a licensed news API, and add them to `sources.yaml`.
-- Feeds carry no usable images. The frontend should not rely on photos for news cards.
-
-## Troubleshooting
-
-| Symptom | Cause and fix |
-|---|---|
-| `analysis failed: ... credit balance` | The provider has no credit. Use the free Gemini provider or add credit. |
-| `model '...' was not found` | Set `FB_MODEL` to a model name your provider lists. |
-| `rate limited; waiting 30s` | Normal on free tiers. Raise `FB_CALL_DELAY` if it repeats. |
-| `git add .` hangs and mentions `.venv` | `.gitignore` is missing or misnamed. Fix it, then `git rm -r --cached .venv`. |
-| Cloud run fails with `pathspec 'data/fashion.sql' did not match` | `ci.py` is empty or wasn't pushed. Check `wc -l ci.py`. |
-| Actions tab shows the file path instead of "News pipeline" | `news.yml` has a syntax error (usually indentation). Open the failed run for the message. |
-| Approved stories still appear in `drafts.txt` | Decisions apply at the start of a run and the list refreshes at the end. Start a run manually. |
-| Never commit `.env` | If a key was ever pushed, delete it at the provider and create a new one. |
+- **Accounts.** The Join page is a working interface, but nothing is saved yet. Real log-in and newsletter sign-up need a backend such as Supabase.
+- **Likes and comments** are stored in the visitor's own browser until accounts exist.
+- **Contact form** opens the visitor's email app rather than sending a message.
+- **Better source feeds.** Google News RSS gives headlines only. A commercial launch should use publisher feeds with checked terms, or a licensed news API.
 
 ## Roadmap
 
-- [x] Collect, filter, group, summarise, review, export
-- [x] Free AI provider with automatic cloud schedule
-- [ ] `brands.json`: stories grouped by brand
-- [ ] Markdown formats for the weekly "global influence" feature and brand histories
-- [ ] Frontend (Astro) deployed on Vercel
-- [ ] Weekly newsletter digest
+- [x] Automated news pipeline, running in the cloud
+- [x] Website live on Vercel with auto-deploy
+- [x] Mobile layout and menu
+- [ ] Sharper duplicate grouping and stricter topic filter
+- [ ] Real accounts and newsletter subscriptions (Supabase)
+- [ ] Weekly email digest
+- [ ] Brand pages and Indian brand histories
+- [ ] "Global influence" series: global fashion that borrowed from India
 - [ ] Direct publisher feeds for richer summaries
+
+## Author
+
+Built by **Avishka Srivastava**.
