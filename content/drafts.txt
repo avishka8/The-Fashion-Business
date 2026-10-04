@@ -1,3 +1,19 @@
+[186] (funding) Indian Startups Raise Over $473 Million in Funding
+    Between September 28 and October 03, 2026, 21 Indian startups from various sectors raised over $473 million from investors. The funded sectors include Beauty, Healthtech, Fintech, Proptech, Luxury, Pharma, AI, Consumertech, Martech, and EV.
+    sources: instagram.com
+
+[189] (funding) RK Fashion Accessories IPO Opens October 5
+    RK Fashion Accessories has announced that its initial public offering will open on October 5. The price band for the offering has been set at Rs. 77 to 82.
+    sources: Dalal Street Investment Journal
+
+[193] (textiles) Industrial production data shows growing gap in manufacturing
+    Recent industrial production data highlights a widening gap between the manufacturing of textiles and apparel. The figures point to divergent growth trajectories within these two interconnected sectors.
+    sources: MillenniumPost
+
+[194] (textiles) Textile Output Rises While Apparel Production Falls
+    Textile output saw an increase of 13.1 percent in August. During the same period, apparel production experienced a decline of 7.4 percent.
+    sources: BW Businessworld
+
 [179] (retail) Nykaa reports Q2FY27 results with strong growth
     Nykaa announced its Q2FY27 financial results, highlighting Gross Merchandise Value growth in the early thirties. Additionally, the company reported a net revenue increase of 29 percent.
     sources: scanx.trade
@@ -180,7 +196,7 @@
 
 [93] (policy) India extends RoSCTL scheme for apparel exports to Dec 31
     India has extended the RoSCTL scheme for apparel exports until December 31. The decision impacts the textiles and exports sector by maintaining support for outbound shipments.
-    sources: Fibre2Fashion, KNN India
+    sources: Fibre2Fashion, KNN India, Fibre2Fashion
 
 [95] (textiles) RoSCTL Scheme Extended for Textile Exports Until December 31
     The RoSCTL scheme for textile exports has been extended until December 31. This extension applies to the ongoing export initiatives.
