@@ -1,3 +1,15 @@
+[179] (retail) Nykaa reports Q2FY27 results with strong growth
+    Nykaa announced its Q2FY27 financial results, highlighting Gross Merchandise Value growth in the early thirties. Additionally, the company reported a net revenue increase of 29 percent.
+    sources: scanx.trade
+
+[182] (d2c) Carpediem Healthcare Launches D2C Wellness Platform
+    Carpediem Healthcare has launched a direct-to-consumer wellness platform in India. The platform expands the company's reach into the Indian market through a D2C model.
+    sources: Indian Retailer
+
+[185] (textiles) Textile output surges amid apparel production decline
+    Textile output has experienced a surge while apparel production remains in the red. The text explores the underlying factors driving this divergence between the two sectors.
+    sources: economictimes.com
+
 [170] (d2c) GoKwik and PayU Enable Multi-Brand D2C Commerce on ChatGPT
     GoKwik and PayU have enabled a multi-brand D2C commerce experience on ChatGPT. The collaboration integrates checkout and payment solutions for direct-to-consumer brands on the conversational AI platform.
     sources: fintechbiznews.com
