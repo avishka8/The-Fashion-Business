@@ -1,0 +1,51 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Join | The Fashion Business">
+  <main class="join-wrap">
+    <img class="flower" style="left:-4vw;top:14%" src="/img/flower-left.png" alt="" onerror="this.style.display='none'" />
+    <img class="flower" style="right:-4vw;bottom:6%" src="/img/flower-right.png" alt="" onerror="this.style.display='none'" />
+    <div class="jbox">
+      <p class="eyebrow">Members</p>
+      <h1 id="jt">Welcome back</h1>
+      <div class="tabs"><button id="t-in" class="on" type="button">Log in</button><button id="t-up" type="button">Sign up</button></div>
+      <form id="jform" novalidate>
+        <input id="jname" name="name" placeholder="Full name" autocomplete="name" hidden />
+        <input id="jmail" name="email" type="email" placeholder="Email" autocomplete="email" required />
+        <input id="jpass" name="password" type="password" placeholder="Password (8+ characters)" minlength="8" required />
+        <label id="jnews" class="chk" hidden><input type="checkbox" checked /> Send me the weekly newsletter</label>
+        <button class="btn" type="submit" id="jgo">Log in</button>
+        <p id="jmsg" class="mute" role="status"></p>
+      </form>
+      <p class="mute">Members can subscribe to the newsletter, like and comment on articles.</p>
+    </div>
+  </main>
+  <script>
+    const $ = (id: string) => document.getElementById(id) as HTMLElement;
+    let up = false;
+    const set = (v: boolean) => {
+      up = v;
+      $("t-in").classList.toggle("on", !v); $("t-up").classList.toggle("on", v);
+      ($("jname") as HTMLInputElement).hidden = !v; $("jnews").hidden = !v;
+      $("jt").textContent = v ? "Join The Fashion Business" : "Welcome back";
+      $("jgo").textContent = v ? "Create account" : "Log in"; $("jmsg").textContent = "";
+    };
+    $("t-in").onclick = () => set(false); $("t-up").onclick = () => set(true);
+    $("jform").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const f = e.target as HTMLFormElement;
+      if (!f.checkValidity()) { $("jmsg").textContent = "Enter a valid email and a password of 8+ characters."; return; }
+      // Accounts are not connected yet. Nothing is saved or sent.
+      $("jmsg").textContent = "Accounts open soon. Your details were not saved.";
+    });
+  </script>
+</Base>
+<style is:global>
+  .join-wrap { position:relative; min-height:calc(100vh - 64px - 70px); display:grid; place-items:center; padding:60px 6vw; overflow:hidden }
+  .jbox { position:relative; z-index:1; width:min(440px,100%); background:rgba(255,255,255,.88); border:1px solid #111; outline:1px solid #111; outline-offset:-7px; border-radius:14px; padding:44px 34px; text-align:center }
+  .jbox h1 { font-family:var(--serif); font-weight:400; font-size:2.3rem; margin:6px 0 20px }
+  .tabs { display:flex; margin-bottom:20px; border-bottom:1px solid #ddd } .tabs button { flex:1; padding:10px; background:none; border:0; border-bottom:2px solid transparent; font:inherit; cursor:pointer; color:var(--mute) }
+  .tabs .on { color:#000; border-color:#000 }
+  #jform { display:grid; gap:12px; text-align:left } #jform .btn { justify-self:stretch } .chk { font-size:.9rem; display:flex; gap:8px; align-items:center } .chk input { width:auto }
+  .jbox .mute { margin-top:12px; font-size:.82rem; color:var(--mute) }
+</style>

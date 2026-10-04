@@ -1,0 +1,61 @@
+---
+import Base from "../layouts/Base.astro";
+import { frontmatter as fm, Content } from "../articles/weekly.md";
+---
+<Base title={`${fm.title} | The Fashion Business`}>
+  <main class="art">
+    <header class="art-head">
+      <p class="eyebrow">Article of the Week</p>
+      <h1>{fm.title}</h1>
+      <div class="orn"></div>
+      <p class="dek">{fm.dek}</p>
+      <p class="by">By {fm.author} · {fm.date} · {fm.readTime}</p>
+    </header>
+    <div class="prose"><Content /></div>
+    <section class="react">
+      <button id="like" class="btn" type="button">♡ <span id="likes">0</span></button>
+      <h3>Comments</h3>
+      <form id="cform"><input id="cname" placeholder="Your name" required /><textarea id="ctext" rows="3" placeholder="Add a comment" required></textarea><button class="btn" type="submit">Post</button></form>
+      <p class="mute">Comments and likes are saved in this browser only until accounts are connected.</p>
+      <div id="clist"></div>
+    </section>
+  </main>
+  <script>
+    const K = "tfb-article";
+    const s = JSON.parse(localStorage.getItem(K) || '{"liked":false,"likes":0,"comments":[]}');
+    const save = () => localStorage.setItem(K, JSON.stringify(s));
+    const likeBtn = document.getElementById("like")!, likes = document.getElementById("likes")!, list = document.getElementById("clist")!;
+    const draw = () => {
+      likes.textContent = String(s.likes);
+      likeBtn.firstChild!.textContent = s.liked ? "♥ " : "♡ ";
+      list.innerHTML = "";
+      s.comments.forEach((c: { n: string; t: string }) => {
+        const d = document.createElement("div"); d.className = "cm";
+        const b = document.createElement("b"); b.textContent = c.n;
+        const p = document.createElement("p"); p.textContent = c.t;
+        d.append(b, p); list.append(d);
+      });
+    };
+    likeBtn.addEventListener("click", () => { s.liked = !s.liked; s.likes += s.liked ? 1 : -1; save(); draw(); });
+    document.getElementById("cform")!.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const n = (document.getElementById("cname") as HTMLInputElement).value.trim();
+      const t = (document.getElementById("ctext") as HTMLTextAreaElement).value.trim();
+      if (n && t) { s.comments.unshift({ n, t }); save(); draw(); (e.target as HTMLFormElement).reset(); }
+    });
+    draw();
+  </script>
+</Base>
+<style is:global>
+  .art { max-width:720px; margin:0 auto; padding:clamp(50px,8vw,100px) 6vw }
+  .art-head { text-align:center } .art-head h1 { font-family:var(--serif); font-weight:400; font-size:clamp(2.4rem,6vw,4rem); line-height:1.1; margin:12px 0 }
+  .dek { font-family:var(--serif); font-style:italic; font-size:1.4rem; color:#3a3631 } .by { margin-top:14px; font-size:.85rem; letter-spacing:.12em; text-transform:uppercase; color:var(--mute) }
+  .prose { margin-top:44px; font-size:1.15rem; line-height:1.85 } .prose p { margin-bottom:1.4em }
+  .prose > p:first-of-type::first-letter { float:left; font-family:var(--serif); font-size:5.2rem; line-height:.8; padding:8px 12px 0 0 }
+  .prose h2 { font-family:var(--serif); font-weight:500; font-size:2rem; margin:1.6em 0 .5em }
+  .prose blockquote { font-family:var(--serif); font-size:1.8rem; line-height:1.3; text-align:center; margin:1.8em 0; padding:1em 0; border-block:1px solid #000 }
+  .prose a { border-bottom:1px solid #000 }
+  .react { margin-top:60px; padding-top:30px; border-top:1px solid #ddd } .react h3 { margin:28px 0 12px; font-weight:600 }
+  #cform { display:grid; gap:10px } #cform .btn { justify-self:start } .mute { font-size:.8rem; color:var(--mute); margin-top:8px }
+  .cm { padding:16px 0; border-bottom:1px solid #eee } .cm p { margin-top:2px }
+</style>
