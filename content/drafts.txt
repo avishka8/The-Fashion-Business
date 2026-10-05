@@ -1,3 +1,19 @@
+[196] (d2c) Samara Roy builds brand SAMMMM
+    Samara Roy built the brand SAMMMM, reaching 1 lakh units. The text highlights her journey starting from teenage struggles.
+    sources: ascendants.in
+
+[201] (retail) Nykaa Fashion Offers Zero Commission for New Hidden Gems Brands
+    Nykaa Fashion is offering zero commission for new brands classified as Hidden Gems. The initiative is designed to support emerging brands on the platform.
+    sources: SMEStreet
+
+[207] (fashion-week) Lakmē Fashion Week X FDCI announces Grand Finale with AM.IT
+    The House of Lakmē has announced the Lakmē Fashion Week X FDCI Grand Finale featuring designer Amit Aggarwal’s pret label, AM.IT.
+    sources: Bold Outline
+
+[208] (fashion-week) Lakmē Fashion Week x FDCI 2026 Grand Finale to Feature AM.IT
+    The upcoming Lakmē Fashion Week x FDCI 2026 Grand Finale will feature the AM.IT collection. No further details about the collection were provided in the text.
+    sources: Indian Retailer
+
 [186] (funding) Indian Startups Raise Over $473 Million in Funding
     Between September 28 and October 03, 2026, 21 Indian startups from various sectors raised over $473 million from investors. The funded sectors include Beauty, Healthtech, Fintech, Proptech, Luxury, Pharma, AI, Consumertech, Martech, and EV.
     sources: instagram.com
@@ -24,7 +40,7 @@
 
 [185] (textiles) Textile output surges amid apparel production decline
     Textile output has experienced a surge while apparel production remains in the red. The text explores the underlying factors driving this divergence between the two sectors.
-    sources: economictimes.com
+    sources: economictimes.com, ET Retail
 
 [170] (d2c) GoKwik and PayU Enable Multi-Brand D2C Commerce on ChatGPT
     GoKwik and PayU have enabled a multi-brand D2C commerce experience on ChatGPT. The collaboration integrates checkout and payment solutions for direct-to-consumer brands on the conversational AI platform.
@@ -44,7 +60,7 @@
 
 [164] (textiles) Cotton yarn prices dip in north India
     Cotton yarn prices have dipped in north India due to weakness in the market. The snippet reports on the market conditions affecting cotton yarn in the region.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [145] (retail) V-Mart Retail Q2 FY27 Revenue Up 18% to ₹953 Crore
     V-Mart Retail reported an 18 percent increase in revenue to ₹953 crore for the second quarter of fiscal year 2027. The company's total store count reached 613 during this period.
@@ -104,7 +120,7 @@
 
 [138] (fashion-week) Lakmé Fashion Week Returns To Delhi
     Lakmé Fashion Week is returning to Delhi for its October edition. Designers including Manish Malhotra and Amit Aggarwal are set to participate in the event.
-    sources: News18
+    sources: News18, News18
 
 [139] (fashion-week) Lakmé 9to5 Grand Finale With Amit Aggarwal
     Lakmé hosted the 9to5 Grand Finale featuring designer Amit Aggarwal. The snippet highlights the fashion-week event.
@@ -116,7 +132,7 @@
 
 [141] (fashion-week) Lakmé Fashion Week October 2026 dates unveiled for New Delhi show
     The dates for Lakmé Fashion Week in October 2026 have been unveiled for the upcoming show in New Delhi. Further details regarding the schedule and participants were noted.
-    sources: Asianet Newsable
+    sources: Asianet Newsable, Asianet Newsable
 
 [56] (d2c) Jaipur Kurti Enters Its Next Growth Chapter
     The brand Jaipur Kurti, rooted in Jaipur, is expanding its presence across India. The company has entered its next growth chapter.
