@@ -1,3 +1,31 @@
+[283] (retail) Crocs prioritizes India with expanded retail, sourcing, and products
+    Global footwear brand Crocs has elevated India to its priority list. The company is stepping up its store presence, sourcing operations, and product offerings in the country.
+    sources: ETRetail.com
+
+[284] (retail) AK OK enters Gurugram retail market with Ambience Mall store
+    Fashion brand AK OK has expanded its retail presence by opening a new store at Ambience Mall in Gurugram. This move marks the brand's entry into the Gurugram retail market.
+    sources: Indian Retailer
+
+[285] (retail) Trent Ltd Expands Zudio and Westside Retail Network
+    Trent Ltd has expanded its retail network for both the Zudio and Westside brands. The company operates these retail chains as part of its business operations.
+    sources: Kalkine India
+
+[287] (policy) Textiles Ministry Extends RoSCTL Scheme for Apparel Exports
+    The Textiles Ministry has extended the RoSCTL scheme for apparel exports. The extension is valid till December 31.
+    sources: KNN India
+
+[290] (policy) India extends apparel export tax rebate scheme by three months
+    India has extended its apparel export tax rebate scheme by three months. The policy decision affects the textiles and export sector.
+    sources: CNBC TV18
+
+[291] (textiles) India specialty fibres rise 2-3%: Is the premium gap widening?
+    India specialty fibres have seen an increase of 2-3 percent. The text raises the question of whether the premium gap is widening in the sector.
+    sources: Fibre2Fashion
+
+[292] (textiles) Kasturi Cotton gains traction with traceability focus in India
+    Kasturi Cotton is gaining traction as India advances traceability in the textile sector. The initiative highlights the integration of traceable systems into the country's textile map.
+    sources: The Hindu
+
 [251] (d2c) Sokora by Yes Madam Expands Across D2C and Online Marketplaces
     Sokora by Yes Madam has announced an expansion across D2C channels and online marketplaces. The brand is increasing its digital retail presence to reach a wider customer base.
     sources: Indian Retailer
@@ -8,7 +36,7 @@
 
 [253] (funding) IndigoTex raises 5 crore to scale textile technologies
     IndigoTex, an IIT Delhi-originated company, has raised five crore rupees. The funding will be used to scale waterless wool finishing and textile technologies.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, Indian Startup Times, IFAB MEDIA
 
 [260] (retail) Kiaasa Retail Ltd Expands Ethnic-Wear Retail Presence
     Kiaasa Retail Ltd (BSE: 544711) is expanding its ethnic-wear retail presence across India. The company is focused on growing its footprint in the retail sector.
