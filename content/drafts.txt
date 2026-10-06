@@ -1,3 +1,11 @@
+[242] (retail) UNIQLO Expands Retail Presence in Gurugram
+    UNIQLO is expanding its retail presence by opening a larger store in Gurugram. The move highlights the brand's physical retail growth in the region.
+    sources: Indian Retailer
+
+[245] (textiles) Textiles Product Trade, Exporters and Importers
+    The text refers to textile product trade, exporters, and importers under HS Section 11. No further details are provided in the snippet.
+    sources: oec.world
+
 [213] (policy) India-US trade talks reach plateau over tariffs
     India-US trade talks have hit a plateau according to the finance minister. Existing tariffs have narrowed the room for a potential deal between the two countries.
     sources: Reuters
@@ -36,7 +44,7 @@
 
 [229] (textiles) Apparel output contracts 7.4% in August
     Apparel output contracted by 7.4% in August. During the same period, textile production experienced a growth of 13.1%.
-    sources: ET Manufacturing
+    sources: ET Manufacturing, manufacturing.economictimes.indiatimes.com
 
 [230] (textiles) Gokaldas Exports builds capacity for global apparel growth
     Gokaldas Exports is working on building capacity for the next phase of global apparel growth. The text discusses the company's focus on expansion to meet international demand.
@@ -48,7 +56,7 @@
 
 [235] (policy) Garment workers pension India: future challenges
     This text discusses the future challenges regarding the pension system for garment workers in India. It highlights policy and labor considerations within the textile and garment manufacturing sector.
-    sources: industriall-union
+    sources: industriall-union, industriall-union
 
 [239] (fashion-week) Lakmē Fashion Week returns to New Delhi
     Lakmē Fashion Week is scheduled to return to New Delhi. The event will take place from October 13 to October 18, 2026.
@@ -88,7 +96,7 @@
 
 [193] (textiles) Industrial production data shows growing gap in manufacturing
     Recent industrial production data highlights a widening gap between the manufacturing of textiles and apparel. The figures point to divergent growth trajectories within these two interconnected sectors.
-    sources: MillenniumPost
+    sources: MillenniumPost, Business Standard
 
 [194] (textiles) Textile Output Rises While Apparel Production Falls
     Textile output saw an increase of 13.1 percent in August. During the same period, apparel production experienced a decline of 7.4 percent.
