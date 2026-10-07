@@ -1,3 +1,87 @@
+[305] (textiles) Textile Recycling Manufacturing Plant Setup in India
+    A textile recycling manufacturing plant is being set up in India. The text notes the setup of this facility.
+    sources: IMARC Group
+
+[307] (d2c) aiqa enters D2C healthcare market
+    aiqa has entered the D2C healthcare market in India according to recent retail news. The company is expanding its business into this new sector.
+    sources: Indian Retailer
+
+[309] (funding) ReFit Global Raises $1 Million in Funding
+    ReFit Global has raised $1 million from a UAE family office. The funding will support expansion into India, the Gulf, and Africa.
+    sources: Indian Startup Times
+
+[310] (funding) The Dough Therapy Raises Rs 5.25 Crore Seed Round
+    The Dough Therapy has successfully raised Rs 5.25 crore in a seed funding round. The investment values the company at Rs 35 crore.
+    sources: ascendants.in
+
+[311] (retail) UNIQLO reopens expanded Ambience Mall Gurugram store
+    UNIQLO has reopened its expanded Ambience Mall Gurugram store. This marks the brand's second super large format store in India.
+    sources: IFAB MEDIA
+
+[312] (policy) India and Brazil move to expand trade pact
+    India and Brazil are moving to expand their existing trade pact beyond current tariff lines. The initiative aims to further develop bilateral trade relations between the two countries.
+    sources: Fibre2Fashion
+
+[313] (retail) Allen Solly Expands Retail Network With New Store In Bhubaneswar
+    Allen Solly has expanded its retail network by opening a new store in Bhubaneswar. The new location adds to the brand's physical retail presence.
+    sources: IFAB MEDIA
+
+[314] (retail) MUMUSO Opens New Store in Kolkata
+    MUMUSO has opened a new store in Kolkata. The announcement highlights the expansion of the brand's retail presence.
+    sources: Indian Retailer
+
+[315] (retail) The Souled Store Opens New Outlet in Mangaluru
+    The Souled Store has opened a new retail outlet in Mangaluru. The expansion adds to the brand's physical retail presence.
+    sources: Indian Retailer
+
+[317] (brand-moves) Kraus Jeans Expands Beyond Metros
+    Kraus Jeans is working on expanding its denim story beyond metropolitan areas. The brand is focusing on wider market reach.
+    sources: Indian Retailer
+
+[318] (retail) Trent Q2 FY27 Update: Westside and Zudio Store Expansion
+    Trent released its Q2 FY27 update detailing store expansions for Westside and Zudio. The report covers business developments regarding these retail brands.
+    sources: Kalkine India
+
+[319] (retail) Kapsons Strengthens Jammu & Kashmir Presence With New Srinagar Store
+    Kapsons has strengthened its presence in Jammu & Kashmir by opening a new store in Srinagar. The expansion is part of the retail brand's growth strategy in the region.
+    sources: IFAB MEDIA
+
+[320] (retail) Zudio Reaches 1000-Store Milestone with Store-Centric Strategy
+    Zudio has reached a milestone of 1000 stores through its fast-fashion model. The brand's expansion is powered by a store-centric strategy.
+    sources: Indian Retailer
+
+[321] (d2c) Kiro Beauty Targets Rs 500 Cr Revenue
+    Kiro Beauty is targeting Rs 500 crore in revenue. The brand plans to achieve this through an omnichannel approach and global expansion.
+    sources: Indian Retailer
+
+[323] (retail) Mayavé Expands Delhi NCR Presence with Five New Stores
+    Mayavé has expanded its presence in the Delhi NCR region by opening five new lab-grown diamond jewellery stores. The brand's latest retail rollout increases its footprint in the local market.
+    sources: Indian Retailer
+
+[325] (funding) Sober & Co Raises Rs 75 Lakh for Expansion
+    Sober and Co has raised Rs 75 Lakh in funding. The zero-sugar mixer brand plans to use the capital to expand its presence across India.
+    sources: Indian Retailer
+
+[326] (retail) Myntra Big Fashion Festival starts October 8
+    Myntra announced that its Big Fashion Festival will begin on October 8. The event will feature over 8 million styles.
+    sources: ETRetail.com
+
+[327] (brand-moves) Myntra promotes Shashanck Mishra to Director of brand management
+    Myntra has elevated Shashanck Mishra to the role of Director of brand management. The text provides this single executive appointment detail without additional context.
+    sources: ET BrandEquity
+
+[330] (textiles) India's DCTI focuses on textile competitiveness
+    India's DCTI held its first meeting to focus on textile competitiveness. The discussion centered on enhancing the sector's capabilities.
+    sources: Fibre2Fashion
+
+[333] (textiles) Textile Development Council Holds First Meeting
+    The Textile Development Council has held its first meeting. The meeting focused on production, exports, and competitiveness.
+    sources: KNN India
+
+[334] (textiles) Indian Textile Industry Faces a Cotton Supply Test
+    The Indian textile industry is currently facing a cotton supply test. This situation impacts the domestic textile sector.
+    sources: Urban Acres
+
 [298] (brand-moves) Titan Company Update by Motilal Oswal
     Motilal Oswal Financial Services Ltd has issued a company update regarding Titan Company. The snippet provides the title and source of the update without further details.
     sources: Investment Guru India
@@ -96,7 +180,7 @@
 
 [272] (textiles) Industry consolidation and collaboration key for Maharashtra textile exports
     Industry consolidation and collaboration are identified as key factors to boost the export competitiveness of textiles from Maharashtra.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [274] (policy) Trade barriers may impact competitiveness: World Bank
     The World Bank indicates that trade barriers implemented by developing countries could potentially hurt their competitiveness. The snippet provides no further details regarding specific sectors, regions, or companies.
