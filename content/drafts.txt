@@ -1,3 +1,11 @@
+[349] (retail) Aditya Birla Lifestyle Brands Expands Retail Network
+    Aditya Birla Lifestyle Brands Ltd has expanded its brand-led fashion retail network. The announcement reflects ongoing developments in India's fashion retail sector.
+    sources: Kalkine India
+
+[356] (textiles) Karnataka's silk town Doddaballapur loses its weaving tradition
+    The looms fell silent in Doddaballapur, a traditional silk weaving town in Karnataka. The text highlights how the town lost its long-standing weaving tradition.
+    sources: Deccan Herald
+
 [338] (d2c) New playbooks for building consumer brands in India
     The article discusses the strategies and playbooks used to scale new consumer brands in India, tracing their growth from the first sale to reaching 100 crore rupees.
     sources: Livemint
@@ -212,7 +220,7 @@
 
 [274] (policy) Trade barriers may impact competitiveness: World Bank
     The World Bank indicates that trade barriers implemented by developing countries could potentially hurt their competitiveness. The snippet provides no further details regarding specific sectors, regions, or companies.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [242] (retail) UNIQLO Expands Retail Presence in Gurugram
     UNIQLO is expanding its retail presence by opening a larger store in Gurugram. The move highlights the brand's physical retail growth in the region.
