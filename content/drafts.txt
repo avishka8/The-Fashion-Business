@@ -1,3 +1,63 @@
+[357] (funding) Zinara secures pre-seed funding led by Inflection Point Ventures
+    Zinara has raised Rs 3.61 crore in a pre-seed funding round. The investment was led by Inflection Point Ventures.
+    sources: ETRetail.com, India Retailing
+
+[358] (funding) Zinara Raises ₹3.61 Crore in Pre-Seed Funding
+    Lab-grown diamond jewellery brand Zinara has raised ₹3.61 crore in pre-seed funding. The capital was secured to support the growth and development of the brand.
+    sources: IFAB MEDIA, FashionNetwork - The World's Fashion Business News
+
+[360] (retail) Indian Fashion Brands Build Next Premium Retail Market
+    Indian fashion brands are transitioning from traditional craft to commercial enterprise to build the next premium retail market. The text highlights this shift in the business landscape of the fashion sector.
+    sources: Indian Retailer
+
+[363] (retail) Style Baazar H1 FY27 Revenue Rises 6 Pc, Store Count Reaches 283
+    Style Baazar reported a six percent increase in revenue for the first half of fiscal year 2027. The company's total store count reached 283 during this period.
+    sources: Indian Retailer
+
+[367] (retail) BLUORNG Opens New Store at Ambience Mall Vasant Kunj
+    BLUORNG has opened a new store at Ambience Mall Vasant Kunj. The new retail location expands the brand's physical presence in India.
+    sources: Indian Retailer, IFAB MEDIA
+
+[369] (retail) SEIKO Opens Standalone Watch Salon in Kolkata
+    SEIKO has strengthened its expansion in India by opening a standalone watch salon in Kolkata. This move is part of the brand's retail growth strategy in the country.
+    sources: Indian Retailer
+
+[370] (retail) Hunkemöller introduces new retail concept in Gurugram
+    Hunkemöller has introduced a new retail concept at its store located in Gurugram. The initiative focuses on the brand's physical retail presence in India.
+    sources: Indian Retailer
+
+[371] (retail) Shoppers Stop Q1FY27 Retail Expansion and Business Developments
+    Shoppers Stop has announced its retail expansion and business developments for Q1FY27. The updates cover strategic retail growth initiatives during the quarter.
+    sources: Kalkine India
+
+[372] (retail) Good Monk targets Rs 150 cr ARR this fiscal
+    Retail brand Good Monk is aiming to achieve an Annual Recurring Revenue (ARR) of Rs 150 crore during the current fiscal year. The company's business projection is a key development in the Indian retail sector.
+    sources: Indian Retailer
+
+[374] (brand-moves) Sky Gold Completes Purvi Gems Acquisition
+    Sky Gold has completed the acquisition of Purvi Gems for Rs 9 Cr. The transaction details were announced via the snippet.
+    sources: Indian Retailer
+
+[379] (retail) Trent grows 23% as India apparel exports fall 9.1%
+    Trent has recorded a 23 percent growth while India's apparel exports experienced a 9.1 percent decline. The situation raises questions about what comes next for the market.
+    sources: Fibre2Fashion
+
+[380] (textiles) India's cotton sector seeks price stability and assured supply
+    India's cotton sector is calling for measures to ensure price stability and an assured supply of material. The text highlights the strategic needs of the domestic cotton industry.
+    sources: Fibre2Fashion
+
+[381] (textiles) Technical textiles gain 6.5%: Is India missing higher value shift?
+    Technical textiles have experienced a 6.5% gain. The text questions whether India is missing out on the higher-value shift in this sector.
+    sources: Fibre2Fashion
+
+[382] (textiles) 59-point textile gap and finishing bottlenecks
+    An analysis explores whether finishing could become the next bottleneck in the textile industry due to a 59-point gap. The text questions the future impact of these finishing issues on the sector.
+    sources: Fibre2Fashion
+
+[386] (fashion-week) Lakmē and Tira to present Péro at fashion week
+    Lakmē and Tira are collaborating to present Péro as the opening show of Lakmē Fashion Week. The event is held in partnership with the FDCI.
+    sources: Apparel Views
+
 [349] (retail) Aditya Birla Lifestyle Brands Expands Retail Network
     Aditya Birla Lifestyle Brands Ltd has expanded its brand-led fashion retail network. The announcement reflects ongoing developments in India's fashion retail sector.
     sources: Kalkine India
@@ -8,7 +68,7 @@
 
 [338] (d2c) New playbooks for building consumer brands in India
     The article discusses the strategies and playbooks used to scale new consumer brands in India, tracing their growth from the first sale to reaching 100 crore rupees.
-    sources: Livemint
+    sources: Livemint, TradingView
 
 [340] (retail) Myntra announces Big Fashion Festival with AI shopping
     Myntra has announced its upcoming Big Fashion Festival, featuring AI-powered shopping features. The event is scheduled to start on October 8 at midnight across its app and other platforms.
@@ -32,7 +92,7 @@
 
 [345] (retail) Myntra Announces Return of Big Fashion Festival
     Myntra has announced the return of its Big Fashion Festival starting October 8 at midnight. The event will feature over 8 million styles, celebrity collaborations, and more than 100 new additions.
-    sources: The Economic Times
+    sources: The Economic Times, The Economic Times
 
 [305] (textiles) Textile Recycling Manufacturing Plant Setup in India
     A textile recycling manufacturing plant is being set up in India. The text notes the setup of this facility.
@@ -200,7 +260,7 @@
 
 [265] (brand-moves) SORRY SUGAR Appoints Palash Arneja as Founder and CEO
     SORRY SUGAR has appointed Palash Arneja as Founder and CEO. The appointment is intended to drive the expansion of the brand.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Startup Times
 
 [267] (retail) Myntra Big Fashion Festival returns on Oct 8
     Myntra has announced the return of its Big Fashion Festival starting October 8. The event will feature over 8 million styles, more than 100 new brand launches, and 21,000 emerging labels.
