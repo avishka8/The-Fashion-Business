@@ -1,3 +1,71 @@
+[403] (funding) DailyObjects raises ₹332 crore for retail and global expansion
+    DailyObjects has raised ₹332 crore. The funding will be used to fund retail expansion and global reach.
+    sources: India Retailing
+
+[404] (funding) DailyObjects Raises Rs 332 Cr In Series C Funding
+    DailyObjects has raised Rs 332 crore in a Series C funding round. The investment values the company at Rs 1,050 crore.
+    sources: BW Disrupt
+
+[405] (retail) V-Mart Retail Eyes Price Hike in Q3FY27 Amid Cost Pressures
+    V-Mart Retail is considering a price hike in the third quarter of fiscal year 2027. The potential price increase comes in response to ongoing cost pressures.
+    sources: Indian Retailer
+
+[407] (funding) Recur Club Announces ₹500 Crore Fund for D2C Brands
+    Recur Club has announced a ₹500 crore fund aimed at supporting D2C brands ahead of the festive season. The capital is intended to provide financial backing to these businesses during a key retail period.
+    sources: Indian Startup Times
+
+[408] (retail) Indian retailers expand physical stores
+    Indian retailers are expanding their physical store presence. This expansion occurs while digital spending is on the rise.
+    sources: Indian Television Dot Com
+
+[409] (retail) R&B Fashion Expands With Four New Stores
+    R&B Fashion has opened four new stores across Saudi Arabia, India, and Iraq. This expansion adds to the brand's retail presence in these regions.
+    sources: IFAB MEDIA
+
+[410] (retail) V-Bazaar Expands Uttar Pradesh Presence With Varanasi Store
+    V-Bazaar has strengthened its presence in Uttar Pradesh by opening a new store in Varanasi. The expansion adds to the retail footprint of the company in the region.
+    sources: Indian Retailer
+
+[411] (retail) Alternicq Partners With Pulpex for Fibre Bottles in India
+    Alternicq has partnered with Pulpex to introduce fibre bottles in the Indian market. The collaboration focuses on sustainable packaging solutions for the retail sector in India.
+    sources: Indian Retailer
+
+[412] (d2c) Jaipur Kurti Enters Next Growth Chapter Across India
+    Brand Jaipur Kurti, which is rooted in Jaipur, is expanding its presence and entering its next growth chapter across India.
+    sources: Outlook Business
+
+[413] (d2c) Dot & Key Scales Skincare Through Innovation and Omnichannel Retail
+    Dot & Key is scaling its skincare business by focusing on innovation and omnichannel retail strategies. The article discusses how the brand is growing its market presence through these methods.
+    sources: Indian Retailer
+
+[414] (d2c) D2C oil brand Gramiyaa raises Rs 18.65 Cr
+    D2C oil brand Gramiyaa has raised Rs 18.65 crore in funding. Following this investment, the valuation of the brand has reached Rs 110 crore.
+    sources: Indian Retailer
+
+[415] (retail) Snitch expands footwear portfolio with Stryker collection
+    Snitch has expanded its footwear portfolio. The brand launched the new Stryker collection.
+    sources: Indian Retailer
+
+[417] (textiles) India's garment exports fell $575 mn
+    India's garment exports experienced a decline of $575 million. The text discusses the factors that went wrong leading to this decrease in exports.
+    sources: Fibre2Fashion, Fibre2Fashion
+
+[423] (textiles) South Indian cotton yarn sees mixed trend as raw cotton costs rise
+    South Indian cotton yarn experienced a mixed trend due to rising raw cotton costs. The fluctuation in prices impacts the textile market in the region.
+    sources: Fibre2Fashion
+
+[427] (textiles) GST 2.0 Reforms Impact Odisha Weavers
+    New tax reforms under GST 2.0 are empowering 1.5 lakh weavers in Odisha. The breakthrough addresses taxation affecting the weaving sector in the region.
+    sources: Argus News English
+
+[428] (fashion-week) Lakmé Fashion Week x FDCI 2026 Dates and Designers
+    Lakmé Fashion Week x FDCI 2026 has announced its dates, participating designers, and event expectations. The snippet provides details regarding the upcoming fashion week commerce event.
+    sources: Outlook Luxe
+
+[429] (fashion-week) Lakmē and Tira to present Péro's Spring Summer 2027 collection
+    Lakmē and Tira are scheduled to present Péro's Spring Summer 2027 collection. The showcase will take place at Lakmé Fashion Week.
+    sources: IFAB MEDIA
+
 [394] (funding) Indian cabinet approves $1.04 bn SME Growth Fund
     The Indian cabinet has approved a growth fund for SMEs valued at $1.04 billion. The initiative aims to support small and medium enterprises in the country.
     sources: Fibre2Fashion
@@ -8,7 +76,7 @@
 
 [390] (brand-moves) Vani Lifestyle Expands With Baano Studio
     Vani Lifestyle is transitioning from manufacturing to building a fashion brand through the expansion of its vision with Baano Studio. The initiative highlights the company's strategic shift in the fashion sector.
-    sources: Hindustan Metro
+    sources: Hindustan Metro, Hindustan Metro
 
 [391] (textiles) Texprocil focuses on Kasturi Cotton and FTA benefits
     Texprocil is set to focus on Kasturi Cotton and the benefits of Free Trade Agreements for the textile sector. The initiative highlights strategic priorities within the textile and exports industry.
@@ -56,7 +124,7 @@
 
 [379] (retail) Trent grows 23% as India apparel exports fall 9.1%
     Trent has recorded a 23 percent growth while India's apparel exports experienced a 9.1 percent decline. The situation raises questions about what comes next for the market.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [380] (textiles) India's cotton sector seeks price stability and assured supply
     India's cotton sector is calling for measures to ensure price stability and an assured supply of material. The text highlights the strategic needs of the domestic cotton industry.
