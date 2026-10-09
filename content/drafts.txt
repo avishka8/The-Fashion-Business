@@ -1,3 +1,7 @@
+[394] (funding) Indian cabinet approves $1.04 bn SME Growth Fund
+    The Indian cabinet has approved a growth fund for SMEs valued at $1.04 billion. The initiative aims to support small and medium enterprises in the country.
+    sources: Fibre2Fashion
+
 [387] (funding) Vaibhav Vyapaar Ltd IPO Details and News
     Moneycontrol provides details regarding the Vaibhav Vyapaar Ltd IPO, including the issue date, price, lot size, and subscription news. The article outlines various information related to the upcoming initial public offering.
     sources: Moneycontrol.com
@@ -60,7 +64,7 @@
 
 [381] (textiles) Technical textiles gain 6.5%: Is India missing higher value shift?
     Technical textiles have experienced a 6.5% gain. The text questions whether India is missing out on the higher-value shift in this sector.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [382] (textiles) 59-point textile gap and finishing bottlenecks
     An analysis explores whether finishing could become the next bottleneck in the textile industry due to a 59-point gap. The text questions the future impact of these finishing issues on the sector.
@@ -136,7 +140,7 @@
 
 [314] (retail) MUMUSO Opens New Store in Kolkata
     MUMUSO has opened a new store in Kolkata. The announcement highlights the expansion of the brand's retail presence.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [315] (retail) The Souled Store Opens New Outlet in Mangaluru
     The Souled Store has opened a new retail outlet in Mangaluru. The expansion adds to the brand's physical retail presence.
@@ -176,7 +180,7 @@
 
 [327] (brand-moves) Myntra promotes Shashanck Mishra to Director of brand management
     Myntra has elevated Shashanck Mishra to the role of Director of brand management. The text provides this single executive appointment detail without additional context.
-    sources: ET BrandEquity
+    sources: ET BrandEquity, ET BrandEquity
 
 [330] (textiles) India's DCTI focuses on textile competitiveness
     India's DCTI held its first meeting to focus on textile competitiveness. The discussion centered on enhancing the sector's capabilities.
