@@ -1,3 +1,7 @@
+[442] (fashion-week) OPPO Presents Namrata Joshipura at Lakmē Fashion Week
+    OPPO presents Namrata Joshipura at Lakmē Fashion Week in partnership with FDCI. The text features no further business details or content.
+    sources: Business News This Week
+
 [430] (d2c) The D2C 50: Top 50 D2C Fashion & Lifestyle Brands of 2026
     This text provides a list of the top 50 direct-to-consumer fashion and lifestyle brands for the year 2026. No further details, facts, numbers, or company names are included in the provided snippet.
     sources: Indian Startup Times
@@ -40,7 +44,7 @@
 
 [409] (retail) R&B Fashion Expands With Four New Stores
     R&B Fashion has opened four new stores across Saudi Arabia, India, and Iraq. This expansion adds to the brand's retail presence in these regions.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [410] (retail) V-Bazaar Expands Uttar Pradesh Presence With Varanasi Store
     V-Bazaar has strengthened its presence in Uttar Pradesh by opening a new store in Varanasi. The expansion adds to the retail footprint of the company in the region.
@@ -160,7 +164,7 @@
 
 [386] (fashion-week) Lakmē and Tira to present Péro at fashion week
     Lakmē and Tira are collaborating to present Péro as the opening show of Lakmē Fashion Week. The event is held in partnership with the FDCI.
-    sources: Apparel Views
+    sources: Apparel Views, Business Upturn
 
 [349] (retail) Aditya Birla Lifestyle Brands Expands Retail Network
     Aditya Birla Lifestyle Brands Ltd has expanded its brand-led fashion retail network. The announcement reflects ongoing developments in India's fashion retail sector.
