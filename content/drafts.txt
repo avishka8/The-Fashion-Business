@@ -1,3 +1,19 @@
+[467] (retail) Baazar Style Retail H1 revenue rises 6%
+    Baazar Style Retail reported a 6 per cent rise in H1 revenue to reach Rs 964.5 crore. The company's store network expanded to reach 283 locations.
+    sources: ETRetail.com
+
+[468] (retail) UNIQLO reopens expanded Ambience Mall Gurugram store
+    UNIQLO has reopened its expanded Ambience Mall store in Gurugram. This location serves as the brand's second super large format store in India.
+    sources: IFAB MEDIA
+
+[469] (textiles) Textile output surges while apparel production declines
+    Textile output has experienced a surge, whereas apparel production remains in the red. The divergence between the two sectors highlights differing trends within the industry.
+    sources: ETRetail.com
+
+[472] (fashion-week) ORMAS Showcases Odisha Handlooms at Bhubaneswar Times Fashion Week 2026
+    ORMAS showcased Odisha handlooms at the Bhubaneswar Times Fashion Week 2026. The event highlighted traditional handloom textiles from the region.
+    sources: Pragativadi
+
 [460] (funding) Nat Habit secures Rs 142 cr funding to fuel expansion
     Nat Habit has secured Rs 142 crore in funding to fuel its expansion plans. The brand is also eyeing 60 to 70 percent revenue growth in fiscal year 27.
     sources: The Economic Times
@@ -28,7 +44,7 @@
 
 [446] (funding) DailyObjects raises Rs 332 crore in Series C
     DailyObjects has raised Rs 332 crore in a Series C funding round. The company also plans to open 150 stores over the next five years.
-    sources: ETRetail.com
+    sources: ETRetail.com, ET Retail
 
 [447] (funding) Unniyarcha Secures Rs 10 Cr From Sauce VC
     D2C silver jewellery brand Unniyarcha has secured Rs 10 crore in funding from Sauce VC. The capital will support the brand's business growth.
@@ -48,7 +64,7 @@
 
 [431] (retail) India Women Apparel Market to Reach USD 45,491.96 Million by 2032
     According to Credence Research, the India women apparel market is projected to reach USD 45,491.96 million by 2032. The research highlights the growth and future valuation of the women's apparel sector in India.
-    sources: Yahoo Finance
+    sources: Yahoo Finance, PR Newswire
 
 [433] (funding) DailyObjects Secures Rs 332 Crore in Series C Funding
     DailyObjects has raised Rs 332 crore in a Series C funding round. The fresh capital will be used to fuel its retail expansion and global ambitions.
@@ -144,7 +160,7 @@
 
 [391] (textiles) Texprocil focuses on Kasturi Cotton and FTA benefits
     Texprocil is set to focus on Kasturi Cotton and the benefits of Free Trade Agreements for the textile sector. The initiative highlights strategic priorities within the textile and exports industry.
-    sources: The Hindu
+    sources: The Hindu, The Hindu
 
 [357] (funding) Zinara secures pre-seed funding led by Inflection Point Ventures
     Zinara has raised Rs 3.61 crore in a pre-seed funding round. The investment was led by Inflection Point Ventures.
