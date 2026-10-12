@@ -1,3 +1,15 @@
+[483] (retail) Solitario Lab Grown Limited files DRHP for IPO
+    Solitario Lab Grown Limited has filed a draft red herring prospectus for an initial public offering. The company plans to use the funds raised to open 20 new retail outlets in India.
+    sources: The Retail Jeweller India
+
+[485] (retail) Baazar Style Retail opens new store in Raniganj
+    Baazar Style Retail has opened a new store in Raniganj. This opening expands the company's total retail network to 286 stores.
+    sources: Sahi
+
+[489] (textiles) Development Council for Textile Industry charts roadmap
+    The Development Council for Textile Industry has charted a roadmap aimed at fostering a competitive textile industry. The text provides this outline without including additional details, numbers, or company names.
+    sources: Apparel Views
+
 [481] (fashion-week) R|Elan and HUEMN partner for Lakmē Fashion Week 2026
     R|Elan and HUEMN have announced a partnership for a showcase at Lakmē Fashion Week 2026. The collaboration brings together the textile brand and the fashion label for the upcoming event.
     sources: Indian Retailer
@@ -20,7 +32,7 @@
 
 [469] (textiles) Textile output surges while apparel production declines
     Textile output has experienced a surge, whereas apparel production remains in the red. The divergence between the two sectors highlights differing trends within the industry.
-    sources: ETRetail.com
+    sources: ETRetail.com, Apparel Views
 
 [472] (fashion-week) ORMAS Showcases Odisha Handlooms at Bhubaneswar Times Fashion Week 2026
     ORMAS showcased Odisha handlooms at the Bhubaneswar Times Fashion Week 2026. The event highlighted traditional handloom textiles from the region.
@@ -140,7 +152,7 @@
 
 [417] (textiles) India's garment exports fell $575 mn
     India's garment exports experienced a decline of $575 million. The text discusses the factors that went wrong leading to this decrease in exports.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [423] (textiles) South Indian cotton yarn sees mixed trend as raw cotton costs rise
     South Indian cotton yarn experienced a mixed trend due to rising raw cotton costs. The fluctuation in prices impacts the textile market in the region.
