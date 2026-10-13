@@ -1,10 +1,54 @@
+[558] (brand-moves) Meena Bindra built BIBA into an Rs 800 crore fashion brand
+    Meena Bindra started the fashion brand BIBA with an Rs 8000 loan. Over time, the business grew to become an Rs 800 crore fashion brand.
+    sources: Moneycontrol.com
+
+[560] (retail) Biyani's retail legacy gets a second life
+    Biyani's retail legacy is getting a second life with backing from investor conviction. The text discusses the continuation of this retail legacy based on the provided snippet.
+    sources: Moneycontrol.com
+
+[561] (funding) Style Union seeks valuation over Rs 7,000 crore in fundraise
+    Fashion retailer Style Union is in talks with Venturi for a fresh fundraise. The company is seeking a valuation of over Rs 7,000 crore.
+    sources: Moneycontrol.com
+
+[568] (retail) Provogue Targets Rs 300 Crore Revenue and Offline Expansion
+    Provogue has announced a target of Rs 300 crore in revenue by 2027. The brand also plans to expand its offline retail presence.
+    sources: Indian Retailer
+
+[569] (retail) ASICS Opens 150th Store in India With Jaipur Outlet
+    Sportswear brand ASICS has opened its 150th store in India. The new outlet in Jaipur is also the brand's third COCO outlet in the country.
+    sources: Indian Retailer
+
+[570] (d2c) Mafatlal Industries Launches D2C Home Fashion Platform
+    Mafatlal Industries has launched a direct-to-consumer home fashion platform featuring over 400 products. The new platform expands the company's retail reach in the home fashion sector.
+    sources: Apparel Resources
+
+[571] (d2c) Mafatlal Launches Home Fashion D2C Platform
+    Mafatlal has launched a home fashion D2C platform. The initiative marks the company's entry into direct-to-consumer home fashion retail.
+    sources: Passionate In Marketing
+
+[572] (brand-moves) Niine targets Rs 1,000 crore revenue in five years
+    Hygiene brand Niine has announced a five-year growth plan with a target of reaching Rs 1,000 crore in revenue. The strategy outlines the brand's business expansion goals for the upcoming years.
+    sources: Indian Retailer
+
+[573] (textiles) DCTI 2026: Strengthening India's Textile Sector
+    The Development Council For Textile Industry (DCTI) is focusing on strengthening India's textile sector in the year 2026. The initiative involves the Development Council For Textile Industry as outlined in the provided text.
+    sources: IMPRI Impact and Policy Research Institute
+
+[574] (textiles) Textile Development Council Holds First Meeting
+    The Textile Development Council has held its first meeting. The focus of the meeting was on production, exports, and competitiveness.
+    sources: KNN India
+
+[577] (policy) Canada leads trade mission as India CEPA advances
+    Canada is leading a large trade mission to India as the Comprehensive Economic Partnership Agreement (CEPA) advances. The initiative highlights bilateral trade developments between the two nations.
+    sources: Fibre2Fashion
+
 [536] (retail) Snapdeal Reports 59 Percent Rise in Fashion Sales During Swagotsav Sale
     E-commerce platform Snapdeal announced a 59 percent increase in fashion sales during its Swagotsav Sale. The event highlighted growth in the retail sector according to the provided text.
     sources: Indian Retailer
 
 [538] (funding) Boldfit raises over Rs 400 Cr in Series B funding
     Boldfit has raised more than Rs 400 crore in a Series B funding round. The investment was led by Bharat Value Fund.
-    sources: BW Disrupt
+    sources: BW Disrupt, Apparel Resources, India Retailing
 
 [540] (funding) The Wealth Company AIF Invests Rs4 Bn in Boldfit
     The Wealth Company AIF has made an investment of Rs4 billion in Boldfit. This transaction represents a funding development within the Indian business ecosystem.
@@ -16,7 +60,7 @@
 
 [543] (retail) UK trade mission to India targets retail expansion
     A UK trade mission to India is targeting 1.32 billion dollars. The initiative aims to boost retail expansion between the two regions.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [544] (retail) Victoria’s Secret Opens First Jaipur Store
     Victoria's Secret has opened its first store in Jaipur. This expansion brings the brand's total network in India to 20 stores.
@@ -84,7 +128,7 @@
 
 [491] (funding) Nat Habit Secures Series C Funding
     Nat Habit has secured ₹142 crore in Series C funding. The round was led by Trident Growth Partners.
-    sources: India Retailing, Indian Retailer, IFAB MEDIA, Machine Maker
+    sources: India Retailing, Indian Retailer, IFAB MEDIA, Machine Maker, Indian Retailer
 
 [496] (retail) COCO LENI Opens First Gallery Space in Ahmedabad
     COCO LENI has opened its first gallery space in Ahmedabad, marking an expansion of its retail footprint. The brand continues to grow its presence in the Indian market.
