@@ -1,3 +1,31 @@
+[525] (retail) Zoori Expands Jewellery Retail via FOCO Franchise Model
+    Zoori has announced plans for jewellery retail expansion. The growth will be executed using a FOCO franchise model.
+    sources: Indian Retailer
+
+[526] (retail) Amazon Great Indian Festival Doubles Orders in 12 Hours
+    Amazon India announced that its Great Indian Festival event doubled orders in the first 12 hours compared to the previous year. The major retail milestone highlights significant early momentum for the e-commerce platform's sales event.
+    sources: Indian Retailer
+
+[527] (retail) India's Beauty Retail Boom: Is Omnichannel The Next Growth Battle?
+    The text discusses India's beauty retail boom and questions whether omnichannel is the next growth battle. No additional details are provided in the snippet.
+    sources: Indian Retailer
+
+[528] (retail) Senco Gold Reports Strong Q2 Revenue Growth
+    Senco Gold has reported strong revenue growth for the second quarter. The retail news highlights the company's financial performance during this period.
+    sources: Indian Retailer
+
+[531] (textiles) India targets $1 trillion in exports
+    India has set a target of reaching one trillion dollars in exports during the current year. The statement was made by Goyal.
+    sources: Fibre2Fashion
+
+[532] (policy) MSME Body Seeks Support Amid FTA Expansion
+    An MSME body is seeking support as India expands its Free Trade Agreement network. The text does not provide additional details regarding the specific nature of the support or the agreements.
+    sources: Construction World India
+
+[533] (textiles) Union textile minister and MP to inaugurate Dhapewada textile unit
+    Union textile minister Giriraj Singh and MP Hema Malini are scheduled to inaugurate a textile unit in Dhapewada. The event marks a significant development for the region's textile sector.
+    sources: The Times of India
+
 [490] (funding) KISAH expands men's occasionwear with Fireside Ventures funding
     Men's occasionwear business KISAH has expanded its operations with funding from Fireside Ventures. The investment is aimed at growing the men's occasionwear brand.
     sources: Indian Retailer
@@ -160,7 +188,7 @@
 
 [448] (d2c) Bewakoof FY26 Net Loss Jumps and Revenue Crosses ₹200 Cr
     Bewakoof reported a nearly 20% increase in its net loss, reaching ₹87.4 crore for FY26. During the same period, the company's revenue crossed the ₹200 crore mark.
-    sources: Dailyhunt
+    sources: Dailyhunt, Inc42
 
 [442] (fashion-week) OPPO Presents Namrata Joshipura at Lakmē Fashion Week
     OPPO presents Namrata Joshipura at Lakmē Fashion Week in partnership with FDCI. The text features no further business details or content.
