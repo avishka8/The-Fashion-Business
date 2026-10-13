@@ -1,3 +1,23 @@
+[582] (retail) Sabhyata Expands Retail Presence With New Jaipur Store
+    Sabhyata has expanded its retail presence by opening a new store in Jaipur. The brand continues to grow its brick-and-mortar footprint in India.
+    sources: Indian Retailer
+
+[584] (retail) Davaindia Opens First Airport Pharmacy Store at Kochi Airport
+    Davaindia has opened its first airport pharmacy store at Kochi Airport. This marks a new retail expansion for the brand into airport locations.
+    sources: Indian Retailer
+
+[585] (retail) Croma discusses store expansion and retail growth phases
+    Shibashish Roy discusses Croma's 570 stores, Edge, and the next phase of retail growth. The text focuses on retail expansion strategy without mentioning celebrities or style tips.
+    sources: ET Retail
+
+[588] (d2c) Lucent Innovation Launches AI Personalization for D2C Shopify Brands
+    Lucent Innovation has launched custom AI personalization solutions designed for fashion D2C brands operating on the Shopify platform. The new offerings aim to enhance the e-commerce capabilities of these businesses.
+    sources: openPR.com
+
+[591] (fashion-week) FDCI and Moscow Fashion Week bring Sergey Sysoev to Lakmē Fashion Week
+    The Fashion Design Council of India has partnered with Moscow Fashion Week to bring designer Sergey Sysoev to Lakmē Fashion Week. The collaboration is part of the ongoing exchange between the two fashion platforms.
+    sources: Business Upturn
+
 [558] (brand-moves) Meena Bindra built BIBA into an Rs 800 crore fashion brand
     Meena Bindra started the fashion brand BIBA with an Rs 8000 loan. Over time, the business grew to become an Rs 800 crore fashion brand.
     sources: Moneycontrol.com
@@ -176,7 +196,7 @@
 
 [509] (retail) Brooks Brothers Opens New Store in Patna
     Brooks Brothers has expanded its retail presence in India by opening a new store in Patna. The announcement marks a physical retail expansion for the brand in the region.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [510] (retail) COMET Opens First Store in Chennai at Express Avenue
     COMET has launched its first store in Chennai. The new retail outlet is located at Express Avenue.
