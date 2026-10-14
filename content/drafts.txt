@@ -1,3 +1,55 @@
+[592] (d2c) Inti Fashions Grows to Rs 5 Crore Brand
+    Inti Fashions has grown into a Rs 5 Crore brand. The company focuses on Indian workwear for the modern woman.
+    sources: Mid-Day
+
+[594] (brand-moves) Bangalore Watch Company Enters New York Watch Week 2026
+    Bangalore Watch Company has entered New York Watch Week 2026. The brand is participating in the watch week event.
+    sources: https://www.indiagazette.com/
+
+[597] (retail) Mokobara Opens New Retail Store in Kolkata
+    Mokobara has expanded its retail footprint by entering Kolkata with a new store. The development highlights the brand's retail growth strategy.
+    sources: Indian Retailer
+
+[600] (d2c) D2C brands set to take 30% of E-commerce
+    A new report projects a ₹72 billion opportunity by 2030. During this period, direct-to-consumer brands are expected to capture 30 percent of the e-commerce market.
+    sources: Storyboard18
+
+[601] (textiles) Indian Craft and Design Drive Growth in Home Textiles
+    Indian craft and design are driving growth within the home textiles sector. The text highlights the impact of these elements on the industry.
+    sources: Indian Retailer
+
+[602] (d2c) ShipMaxx360 Rebrands and Targets 10,000+ eCommerce Brands
+    ShipMaxx360 has unveiled a new identity as a full-stack partner for Indian eCommerce brands. The company has set a target to serve over 10,000 brands by the year 2027.
+    sources: Business Standard
+
+[605] (textiles) Apparel Manufacturing in India: Challenges and Opportunities
+    The text discusses the apparel manufacturing sector in India. It highlights various challenges and opportunities present in the industry.
+    sources: Fibre2Fashion
+
+[608] (textiles) India must leverage FTAs and textiles for exports and jobs: Goyal
+    Commerce Minister Goyal stated that India needs to leverage free trade agreements and the textiles sector to boost exports and create jobs. The focus is on expanding trade opportunities within the textile industry.
+    sources: Fibre2Fashion
+
+[611] (fashion-week) Marie-Claire Daveu on Circular Fashion at Lakmé Fashion Week
+    An interview features Marie-Claire Daveu discussing circular fashion and Kering’s Generation Award at Lakmé Fashion Week. The discussion focuses on sustainability initiatives within the fashion industry context.
+    sources: Outlook Luxe
+
+[613] (fashion-week) Pawan Sachdevaa to showcase at Lakmé Fashion Week X FDCI
+    Pawan Sachdevaa is set to present a collection aimed at recasting Indian craftsmanship for a new generation. The showcase will take place at Lakmé Fashion Week X FDCI.
+    sources: The Tribune
+
+[614] (fashion-week) Samant Chauhan and Jaisalmer showcase crafts at Lakme Fashion Week
+    Jaisalmer Crafted Bar Collectibles and Samant Chauhan celebrated Indian craftsmanship at Lakme Fashion Week. The collaboration highlighted traditional craft techniques during the fashion event.
+    sources: Investment Guru India
+
+[616] (fashion-week) Eccellenza to bring Italian fashion to Lakmē Fashion Week
+    Eccellenza – The Artisans of Italian Style is set to bring contemporary Italian fashion to Lakmē Fashion Week in partnership with the Fashion Design Council of India (FDCI).
+    sources: TheWire.in
+
+[617] (fashion-week) Ladakh Department of Industries & Commerce at Lakmē Fashion Week
+    The Department of Industries & Commerce, UT Ladakh presented 'The Fifth Season: A Fashion Story from Ladakh' at Lakmē Fashion Week. The showcase was held in partnership with the Fashion Design Council of India (FDCI).
+    sources: The Tribune
+
 [582] (retail) Sabhyata Expands Retail Presence With New Jaipur Store
     Sabhyata has expanded its retail presence by opening a new store in Jaipur. The brand continues to grow its brick-and-mortar footprint in India.
     sources: Indian Retailer
@@ -16,7 +68,7 @@
 
 [591] (fashion-week) FDCI and Moscow Fashion Week bring Sergey Sysoev to Lakmē Fashion Week
     The Fashion Design Council of India has partnered with Moscow Fashion Week to bring designer Sergey Sysoev to Lakmē Fashion Week. The collaboration is part of the ongoing exchange between the two fashion platforms.
-    sources: Business Upturn
+    sources: Business Upturn, TheWire.in
 
 [558] (brand-moves) Meena Bindra built BIBA into an Rs 800 crore fashion brand
     Meena Bindra started the fashion brand BIBA with an Rs 8000 loan. Over time, the business grew to become an Rs 800 crore fashion brand.
@@ -84,7 +136,7 @@
 
 [544] (retail) Victoria’s Secret Opens First Jaipur Store
     Victoria's Secret has opened its first store in Jaipur. This expansion brings the brand's total network in India to 20 stores.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [545] (retail) Libas to Open 9 Stores Across 5 Cities During Navratri
     Ethnic wear brand Libas is expanding its retail footprint by opening nine new stores across five cities. The store launches are scheduled to take place during the Navratri festival.
@@ -128,7 +180,7 @@
 
 [528] (retail) Senco Gold Reports Strong Q2 Revenue Growth
     Senco Gold has reported strong revenue growth for the second quarter. The retail news highlights the company's financial performance during this period.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [531] (textiles) India targets $1 trillion in exports
     India has set a target of reaching one trillion dollars in exports during the current year. The statement was made by Goyal.
@@ -140,7 +192,7 @@
 
 [533] (textiles) Union textile minister and MP to inaugurate Dhapewada textile unit
     Union textile minister Giriraj Singh and MP Hema Malini are scheduled to inaugurate a textile unit in Dhapewada. The event marks a significant development for the region's textile sector.
-    sources: The Times of India
+    sources: The Times of India, The Times of India
 
 [490] (funding) KISAH expands men's occasionwear with Fireside Ventures funding
     Men's occasionwear business KISAH has expanded its operations with funding from Fireside Ventures. The investment is aimed at growing the men's occasionwear brand.
@@ -152,7 +204,7 @@
 
 [496] (retail) COCO LENI Opens First Gallery Space in Ahmedabad
     COCO LENI has opened its first gallery space in Ahmedabad, marking an expansion of its retail footprint. The brand continues to grow its presence in the Indian market.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [497] (funding) Reliance Consumer and DailyObjects Lead Retail Funding
     Reliance Consumer and DailyObjects have led an Indian retail funding round totaling Rs 1,343 crore. The funding highlights significant investment activity in the Indian retail sector.
