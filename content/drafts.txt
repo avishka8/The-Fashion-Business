@@ -1,3 +1,23 @@
+[618] (retail) Vinod Cookware Expands Retail Presence in Hyderabad
+    Vinod Cookware has strengthened its retail presence in Hyderabad. This expansion is achieved through a partnership with Agromech.
+    sources: Indian Retailer
+
+[620] (funding) R2sportswear Plans to Raise Rs 100 Crore in FY28
+    R2sportswear is planning to raise Rs 100 crore in the financial year 2028. The funds will be utilized for expansion purposes.
+    sources: Apparel Resources
+
+[621] (retail) Marks and Spencer Opens New Store in Jaipur
+    Marks and Spencer has expanded its presence in India by opening a new store located in Jaipur. The retail development marks a new addition to the brand's physical footprint in the country.
+    sources: Indian Retailer
+
+[622] (retail) House of Quadri Opens New Jewellery Store in Banjara Hills
+    House of Quadri has opened a new jewellery store in Banjara Hills. The expansion adds to the brand's retail footprint.
+    sources: Indian Retailer
+
+[624] (retail) India's apparel market shifts rural, casual and offline
+    India's $95.7 billion apparel market is experiencing a significant tilt toward rural areas, casual wear, and offline channels. This trend highlights changing consumer preferences and retail dynamics within the country's fashion sector.
+    sources: Storyboard18
+
 [592] (d2c) Inti Fashions Grows to Rs 5 Crore Brand
     Inti Fashions has grown into a Rs 5 Crore brand. The company focuses on Indian workwear for the modern woman.
     sources: Mid-Day
@@ -20,7 +40,7 @@
 
 [602] (d2c) ShipMaxx360 Rebrands and Targets 10,000+ eCommerce Brands
     ShipMaxx360 has unveiled a new identity as a full-stack partner for Indian eCommerce brands. The company has set a target to serve over 10,000 brands by the year 2027.
-    sources: Business Standard
+    sources: Business Standard, https://www.indiagazette.com/
 
 [605] (textiles) Apparel Manufacturing in India: Challenges and Opportunities
     The text discusses the apparel manufacturing sector in India. It highlights various challenges and opportunities present in the industry.
@@ -36,7 +56,7 @@
 
 [613] (fashion-week) Pawan Sachdevaa to showcase at Lakmé Fashion Week X FDCI
     Pawan Sachdevaa is set to present a collection aimed at recasting Indian craftsmanship for a new generation. The showcase will take place at Lakmé Fashion Week X FDCI.
-    sources: The Tribune
+    sources: The Tribune, The Tribune
 
 [614] (fashion-week) Samant Chauhan and Jaisalmer showcase crafts at Lakme Fashion Week
     Jaisalmer Crafted Bar Collectibles and Samant Chauhan celebrated Indian craftsmanship at Lakme Fashion Week. The collaboration highlighted traditional craft techniques during the fashion event.
@@ -92,7 +112,7 @@
 
 [570] (d2c) Mafatlal Industries Launches D2C Home Fashion Platform
     Mafatlal Industries has launched a direct-to-consumer home fashion platform featuring over 400 products. The new platform expands the company's retail reach in the home fashion sector.
-    sources: Apparel Resources
+    sources: Apparel Resources, ET Retail
 
 [571] (d2c) Mafatlal Launches Home Fashion D2C Platform
     Mafatlal has launched a home fashion D2C platform. The initiative marks the company's entry into direct-to-consumer home fashion retail.
