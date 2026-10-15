@@ -1,3 +1,43 @@
+[697] (retail) Littlebox plans EBOs and targets Rs 1000 Cr turnover
+    Littlebox plans to open exclusive brand outlets across metros next year. The company aims to achieve a turnover of Rs 1000 Cr in 5 years.
+    sources: Indian Retailer
+
+[698] (funding) Limelight Lab Grown Diamonds raises Rs 275 cr in funding
+    Limelight Lab Grown Diamonds has raised Rs 275 cr in a funding round. The round was led by its principal promoters.
+    sources: The Retail Jeweller India
+
+[699] (retail) HEYDUDE Opens First India Store in Amritsar
+    Footwear brand HEYDUDE has opened its first store in India. The new retail location is situated at Countryside in Amritsar.
+    sources: Indian Retailer
+
+[700] (textiles) BSM India Opens Machinery Experience Store in Delhi
+    BSM India has opened a machinery experience store in Delhi. The new facility will showcase various industry machines.
+    sources: Indian Retailer
+
+[702] (d2c) Mafatlal Industries expands its D2C play
+    Mafatlal Industries is expanding its direct-to-consumer strategy with the introduction of Mafatlal Home Fashion. The text notes this expansion into the home fashion sector.
+    sources: Adgully
+
+[703] (d2c) The Evolution of India’s D2C Beauty Consumer
+    The text provides a title regarding the evolution of India's D2C beauty consumer. No additional facts, numbers, or names are included in the provided text.
+    sources: Indian Retailer
+
+[704] (brand-moves) Provogue sets a growth ambition of ₹300 crore by 2027
+    Provogue has announced an ambition to achieve ₹300 crore in growth by the year 2027. The details of this expansion plan were discussed by Pravin Prabhakar.
+    sources: Indian Retailer
+
+[705] (textiles) North Indian cotton yarn sees mixed trend
+    North Indian cotton yarn prices showed a mixed trend as raw cotton prices firmed up. Market demand remained steady for specific counts while other segments experienced varied price movements.
+    sources: Fibre2Fashion
+
+[710] (fashion-week) Péro and Barbie collaborate at Lakmé Fashion Week
+    Péro and Barbie collaborated for a presentation at Lakmé Fashion Week. The showcase celebrated a world where pink belongs to everyone.
+    sources: Outlook Luxe
+
+[713] (fashion-week) Pero opens Lakme Fashion Week 2026
+    Pero has opened Lakme Fashion Week 2026 with Barbie-inspired looks, throwing back to the 70s. The event featured collections presented under this theme.
+    sources: The Tribune
+
 [653] (funding) AdGraam raises ₹3 crore in seed funding
     AdGraam has successfully raised ₹3 crore in a seed funding round. The investment will support the company's growth and business operations.
     sources: ET Entrepreneur, Passionate In Marketing
@@ -68,7 +108,7 @@
 
 [691] (fashion-week) Péro and Barbie Collaborate at Lakmé Fashion Week
     Péro and Barbie presented a collection at Lakmé Fashion Week. The showcase emphasized playing dress-up again.
-    sources: Prestige Online - Singapore
+    sources: Prestige Online - Singapore, Prestige Online - Singapore
 
 [692] (fashion-week) Aneeth Arora presents péro at Lakme Fashion Week
     Aneeth Arora showcases the péro collection at Lakme Fashion Week. The presentation features a theme inspired by the modern man and Barbie.
