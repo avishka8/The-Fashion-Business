@@ -1,3 +1,23 @@
+[637] (retail) The Raymond Shop Expands Retail Network in Uttar Pradesh
+    The Raymond Shop is expanding its retail network by opening new stores in Uttar Pradesh. This move grows the brand's physical presence in the region.
+    sources: Indian Retailer
+
+[640] (retail) KIKO Milano Opens New Store in Mumbai
+    KIKO Milano has opened a new store at Jio World Drive in Mumbai. The brand continues its retail expansion in the region.
+    sources: Indian Retailer
+
+[642] (d2c) UPI MDR deferment provides margin relief to D2C brands for festive season
+    The deferment of UPI MDR offers margin relief to D2C brands during the festive season. This policy change impacts payment processing costs for direct-to-consumer businesses.
+    sources: The Economic Times
+
+[645] (retail) Steve Madden Opens New Store in Bathinda, Punjab
+    Steve Madden has expanded its retail presence in India by opening a new store in Bathinda, Punjab. The launch adds to the brand's growing physical footprint in the country.
+    sources: Indian Retailer
+
+[651] (fashion-week) Kering Generation Award debuts in India
+    The Kering Generation Award has made its India debut. The launch took place at Lakmé Fashion Week x FDCI 2026.
+    sources: The New Indian Express
+
 [629] (retail) Victoria’s Secret Opens First Jaipur Store at Pacific Mall
     Victoria’s Secret has opened its first store in Jaipur at Pacific Mall. The launch expands the brand's retail footprint into the Jaipur market.
     sources: Indian Retailer
@@ -24,7 +44,7 @@
 
 [621] (retail) Marks and Spencer Opens New Store in Jaipur
     Marks and Spencer has expanded its presence in India by opening a new store located in Jaipur. The retail development marks a new addition to the brand's physical footprint in the country.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [622] (retail) House of Quadri Opens New Jewellery Store in Banjara Hills
     House of Quadri has opened a new jewellery store in Banjara Hills. The expansion adds to the brand's retail footprint.
@@ -76,7 +96,7 @@
 
 [614] (fashion-week) Samant Chauhan and Jaisalmer showcase crafts at Lakme Fashion Week
     Jaisalmer Crafted Bar Collectibles and Samant Chauhan celebrated Indian craftsmanship at Lakme Fashion Week. The collaboration highlighted traditional craft techniques during the fashion event.
-    sources: Investment Guru India
+    sources: Investment Guru India, Investment Guru India
 
 [616] (fashion-week) Eccellenza to bring Italian fashion to Lakmē Fashion Week
     Eccellenza – The Artisans of Italian Style is set to bring contemporary Italian fashion to Lakmē Fashion Week in partnership with the Fashion Design Council of India (FDCI).
@@ -128,7 +148,7 @@
 
 [570] (d2c) Mafatlal Industries Launches D2C Home Fashion Platform
     Mafatlal Industries has launched a direct-to-consumer home fashion platform featuring over 400 products. The new platform expands the company's retail reach in the home fashion sector.
-    sources: Apparel Resources, ET Retail
+    sources: Apparel Resources, ET Retail, ET Retail
 
 [571] (d2c) Mafatlal Launches Home Fashion D2C Platform
     Mafatlal has launched a home fashion D2C platform. The initiative marks the company's entry into direct-to-consumer home fashion retail.
@@ -176,7 +196,7 @@
 
 [545] (retail) Libas to Open 9 Stores Across 5 Cities During Navratri
     Ethnic wear brand Libas is expanding its retail footprint by opening nine new stores across five cities. The store launches are scheduled to take place during the Navratri festival.
-    sources: Indian Retailer
+    sources: Indian Retailer, IFAB MEDIA
 
 [548] (d2c) Mafatlal Enters Online Home Furnishing Market With New D2C Platform
     Mafatlal has entered the online home furnishing market by launching a new direct-to-consumer platform. This move expands their digital presence into the home furnishing sector.
@@ -248,11 +268,11 @@
 
 [498] (funding) Boldfit Raises Rs 400 Crore From Bharat Value Fund
     Boldfit has raised Rs 400 crore from Bharat Value Fund. The capital will be used for retail expansion.
-    sources: Siliconindia
+    sources: Siliconindia, Apparel Views
 
 [499] (retail) FableStreet Expands Retail Footprint With Jaipur Store Launch
     FableStreet has marked a retail expansion milestone with the launch of a new store in Jaipur. The opening contributes to the brand's growing physical retail presence in India.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [501] (retail) V-Mart Retail Store Expansion and Value Fashion Strategy
     V-Mart Retail focuses on store expansion and its value fashion strategy. The snippet discusses the company's retail footprint and market approach.
@@ -292,7 +312,7 @@
 
 [512] (textiles) India's 10,000-crore SME fund: Can textile exporters tap it?
     The text discusses India's 10,000-crore SME fund and raises the question of whether textile exporters can access it. No further details are provided in the snippet.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [514] (textiles) Technical textiles gain 6.5%: Is India missing the higher-value shift?
     Technical textiles have gained 6.5%, prompting the question of whether India is missing out on a higher-value shift.
