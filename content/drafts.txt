@@ -1,3 +1,7 @@
+[717] (retail) PAUL India Opens New Outlet at DLF CyberHub in Gurugram
+    PAUL India has opened a new outlet at DLF CyberHub in Gurugram. The expansion adds to the brand's presence in the region.
+    sources: Indian Retailer
+
 [697] (retail) Littlebox plans EBOs and targets Rs 1000 Cr turnover
     Littlebox plans to open exclusive brand outlets across metros next year. The company aims to achieve a turnover of Rs 1000 Cr in 5 years.
     sources: Indian Retailer
@@ -176,7 +180,7 @@
 
 [592] (d2c) Inti Fashions Grows to Rs 5 Crore Brand
     Inti Fashions has grown into a Rs 5 Crore brand. The company focuses on Indian workwear for the modern woman.
-    sources: Mid-Day
+    sources: Mid-Day, Mid-Day
 
 [594] (brand-moves) Bangalore Watch Company Enters New York Watch Week 2026
     Bangalore Watch Company has entered New York Watch Week 2026. The brand is participating in the watch week event.
@@ -296,7 +300,7 @@
 
 [538] (funding) Boldfit raises over Rs 400 Cr in Series B funding
     Boldfit has raised more than Rs 400 crore in a Series B funding round. The investment was led by Bharat Value Fund.
-    sources: BW Disrupt, Apparel Resources, India Retailing
+    sources: BW Disrupt, Apparel Resources, India Retailing, Apparel Views
 
 [540] (funding) The Wealth Company AIF Invests Rs4 Bn in Boldfit
     The Wealth Company AIF has made an investment of Rs4 billion in Boldfit. This transaction represents a funding development within the Indian business ecosystem.
