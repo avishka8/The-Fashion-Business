@@ -1,3 +1,83 @@
+[653] (funding) AdGraam raises ₹3 crore in seed funding
+    AdGraam has successfully raised ₹3 crore in a seed funding round. The investment will support the company's growth and business operations.
+    sources: ET Entrepreneur, Passionate In Marketing
+
+[655] (funding) AdGraam Raises Rs 3 Cr Seed Funding
+    AdGraam has raised Rs 3 crore in seed funding. The funding round was led by the co-founder of Nitro Commerce.
+    sources: BW Disrupt
+
+[658] (d2c) Skyroot eyes funding boost and MDR deferment cheers D2C brands
+    Skyroot is looking for a funding boost. Meanwhile, MDR deferment has cheered D2C brands.
+    sources: The Economic Times
+
+[659] (funding) Ankit Jain launches Foundry with pre-seed funding
+    Former Dyson India MD Ankit Jain has launched Foundry. The venture secured ₹12 crore in pre-seed funding.
+    sources: India Retailing
+
+[660] (retail) Bla Bli Blu Hits Rs 250 Cr Revenue Run Rate
+    Bla Bli Blu has achieved a revenue run rate of Rs 250 crore. The retail news highlights the brand's financial milestone.
+    sources: Indian Retailer
+
+[664] (retail) Superdry Opens New Store At Pacific Mall, Jaipur
+    Superdry has opened a new store at Pacific Mall in Jaipur. The store features a refreshed retail identity.
+    sources: IFAB MEDIA
+
+[665] (retail) Myntra Head discusses GenZ shoppers and looksmaxxing trend
+    The Myntra Head noted that looksmaxxing is blurring the line between essential and discretionary spending for GenZ shoppers. This consumer trend is shifting purchasing behavior among younger demographics on the retail platform.
+    sources: The Economic Times
+
+[666] (funding) Menswear Brand KISAH Nets ₹35.9 Cr To Scale Retail Footprint
+    Menswear brand KISAH has raised ₹35.9 crore to scale its retail footprint. The funding will be utilized for expanding the brand's presence.
+    sources: Inc42
+
+[667] (retail) Indian womenswear market to reach 45.49 billion dollars by 2032
+    The Indian womenswear market is projected to reach 45.49 billion dollars by the year 2032. This indicates significant future growth and economic scale for the women's apparel sector in India.
+    sources: Fashion United
+
+[673] (textiles) Cotton yarn steady in north India on trade deal optimism
+    Cotton yarn prices remained steady in north India. This stability was driven by optimism surrounding a potential India-US trade deal.
+    sources: Fibre2Fashion
+
+[674] (textiles) Crude rally feeds into textile chain: Is yarn margin at risk?
+    The text discusses how a crude rally feeds into the textile chain, raising questions about whether yarn margins are at risk. No additional details or company names are provided.
+    sources: Fibre2Fashion
+
+[679] (fashion-week) Ladakh Pashmina Heritage at Lakme Fashion Week
+    The heritage of Ladakh Pashmina is scheduled to be showcased at Lakme Fashion Week. The text provides this single detail regarding the showcase.
+    sources: ETV Bharat, Kashmir Convener, The Kashmir Monitor
+
+[680] (fashion-week) Lakmé Fashion Week 2026 Opens With péro
+    Lakmé Fashion Week 2026 has opened with a playful take on Barbie by the brand péro. The event showcases the initial presentation of the fashion week.
+    sources: The Hollywood Reporter India
+
+[681] (fashion-week) Pero Opens Lakme Fashion Week 2026
+    Pero opened Lakme Fashion Week 2026 with a Barbie-themed showcase. The brand presented its collection at the fashion week event.
+    sources: Femina
+
+[682] (fashion-week) Ladakh's pashmina and handicrafts at Lakmé Fashion Week
+    Ladakh's pashmina and traditional handicrafts are on display at Lakmé Fashion Week in New Delhi. The showcase highlights traditional artisan products at the fashion event.
+    sources: Free Press Kashmir, Kashmir News Observer, Daily Excelsior
+
+[688] (fashion-week) HUEMN's Upcoming Lakme Fashion Week 2026 Showcase
+    HUEMN is preparing for an upcoming showcase at Lakme Fashion Week 2026. Pranav Kirti Misra is involved with the showcase.
+    sources: Esquire India
+
+[690] (fashion-week) NIF Global GenNext Showcases Emerging Indian Designers
+    NIF Global GenNext presented showcases featuring emerging Indian designers. The event highlighted new talent within the fashion sector.
+    sources: Passionate In Marketing
+
+[691] (fashion-week) Péro and Barbie Collaborate at Lakmé Fashion Week
+    Péro and Barbie presented a collection at Lakmé Fashion Week. The showcase emphasized playing dress-up again.
+    sources: Prestige Online - Singapore
+
+[692] (fashion-week) Aneeth Arora presents péro at Lakme Fashion Week
+    Aneeth Arora showcases the péro collection at Lakme Fashion Week. The presentation features a theme inspired by the modern man and Barbie.
+    sources: Esquire India
+
+[694] (fashion-week) Péro opens Lakmé Fashion Week 2026
+    Aneeth Arora's Péro presented a Barbie-themed dream dress-up collection to open Lakmé Fashion Week 2026. The collection was showcased as the opening event of the fashion week.
+    sources: Herzindagi
+
 [637] (retail) The Raymond Shop Expands Retail Network in Uttar Pradesh
     The Raymond Shop is expanding its retail network by opening new stores in Uttar Pradesh. This move grows the brand's physical presence in the region.
     sources: Indian Retailer
@@ -268,7 +348,7 @@
 
 [498] (funding) Boldfit Raises Rs 400 Crore From Bharat Value Fund
     Boldfit has raised Rs 400 crore from Bharat Value Fund. The capital will be used for retail expansion.
-    sources: Siliconindia, Apparel Views
+    sources: Siliconindia, Apparel Views, Inc42
 
 [499] (retail) FableStreet Expands Retail Footprint With Jaipur Store Launch
     FableStreet has marked a retail expansion milestone with the launch of a new store in Jaipur. The opening contributes to the brand's growing physical retail presence in India.
