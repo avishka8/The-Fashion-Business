@@ -1,3 +1,43 @@
+[728] (retail) Apparel Group launches Carrefour's second store in Ghaziabad
+    Apparel Group is accelerating its India retail strategy by launching Carrefour's second store in Ghaziabad. This move expands the retail presence of the brands in the Indian market.
+    sources: Retail & Leisure International
+
+[729] (retail) Carrefour plans 50 stores in India
+    Carrefour targets opening 50 stores in India over the next three years. The expansion strategy also involves eyeing potential acquisitions according to Nilesh Ved.
+    sources: Storyboard18
+
+[730] (retail) Carrefour Opens Second India Store in Ghaziabad
+    Carrefour has strengthened its presence in the National Capital Region by opening its second store in India, located in Ghaziabad. This expansion marks a new step for the brand's retail footprint in the Indian market.
+    sources: Indian Retailer
+
+[732] (retail) Royaloak Launches Casa Royal in Bengaluru
+    Royaloak has debuted Casa Royal at a new furniture store in Bengaluru. The opening introduces the brand's offerings at the new retail location.
+    sources: Indian Retailer
+
+[733] (retail) Devo India Opens New Store in Jaipur
+    Devo India has made its entry into Jaipur with the launch of a new store. The expansion marks the brand's latest retail development in India.
+    sources: Indian Retailer
+
+[734] (d2c) From Online First to Offline Growth
+    A footwear brand transitions from an online-first model to pursuing offline growth. The text outlines strategies for building a scalable brand presence across channels.
+    sources: Indian Retailer
+
+[735] (retail) Diwali Dressing Gets a Retail Makeover: India’s Ethnicwear Battle for the Festive Wallet
+    Diwali dressing is receiving a retail makeover with a battle for the festive wallet in India's ethnicwear sector. The text highlights how the festive season impacts the retail market for traditional attire.
+    sources: Indian Retailer
+
+[736] (textiles) India's textile and apparel exports rise in September
+    India's textile and apparel exports experienced a 17.51% increase in September. The growth highlights positive momentum in the country's textile and exports sector according to the reported data.
+    sources: Fibre2Fashion
+
+[741] (textiles) Cotton yarn prices remain steady in south India
+    Cotton yarn prices held steady in south India as buyers maintained a cautious approach. Market participants observed consistent pricing trends amidst restrained buying activity in the region.
+    sources: Fibre2Fashion
+
+[745] (fashion-week) Lakmé Fashion Week x FDCI 2026 features Suneet Varma and Samant Chauhan
+    The Lakmé Fashion Week x FDCI 2026 event features collections including Suneet Varma’s Kashi and Samant Chauhan’s Jaisalmer. The event showcases notable designer showcases.
+    sources: Outlook Luxe
+
 [724] (retail) Udaan Targets IPO by Early 2028 Amid Narrowing Losses
     Udaan is targeting an initial public offering by early 2028. The move comes as the company's losses narrow.
     sources: Indian Retailer
@@ -76,7 +116,7 @@
 
 [664] (retail) Superdry Opens New Store At Pacific Mall, Jaipur
     Superdry has opened a new store at Pacific Mall in Jaipur. The store features a refreshed retail identity.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [665] (retail) Myntra Head discusses GenZ shoppers and looksmaxxing trend
     The Myntra Head noted that looksmaxxing is blurring the line between essential and discretionary spending for GenZ shoppers. This consumer trend is shifting purchasing behavior among younger demographics on the retail platform.
@@ -100,7 +140,7 @@
 
 [679] (fashion-week) Ladakh Pashmina Heritage at Lakme Fashion Week
     The heritage of Ladakh Pashmina is scheduled to be showcased at Lakme Fashion Week. The text provides this single detail regarding the showcase.
-    sources: ETV Bharat, Kashmir Convener, The Kashmir Monitor
+    sources: ETV Bharat, Kashmir Convener, The Kashmir Monitor, Only Kashmir
 
 [680] (fashion-week) Lakmé Fashion Week 2026 Opens With péro
     Lakmé Fashion Week 2026 has opened with a playful take on Barbie by the brand péro. The event showcases the initial presentation of the fashion week.
@@ -116,7 +156,7 @@
 
 [688] (fashion-week) HUEMN's Upcoming Lakme Fashion Week 2026 Showcase
     HUEMN is preparing for an upcoming showcase at Lakme Fashion Week 2026. Pranav Kirti Misra is involved with the showcase.
-    sources: Esquire India
+    sources: Esquire India, Esquire India
 
 [690] (fashion-week) NIF Global GenNext Showcases Emerging Indian Designers
     NIF Global GenNext presented showcases featuring emerging Indian designers. The event highlighted new talent within the fashion sector.
@@ -196,7 +236,7 @@
 
 [594] (brand-moves) Bangalore Watch Company Enters New York Watch Week 2026
     Bangalore Watch Company has entered New York Watch Week 2026. The brand is participating in the watch week event.
-    sources: https://www.indiagazette.com/
+    sources: https://www.indiagazette.com/, Outlook Business
 
 [597] (retail) Mokobara Opens New Retail Store in Kolkata
     Mokobara has expanded its retail footprint by entering Kolkata with a new store. The development highlights the brand's retail growth strategy.
@@ -216,7 +256,7 @@
 
 [605] (textiles) Apparel Manufacturing in India: Challenges and Opportunities
     The text discusses the apparel manufacturing sector in India. It highlights various challenges and opportunities present in the industry.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [608] (textiles) India must leverage FTAs and textiles for exports and jobs: Goyal
     Commerce Minister Goyal stated that India needs to leverage free trade agreements and the textiles sector to boost exports and create jobs. The focus is on expanding trade opportunities within the textile industry.
