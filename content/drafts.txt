@@ -1,3 +1,23 @@
+[765] (funding) AdGraam Raises ₹3 Crore for AI Ad Platform
+    AdGraam has raised ₹3 crore in funding. The capital will be used to scale its AI-powered ad creative platform.
+    sources: CIOL
+
+[766] (retail) Bata India connects global design with regional consumer needs
+    Bata India is focusing on connecting global design with regional consumer needs. The text highlights how the brand approaches its product strategy and market reach in India.
+    sources: ET Retail
+
+[767] (retail) Mayavé Jewellery Opens First Ghaziabad Flagship Store
+    Mayavé Jewellery has opened its first flagship store in Ghaziabad. The new location marks a retail expansion for the brand in the region.
+    sources: Indian Retailer
+
+[768] (retail) Libas accelerates retail expansion with nine new stores
+    Libas is accelerating its retail expansion by opening nine new stores during the nine days of Navratri. This move highlights the brand's rapid retail growth strategy.
+    sources: News9live
+
+[771] (textiles) Textile exports rise 17.5% in Sept
+    Textile exports increased by 17.5 percent in September. Meanwhile, apparel shipments lagged during the first half of the year.
+    sources: The Times of India
+
 [752] (retail) Max Fashion plans new store expansions in India and Tamil Nadu
     Max Fashion has announced plans to expand its presence with 40 to 50 new stores across India. Additionally, the brand aims to open 100 new stores specifically in the state of Tamil Nadu.
     sources: Goodreturns
@@ -48,7 +68,7 @@
 
 [736] (textiles) India's textile and apparel exports rise in September
     India's textile and apparel exports experienced a 17.51% increase in September. The growth highlights positive momentum in the country's textile and exports sector according to the reported data.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [741] (textiles) Cotton yarn prices remain steady in south India
     Cotton yarn prices held steady in south India as buyers maintained a cautious approach. Market participants observed consistent pricing trends amidst restrained buying activity in the region.
@@ -56,7 +76,7 @@
 
 [745] (fashion-week) Lakmé Fashion Week x FDCI 2026 features Suneet Varma and Samant Chauhan
     The Lakmé Fashion Week x FDCI 2026 event features collections including Suneet Varma’s Kashi and Samant Chauhan’s Jaisalmer. The event showcases notable designer showcases.
-    sources: Outlook Luxe
+    sources: Outlook Luxe, Outlook Luxe
 
 [724] (retail) Udaan Targets IPO by Early 2028 Amid Narrowing Losses
     Udaan is targeting an initial public offering by early 2028. The move comes as the company's losses narrow.
