@@ -1,3 +1,7 @@
+[822] (retail) Domicil Sleep Expands India Retail Network
+    Domicil Sleep is expanding its retail network in India using a franchise-led strategy. The move aims to grow its presence across the country.
+    sources: Indian Retailer
+
 [816] (fashion-week) Tasva Reimagines Contemporary Indian Menswear at Lakme Fashion Week
     Tasva presented contemporary Indian menswear at Lakme Fashion Week in partnership with the Fashion Design Council of India (FDCI). The showcase focused on reimagining traditional menswear design.
     sources: Business Standard
@@ -60,7 +64,7 @@
 
 [806] (textiles) CITI Analysis of Exports and Imports of T&A for September 2026
     CITI has released an analysis focusing on the exports and imports of textiles and apparel for September 2026. The report provides data and insights regarding trade in the textile and apparel sector.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [777] (funding) Banaraswala secures $2 million in funding
     Banaraswala has raised $2 million in funding from Prax Impex. The investment was announced via a brief snippet.
