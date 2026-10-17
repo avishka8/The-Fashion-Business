@@ -1,3 +1,51 @@
+[782] (brand-moves) Arvind Fashions considers price hikes for major brands
+    Arvind Fashions is considering price increases for brands including Tommy Hilfiger, Calvin Klein, and U.S. Polo. The company is evaluating these price hikes as part of its business strategy.
+    sources: Moneycontrol.com
+
+[783] (funding) Former Dyson India Boss Ankit Jain Secures Funding From BEENEXT
+    Ankit Jain, the former head of Dyson India, has secured funding from BEENEXT for his new venture. Further details about the new business were not provided in the text.
+    sources: Inc42
+
+[784] (retail) Fashion retailers launch early sales with discounts
+    Fashion retailers are offering numerous discounts by relying on early sales to counter consumer caution. The strategy aims to address consumer hesitation in the market.
+    sources: Moneycontrol.com
+
+[785] (funding) Ankit Jain's Foundry Secures Rs 12 Cr Funding
+    Ankit Jain's Foundry has secured Rs 12 crore in funding. The capital is designated for a consumer appliances venture.
+    sources: Indian Retailer
+
+[788] (funding) Shamrock AI Raises $5 Million in Funding
+    Shamrock AI has raised $5 million in funding. The company plans to keep up to 80 percent of its workforce in India.
+    sources: https://ascendants.in/
+
+[789] (funding) RevRag.AI Raises $2.5 Million in Funding
+    RevRag.AI has raised $2.5 million in funding. The company plans to use the capital to build its own artificial intelligence models after initially starting with third-party technology.
+    sources: ascendants.in
+
+[790] (brand-moves) Estée Lauder Announces BEAUTY&YOU India 2026 Winners
+    The Estée Lauder Companies has announced the winners of BEAUTY&YOU India 2026. This marks five years of the initiative advancing Indian beauty entrepreneurship.
+    sources: Yahoo Finance
+
+[797] (retail) Asian Footwears targets 25 percent growth and retail expansion
+    Asian Footwears is targeting a 25 percent growth rate. The company plans a Rs 100 crore manufacturing expansion and aims to open 150 stores by FY27.
+    sources: ET Retail
+
+[799] (retail) The Sleep Company targets Rs. 1,000 Crore revenue via retail
+    The Sleep Company is focusing on retail expansion to reach the revenue milestone of Rs. 1,000 Crore. The brand is betting on this retail strategy for its upcoming business growth.
+    sources: Indian Retailer
+
+[800] (funding) Udaan returns to growth and narrows net loss
+    Udaan has returned to growth in FY26 and narrowed its net loss to Rs 852 crore. The company showed financial improvement during this period.
+    sources: Indian Retailer
+
+[802] (d2c) Big Billion Days 2026: D2C brands see order growth
+    During Big Billion Days 2026, D2C brands experienced 31% growth in orders. India's festive shopping habits are shifting beyond Amazon and Flipkart.
+    sources: ET Now
+
+[806] (textiles) CITI Analysis of Exports and Imports of T&A for September 2026
+    CITI has released an analysis focusing on the exports and imports of textiles and apparel for September 2026. The report provides data and insights regarding trade in the textile and apparel sector.
+    sources: Apparel Views
+
 [777] (funding) Banaraswala secures $2 million in funding
     Banaraswala has raised $2 million in funding from Prax Impex. The investment was announced via a brief snippet.
     sources: ET Entrepreneur
@@ -12,7 +60,7 @@
 
 [780] (fashion-week) R|Elan and HUEMN debut athleisure collection
     R|Elan and HUEMN debuted a new athleisure collection. The launch took place at Lakme Fashion Week.
-    sources: The News Mill
+    sources: The News Mill, Devdiscourse
 
 [765] (funding) AdGraam Raises ₹3 Crore for AI Ad Platform
     AdGraam has raised ₹3 crore in funding. The capital will be used to scale its AI-powered ad creative platform.
@@ -60,7 +108,7 @@
 
 [729] (retail) Carrefour plans 50 stores in India
     Carrefour targets opening 50 stores in India over the next three years. The expansion strategy also involves eyeing potential acquisitions according to Nilesh Ved.
-    sources: Storyboard18
+    sources: Storyboard18, Storyboard18
 
 [730] (retail) Carrefour Opens Second India Store in Ghaziabad
     Carrefour has strengthened its presence in the National Capital Region by opening its second store in India, located in Ghaziabad. This expansion marks a new step for the brand's retail footprint in the Indian market.
@@ -84,7 +132,7 @@
 
 [736] (textiles) India's textile and apparel exports rise in September
     India's textile and apparel exports experienced a 17.51% increase in September. The growth highlights positive momentum in the country's textile and exports sector according to the reported data.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion, Urban Acres
 
 [741] (textiles) Cotton yarn prices remain steady in south India
     Cotton yarn prices held steady in south India as buyers maintained a cautious approach. Market participants observed consistent pricing trends amidst restrained buying activity in the region.
@@ -332,7 +380,7 @@
 
 [616] (fashion-week) Eccellenza to bring Italian fashion to Lakmē Fashion Week
     Eccellenza – The Artisans of Italian Style is set to bring contemporary Italian fashion to Lakmē Fashion Week in partnership with the Fashion Design Council of India (FDCI).
-    sources: TheWire.in, The Tribune
+    sources: TheWire.in, The Tribune, India's News.Net, TheWire.in
 
 [617] (fashion-week) Ladakh Department of Industries & Commerce at Lakmē Fashion Week
     The Department of Industries & Commerce, UT Ladakh presented 'The Fifth Season: A Fashion Story from Ladakh' at Lakmē Fashion Week. The showcase was held in partnership with the Fashion Design Council of India (FDCI).
