@@ -1,3 +1,19 @@
+[816] (fashion-week) Tasva Reimagines Contemporary Indian Menswear at Lakme Fashion Week
+    Tasva presented contemporary Indian menswear at Lakme Fashion Week in partnership with the Fashion Design Council of India (FDCI). The showcase focused on reimagining traditional menswear design.
+    sources: Business Standard
+
+[817] (funding) Aukera raises Rs 90 crore in fresh funding round
+    Lab-grown diamond jewellery brand Aukera has raised Rs 90 crore in a fresh round of funding. The company operates in the lab-grown diamond jewellery sector.
+    sources: The Retail Jeweller India
+
+[818] (retail) KISNA Opens Largest Jewellery Showroom in Bhubaneswar
+    KISNA has opened its largest jewellery showroom in India, located in Bhubaneswar. The new store marks an expansion in the brand's retail footprint.
+    sources: Indian Retailer
+
+[820] (fashion-week) Lakmé Fashion Week x FDCI 2026 Day 4 Line-Up
+    Namrata Joshipura, Anushree Reddy and Ashish N Soni lead the line-up for Day 4 of Lakmé Fashion Week x FDCI 2026. The event highlights collections from these designers as part of the fashion week schedule.
+    sources: Outlook Luxe
+
 [782] (brand-moves) Arvind Fashions considers price hikes for major brands
     Arvind Fashions is considering price increases for brands including Tommy Hilfiger, Calvin Klein, and U.S. Polo. The company is evaluating these price hikes as part of its business strategy.
     sources: Moneycontrol.com
@@ -12,7 +28,7 @@
 
 [785] (funding) Ankit Jain's Foundry Secures Rs 12 Cr Funding
     Ankit Jain's Foundry has secured Rs 12 crore in funding. The capital is designated for a consumer appliances venture.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [788] (funding) Shamrock AI Raises $5 Million in Funding
     Shamrock AI has raised $5 million in funding. The company plans to keep up to 80 percent of its workforce in India.
@@ -48,7 +64,7 @@
 
 [777] (funding) Banaraswala secures $2 million in funding
     Banaraswala has raised $2 million in funding from Prax Impex. The investment was announced via a brief snippet.
-    sources: ET Entrepreneur
+    sources: ET Entrepreneur, ET Retail, ET HospitalityWorld
 
 [778] (brand-moves) Redefining growth in India's fashion industry
     The text discusses redefining growth in India's fashion industry by shifting from product to purpose. No specific facts, numbers, or brand names are mentioned in the provided snippet.
