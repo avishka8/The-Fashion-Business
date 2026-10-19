@@ -1,3 +1,7 @@
+[911] (textiles) India's polyester and viscose yarn face payment issues
+    India's polyester and viscose yarn sectors are currently facing persistent payment issues. This challenge impacts the textile supply chain and business operations within the market.
+    sources: Fibre2Fashion
+
 [870] (funding) The Pant Project raises Rs 109 crore to expand retail network
     Premium menswear brand The Pant Project has raised Rs 109 crore. The funding will be used to expand its retail network across India.
     sources: Indian Startup News
@@ -40,7 +44,7 @@
 
 [881] (retail) ALDO expands retail presence in Andhra Pradesh with Vizag store
     Footwear and accessories brand ALDO has expanded its retail presence in Andhra Pradesh by opening a new store at Inorbit Mall in Vizag. The launch increases the brand's physical retail footprint in the region.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [882] (retail) Pantaloons Expands Retail Presence in Surat
     Pantaloons is expanding its retail footprint by opening a new store in Surat. The move increases the brand's physical presence in the region.
@@ -216,7 +220,7 @@
 
 [802] (d2c) Big Billion Days 2026: D2C brands see order growth
     During Big Billion Days 2026, D2C brands experienced 31% growth in orders. India's festive shopping habits are shifting beyond Amazon and Flipkart.
-    sources: ET Now
+    sources: ET Now, ET Now
 
 [806] (textiles) CITI Analysis of Exports and Imports of T&A for September 2026
     CITI has released an analysis focusing on the exports and imports of textiles and apparel for September 2026. The report provides data and insights regarding trade in the textile and apparel sector.
