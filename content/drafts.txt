@@ -1,10 +1,90 @@
+[870] (funding) The Pant Project raises Rs 109 crore to expand retail network
+    Premium menswear brand The Pant Project has raised Rs 109 crore. The funding will be used to expand its retail network across India.
+    sources: Indian Startup News
+
+[871] (funding) Supplements Brand The Stack Raises Rs 21.5 Cr in Seed Funding
+    Supplements brand The Stack has raised Rs 21.5 crore in a seed funding round. The investment will support the brand's growth.
+    sources: Indian Retailer
+
+[872] (fashion-week) Why Lakmé is invested in fashion despite not selling clothes
+    Lakmé maintains a strong investment in the fashion sector even though the brand does not sell clothing items. The snippet questions the strategic reasoning behind this ongoing participation in the fashion industry.
+    sources: Fortune India
+
+[873] (funding) So/Facet Raises Rs 10 Cr to Enter India's Lab-Grown Diamond Market
+    So/Facet has secured Rs 10 Cr in funding to enter India's lab-grown diamond market. The investment will support the brand's market entry strategy.
+    sources: Indian Retailer
+
+[875] (funding) So/Facet raises Rs 10 crore in Seed funding
+    Lab-grown diamond jewellery startup So/Facet has raised Rs 10 crore in Seed funding. The investment round was led by Sauce.
+    sources: Indian Startup News
+
+[876] (funding) The Pant Project Raises Rs 109 Crore for Retail Expansion
+    The Pant Project has successfully raised Rs 109 crore in funding. The newly acquired capital will be used to expand its physical store count past 150 locations.
+    sources: https://ascendants.in/
+
+[877] (funding) The Pant Project secures Rs 109 Cr for retail expansion
+    The Pant Project has raised Rs 109 crore in funding. The capital will be utilized to accelerate its retail expansion.
+    sources: YourStory.com
+
+[878] (retail) Libas opens nine new retail outlets during Navratri
+    Indian ethnic wear brand Libas has expanded its physical retail presence by opening nine new stores during the Navratri festival. The expansion adds to the brand's growing offline footprint across the country.
+    sources: marketech apac
+
+[879] (retail) Apparel Group launches second Carrefour store in Ghaziabad
+    Apparel Group has unveiled Carrefour's second store located in Ghaziabad. The opening marks a retail expansion for the brands in the region.
+    sources: Retail4growth
+
+[880] (brand-moves) India's fashion entrepreneurs face global opportunities in 2026
+    India's fashion entrepreneurs are positioned with a global opportunity in 2026 driven by an $80 billion market, artificial intelligence, and a new consumer base. The text highlights the strategic business landscape awaiting Indian fashion entrepreneurs.
+    sources: ET Edge Insights
+
+[881] (retail) ALDO expands retail presence in Andhra Pradesh with Vizag store
+    Footwear and accessories brand ALDO has expanded its retail presence in Andhra Pradesh by opening a new store at Inorbit Mall in Vizag. The launch increases the brand's physical retail footprint in the region.
+    sources: IFAB MEDIA
+
+[882] (retail) Pantaloons Expands Retail Presence in Surat
+    Pantaloons is expanding its retail footprint by opening a new store in Surat. The move increases the brand's physical presence in the region.
+    sources: Indian Retailer
+
+[884] (retail) Malabar Gold Expands Ghaziabad Store
+    Malabar Gold has expanded its jewellery store in Ghaziabad. The expansion involves the physical retail space of the brand's existing location.
+    sources: Indian Retailer
+
+[893] (textiles) BTMA seeks continuation of bank guarantee system for yarn imports
+    The BTMA is seeking the continuation of the bank guarantee system for yarn imports. The request addresses procedural requirements for importing yarn into the market.
+    sources: Apparel Views
+
+[894] (retail) India's athleisure trend grows while sportswear remains at 1%
+    India's athleisure trend is experiencing growth within the market. However, sportswear currently accounts for just one percent of the sector.
+    sources: Fibre2Fashion
+
+[896] (textiles) North India's cotton yarn stable despite rising cotton prices
+    North India's cotton yarn prices have remained stable despite an increase in raw cotton prices. The stability indicates current market conditions in the region's textile sector amidst fluctuating input costs.
+    sources: Fibre2Fashion
+
+[898] (fashion-week) Insights from Lakme Fashion Week 2026
+    The text discusses Lakme Fashion Week 2026, noting that the fashion was great and the subtext was even better. No further business details or facts are provided in the snippet.
+    sources: Luxebook India
+
+[900] (fashion-week) Sunil Sethi reflects on concluded Lakme Fashion Week
+    Sunil Sethi reflected on the conclusion of Lakme Fashion Week, which was partnered with FDCI. The event recently concluded at the Taj Palace in New Delhi.
+    sources: t2ONLINE
+
+[902] (fashion-week) Lakme Fashion Week: Raymond's wedding wear bet
+    Lakme Fashion Week features Raymond's ambitious bet on the wedding wear market. The text discusses the strategic brand move within the context of the fashion event.
+    sources: CNBC TV18, LinkedIn
+
+[908] (fashion-week) Pearl Academy Showcases GenAnokhi and Men's Styling Guide at LFW
+    Pearl Academy showcased GenAnokhi at Lakmé Fashion Week. The event also featured the launch of a men's styling guide by Sharad Mehra.
+    sources: ThePrint
+
 [860] (funding) The Pant Project Secures Rs 109 Cr in Series B
     The Pant Project has successfully raised Rs 109 crore in a Series B funding round. The investment round was led by Mirae Asset.
-    sources: BW Disrupt
+    sources: BW Disrupt, ET Retail
 
 [862] (funding) The Pant Project Raises ₹109 Cr For Expansion
     The Pant Project has raised ₹109 crore in funding. The company plans to use the capital to expand its store network and product portfolio.
-    sources: Dailyhunt
+    sources: Dailyhunt, Inc42, Indian Retailer, Dailyhunt
 
 [865] (textiles) India's PTA and polyester melt prices rise
     India has seen an increase in PTA and polyester melt prices. Meanwhile, China experienced a post-holiday market rally.
@@ -36,7 +116,7 @@
 
 [852] (fashion-week) Ladakh showcases Pashmina heritage at Lakme Fashion Week 2026
     Ladakh showcases its Pashmina heritage at Lakme Fashion Week 2026. The event highlights traditional textiles on the fashion week platform.
-    sources: Kashmir News Observer, Kashmir Convener
+    sources: Kashmir News Observer, Kashmir Convener, Administration of Union Territory of Ladakh, Kashmir Observer
 
 [837] (textiles) Indian textile stocks expand despite tariff uncertainty
     Six Indian textile stocks are expanding their reach from the US to Kenya. This expansion is happening despite ongoing tariff uncertainty.
@@ -80,7 +160,7 @@
 
 [816] (fashion-week) Tasva Reimagines Contemporary Indian Menswear at Lakme Fashion Week
     Tasva presented contemporary Indian menswear at Lakme Fashion Week in partnership with the Fashion Design Council of India (FDCI). The showcase focused on reimagining traditional menswear design.
-    sources: Business Standard
+    sources: Business Standard, The Tribune
 
 [817] (funding) Aukera raises Rs 90 crore in fresh funding round
     Lab-grown diamond jewellery brand Aukera has raised Rs 90 crore in a fresh round of funding. The company operates in the lab-grown diamond jewellery sector.
@@ -176,7 +256,7 @@
 
 [771] (textiles) Textile exports rise 17.5% in Sept
     Textile exports increased by 17.5 percent in September. Meanwhile, apparel shipments lagged during the first half of the year.
-    sources: The Times of India
+    sources: The Times of India, Apparel Views
 
 [752] (retail) Max Fashion plans new store expansions in India and Tamil Nadu
     Max Fashion has announced plans to expand its presence with 40 to 50 new stores across India. Additionally, the brand aims to open 100 new stores specifically in the state of Tamil Nadu.
