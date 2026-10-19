@@ -1,6 +1,22 @@
+[860] (funding) The Pant Project Secures Rs 109 Cr in Series B
+    The Pant Project has successfully raised Rs 109 crore in a Series B funding round. The investment round was led by Mirae Asset.
+    sources: BW Disrupt
+
+[862] (funding) The Pant Project Raises ₹109 Cr For Expansion
+    The Pant Project has raised ₹109 crore in funding. The company plans to use the capital to expand its store network and product portfolio.
+    sources: Dailyhunt
+
+[865] (textiles) India's PTA and polyester melt prices rise
+    India has seen an increase in PTA and polyester melt prices. Meanwhile, China experienced a post-holiday market rally.
+    sources: Fibre2Fashion
+
+[868] (fashion-week) A Fashion Story from Ladakh at Lakmé Fashion Week 2026
+    A Fashion Story from Ladakh made a mark at Lakmé Fashion Week partnered by FDCI 2026. The event showcased the featured collection.
+    sources: Daily Excelsior
+
 [857] (retail) Uniqlo India FY26 net profit rises to Rs 253 cr
     Uniqlo India reported a 41 percent increase in net profit reaching Rs 253 crore for FY26. The company is betting on further expansion.
-    sources: The Economic Times
+    sources: The Economic Times, The Economic Times
 
 [858] (policy) India and UK aim to double trade by 2030 under CETA
     India and the UK are seeking to double their trade by the year 2030 under a proposed agreement referred to as CETA. The initiative focuses on bilateral economic cooperation and trade expansion.
@@ -216,7 +232,7 @@
 
 [741] (textiles) Cotton yarn prices remain steady in south India
     Cotton yarn prices held steady in south India as buyers maintained a cautious approach. Market participants observed consistent pricing trends amidst restrained buying activity in the region.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [745] (fashion-week) Lakmé Fashion Week x FDCI 2026 features Suneet Varma and Samant Chauhan
     The Lakmé Fashion Week x FDCI 2026 event features collections including Suneet Varma’s Kashi and Samant Chauhan’s Jaisalmer. The event showcases notable designer showcases.
