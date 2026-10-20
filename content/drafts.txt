@@ -1,3 +1,23 @@
+[912] (funding) POV Beauty secures Series A funding
+    POV Beauty has secured Series A funding to accelerate its growth. The capital raised will be used to support the brand's business expansion.
+    sources: FashionNetwork India
+
+[913] (brand-moves) Barkha Singh joins Nuvah as chief creative officer
+    Barkha Singh has joined the women's footwear brand Nuvah. She takes on the role of chief creative officer at the company.
+    sources: ET Retail
+
+[914] (funding) Google.org grants $15 million to The/Nudge for Indian MSMEs
+    Google.org is providing $15 million in funding to The/Nudge. The initiative aims to support AI-driven growth for micro, small, and medium enterprises in India.
+    sources: ET Telecom
+
+[918] (textiles) North India cotton yarn prices steady ahead of US tariff hike
+    North India cotton yarn prices remained steady prior to a potential US tariff hike. The market showed stable pricing trends in the region.
+    sources: Fibre2Fashion
+
+[921] (fashion-week) Pawan Sachdevaa showcases RECAST at Lakmé Fashion Week
+    Pawan Sachdevaa presented his collection titled 'RECAST' at Lakmé Fashion Week. The showcase focused on reimagining Indian menswear through craft and contemporary design.
+    sources: Hindustan Times
+
 [911] (textiles) India's polyester and viscose yarn face payment issues
     India's polyester and viscose yarn sectors are currently facing persistent payment issues. This challenge impacts the textile supply chain and business operations within the market.
     sources: Fibre2Fashion
@@ -164,7 +184,7 @@
 
 [816] (fashion-week) Tasva Reimagines Contemporary Indian Menswear at Lakme Fashion Week
     Tasva presented contemporary Indian menswear at Lakme Fashion Week in partnership with the Fashion Design Council of India (FDCI). The showcase focused on reimagining traditional menswear design.
-    sources: Business Standard, The Tribune
+    sources: Business Standard, The Tribune, BizzBuzz
 
 [817] (funding) Aukera raises Rs 90 crore in fresh funding round
     Lab-grown diamond jewellery brand Aukera has raised Rs 90 crore in a fresh round of funding. The company operates in the lab-grown diamond jewellery sector.
