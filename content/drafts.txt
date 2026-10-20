@@ -1,3 +1,71 @@
+[924] (funding) Burma Burma parent Hunger Pangs files DRHP for expansion
+    Burma Burma parent company Hunger Pangs has filed a DRHP. The company targets a fresh issue of ₹150 crore to fund its expansion.
+    sources: Storyboard18
+
+[925] (retail) Snitch Expands Offline Retail Presence to Tripura
+    Snitch is expanding its offline retail footprint by entering Tripura. The brand's latest move is part of its broader offline retail expansion plans.
+    sources: Indian Retailer
+
+[926] (retail) India's Apparel Market Growth Projections
+    India's apparel market is projected to grow significantly from $96 billion to $146 billion. This surge is expected to take place by the year 2029.
+    sources: Indian Retailer
+
+[927] (retail) Uniqlo India Revenue Jumps 44 Pc to Rs 1,724 Cr in FY26
+    Uniqlo India has reported a 44 percent jump in revenue, reaching Rs 1,724 crore in FY26. The text provides this financial milestone for the brand's performance in the Indian market.
+    sources: Indian Retailer
+
+[928] (retail) Max Fashion Opens 7th Store in Jaipur
+    Max Fashion has expanded its retail presence in India by opening its seventh store in Jaipur. The new store opening contributes to the brand's retail footprint growth in the region.
+    sources: Indian Retailer
+
+[929] (retail) U.S. Polo Assn. opens a new store in Puducherry
+    U.S. Polo Assn. has strengthened its presence in South India by opening a new store in Puducherry. The expansion adds to the brand's retail footprint in the region.
+    sources: IFAB MEDIA
+
+[930] (retail) Limelight Lab Grown Diamonds crosses 100-store mark
+    Limelight Lab Grown Diamonds has crossed the 100-store milestone. The brand has announced a target to reach 200 outlets by the year 2027.
+    sources: ET Retail
+
+[931] (funding) FirstCry-Backed Swara Baby Products Secures IPO Approval
+    FirstCry-backed Swara Baby Products has received approval for its initial public offering. The company will move forward with its public market plans following the regulatory clearance.
+    sources: Indian Retailer
+
+[932] (retail) Reliance Retail Appoints Amit Chitnis as CMO
+    Reliance Retail has appointed former Tesco executive Amit Chitnis as its new Chief Marketing Officer. The text notes his previous experience with Tesco prior to joining Reliance Retail.
+    sources: Indian Retailer
+
+[934] (retail) Shoppers Stop Returns to Profit in Q2FY27
+    Shoppers Stop has returned to a profit in Q2FY27. During the same period, the company's EBITDA rose by 56 percent.
+    sources: Indian Retailer
+
+[935] (retail) Libas accelerates retail expansion with nine new stores
+    Libas plans to add nine new stores during the nine days of Navratri. This move is part of the brand's accelerated retail expansion strategy.
+    sources: News9live
+
+[936] (textiles) India textile exports jump 17.5%
+    India's textile exports have experienced a jump of 17.5 percent. However, apparel shipments have lagged behind during this period.
+    sources: Apparel Views
+
+[940] (textiles) Indiahandmade: A Digital Platform for India's Craft Heritage
+    Indiahandmade is a digital platform created for India's craft heritage. The text discusses the platform in the context of crafts and textiles.
+    sources: Press Information Bureau
+
+[941] (fashion-week) Lakmé Fashion Week 2026: Pearl Academy's Gen Z Take on Indian Fashion
+    Lakmé Fashion Week 2026 features a Gen Z perspective on Indian fashion presented by Pearl Academy. The event highlights emerging talent and design interpretations from the institution.
+    sources: Outlook Luxe
+
+[942] (textiles) LFW X FDCI showcases Ladakh's Pashmina
+    LFW X FDCI featured Ladakh's Pashmina during its Delhi fashion week. The showcase aimed to redefine luxury.
+    sources: t2ONLINE
+
+[943] (fashion-week) VESPER at Lakmé Fashion Week
+    Richa Khemka's brand VESPER is featured at Lakmé Fashion Week. The interview discusses the label finding its light in the shadows.
+    sources: Outlook Luxe
+
+[945] (fashion-week) Designers from Moscow and Italy showcase at LFW X FDCI
+    Designers hailing from Moscow and Italy brought global flair to the capital showcase at LFW X FDCI. The event highlighted international participation in the fashion week commerce.
+    sources: t2ONLINE
+
 [912] (funding) POV Beauty secures Series A funding
     POV Beauty has secured Series A funding to accelerate its growth. The capital raised will be used to support the brand's business expansion.
     sources: FashionNetwork India
@@ -76,7 +144,7 @@
 
 [893] (textiles) BTMA seeks continuation of bank guarantee system for yarn imports
     The BTMA is seeking the continuation of the bank guarantee system for yarn imports. The request addresses procedural requirements for importing yarn into the market.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [894] (retail) India's athleisure trend grows while sportswear remains at 1%
     India's athleisure trend is experiencing growth within the market. However, sportswear currently accounts for just one percent of the sector.
