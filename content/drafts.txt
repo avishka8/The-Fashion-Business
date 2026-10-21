@@ -1,3 +1,79 @@
+[968] (retail) Bershka turns profitable in India as Zara growth stalls
+    Inditex's Bershka has become profitable during its first full year of operations in India. Meanwhile, growth for Zara in the region has experienced a stall.
+    sources: The Economic Times
+
+[969] (funding) Traya Eyes Rs 300 Cr Funding From Verlinvest
+    Traya is looking to secure Rs 300 crore in funding. The potential investment is expected to come from Belgium-based investor Verlinvest.
+    sources: Indian Retailer
+
+[970] (funding) The Souled Store Funding and Key Investors Details
+    This article discusses the funding amount raised by The Souled Store. It also details the key investors involved in the funding round.
+    sources: Clay
+
+[973] (retail) State of Joy expands retail footprint in India
+    State of Joy has strengthened its retail presence in India with over 4,000 retail touchpoints. The brand also has plans to open exclusive brand outlets.
+    sources: The Economic Times
+
+[975] (retail) Agilitas Sports Appoints Sahil Kansal as Senior Director
+    Agilitas Sports has appointed Sahil Kansal to the position of Senior Director for retail expansion. The company announced the new role for retail growth.
+    sources: Apparel Resources
+
+[976] (retail) Apparel Group launches Carrefour's second store in Ghaziabad
+    Apparel Group has accelerated its India retail strategy by launching Carrefour's second store in Ghaziabad. This move is part of the expansion of Carrefour's presence in the Indian retail market.
+    sources: Outlook Business
+
+[977] (retail) UNIQLO to Open First Jaipur Store and Expand in India
+    UNIQLO is opening its first store in Jaipur on November 13. This expansion brings the brand's total network in India to 22 outlets.
+    sources: Indian Retailer
+
+[978] (retail) Massimo Dutti opens new store at Nexus Elante in Chandigarh
+    Massimo Dutti has opened a new retail store located at Nexus Elante in Chandigarh. The announcement was made through a brief snippet detailing the store opening.
+    sources: Indian Retailer
+
+[980] (retail) UNIQLO to open first store in Jaipur
+    UNIQLO is set to open its first store in Jaipur on November 13, marking the brand's debut in Rajasthan.
+    sources: IFAB MEDIA
+
+[981] (retail) UNIQLO Opens First Store in Thane at Lake Shore
+    UNIQLO has opened its first store in Thane at Lake Shore. The text provides no further details about the store opening.
+    sources: Indian Retailer
+
+[982] (retail) Bata Opens New Footwear Store in Halehalli
+    Bata has opened a new footwear store in Halehalli. The expansion adds to the brand's retail presence in the region.
+    sources: Indian Retailer
+
+[986] (brand-moves) Novamax Technologies Targets Rs 350 Crore Revenue in FY27
+    Novamax Technologies has announced plans to target Rs 350 crore in revenue by the fiscal year 2027. The company is also planning to diversify its product offerings into air conditioners and washing machines.
+    sources: Indian Retailer
+
+[987] (retail) Myntra revenue declines 14% in FY26
+    Myntra has slipped into the red in FY26. Its revenue has declined by 14%.
+    sources: MediaNama
+
+[988] (retail) Amazon Fashion sees non-metros drive festive orders
+    Amazon Fashion reported that non-metro areas drove over 50 per cent of festive fashion and beauty orders. This indicates a shift in shopping habits across the region.
+    sources: Cosmopolitan India
+
+[989] (retail) Myntra Report Details Gen Z Impact on Beauty Market
+    A Myntra report highlights how Gen Z is reshaping India's beauty and personal care market. The findings detail evolving consumption trends within this demographic.
+    sources: IFAB MEDIA
+
+[990] (textiles) Sunrise's MAD 2.29 bn Investment in Textile exports
+    Sunrise has made an investment of MAD 2.29 bn. This investment is viewed as a potential turning point for textile exports.
+    sources: Fibre2Fashion
+
+[993] (policy) India-New Zealand FTA takes effect, opens duty-free textile access
+    The India-New Zealand Free Trade Agreement has officially taken effect. It opens up duty-free textile access between the regions.
+    sources: Fibre2Fashion
+
+[996] (fashion-week) Lakme Fashion Week x FDCI held in New Delhi
+    The Lakme Fashion Week x FDCI edition took place in New Delhi. No further details were provided in the text regarding commerce, participants, or specific events.
+    sources: The Hindu
+
+[997] (fashion-week) Decoding Lakme Fashion Week x FDCI in Delhi
+    This text discusses the recent season of Lakme Fashion Week in partnership with FDCI held in Delhi, highlighting what made it a pleasant surprise. No further business details or specific facts were provided in the excerpt.
+    sources: Indulge Express
+
 [961] (textiles) North India cotton yarn rises on export demand, mills firm
     North India cotton yarn prices have risen due to export demand. Mills have firmed their positions as a result of this market activity.
     sources: Fibre2Fashion
@@ -140,7 +216,7 @@
 
 [875] (funding) So/Facet raises Rs 10 crore in Seed funding
     Lab-grown diamond jewellery startup So/Facet has raised Rs 10 crore in Seed funding. The investment round was led by Sauce.
-    sources: Indian Startup News
+    sources: Indian Startup News, India Retailing
 
 [876] (funding) The Pant Project Raises Rs 109 Crore for Retail Expansion
     The Pant Project has successfully raised Rs 109 crore in funding. The newly acquired capital will be used to expand its physical store count past 150 locations.
@@ -204,7 +280,7 @@
 
 [860] (funding) The Pant Project Secures Rs 109 Cr in Series B
     The Pant Project has successfully raised Rs 109 crore in a Series B funding round. The investment round was led by Mirae Asset.
-    sources: BW Disrupt, ET Retail
+    sources: BW Disrupt, ET Retail, ET Retail
 
 [862] (funding) The Pant Project Raises ₹109 Cr For Expansion
     The Pant Project has raised ₹109 crore in funding. The company plans to use the capital to expand its store network and product portfolio.
