@@ -1,3 +1,11 @@
+[1000] (retail) India's festive spending to rise as shoppers show confidence
+    A report indicates that festive spending in India is set to rise as shoppers demonstrate increased confidence. The text provides limited details beyond this anticipated increase in consumer spending.
+    sources: Fibre2Fashion
+
+[1005] (brand-moves) Ikonic Professional expands Scarlett Limited Edition range
+    Ikonic Professional has expanded its Scarlett Limited Edition range with the addition of two new hair styling tools. The brand introduced these products to grow its existing lineup.
+    sources: Indian Retailer
+
 [968] (retail) Bershka turns profitable in India as Zara growth stalls
     Inditex's Bershka has become profitable during its first full year of operations in India. Meanwhile, growth for Zara in the region has experienced a stall.
     sources: The Economic Times
@@ -20,7 +28,7 @@
 
 [976] (retail) Apparel Group launches Carrefour's second store in Ghaziabad
     Apparel Group has accelerated its India retail strategy by launching Carrefour's second store in Ghaziabad. This move is part of the expansion of Carrefour's presence in the Indian retail market.
-    sources: Outlook Business
+    sources: Outlook Business, https://www.indiagazette.com/
 
 [977] (retail) UNIQLO to Open First Jaipur Store and Expand in India
     UNIQLO is opening its first store in Jaipur on November 13. This expansion brings the brand's total network in India to 22 outlets.
@@ -60,7 +68,7 @@
 
 [990] (textiles) Sunrise's MAD 2.29 bn Investment in Textile exports
     Sunrise has made an investment of MAD 2.29 bn. This investment is viewed as a potential turning point for textile exports.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [993] (policy) India-New Zealand FTA takes effect, opens duty-free textile access
     The India-New Zealand Free Trade Agreement has officially taken effect. It opens up duty-free textile access between the regions.
@@ -216,7 +224,7 @@
 
 [875] (funding) So/Facet raises Rs 10 crore in Seed funding
     Lab-grown diamond jewellery startup So/Facet has raised Rs 10 crore in Seed funding. The investment round was led by Sauce.
-    sources: Indian Startup News, India Retailing
+    sources: Indian Startup News, India Retailing, Siliconindia
 
 [876] (funding) The Pant Project Raises Rs 109 Crore for Retail Expansion
     The Pant Project has successfully raised Rs 109 crore in funding. The newly acquired capital will be used to expand its physical store count past 150 locations.
@@ -280,7 +288,7 @@
 
 [860] (funding) The Pant Project Secures Rs 109 Cr in Series B
     The Pant Project has successfully raised Rs 109 crore in a Series B funding round. The investment round was led by Mirae Asset.
-    sources: BW Disrupt, ET Retail, ET Retail
+    sources: BW Disrupt, ET Retail, ET Retail, Apparel Resources
 
 [862] (funding) The Pant Project Raises ₹109 Cr For Expansion
     The Pant Project has raised ₹109 crore in funding. The company plans to use the capital to expand its store network and product portfolio.
