@@ -1,3 +1,39 @@
+[1015] (retail) Go Fashion sees SSSG turn positive in Q1 FY27
+    Go Fashion (India) Ltd experienced positive same-store sales growth (SSSG) in the first quarter of fiscal year 2027. During this period, the company's revenue held steady.
+    sources: scanx.trade
+
+[1017] (funding) Strokes by Namrata Mehta Secures Rs 3.3 Cr for India Expansion
+    Strokes by Namrata Mehta has secured Rs 3.3 Cr. The funding will be used for expansion in India.
+    sources: Indian Retailer
+
+[1018] (brand-moves) Cura targets Rs 500 crore revenue in 3 years
+    Cura aims to achieve Rs 500 crore in revenue over the next three years. The company is focusing on digital expansion and introducing a health plus range to drive growth.
+    sources: Indian Retailer
+
+[1019] (funding) So/Facet raises Rs 10 crore seed funding for LGD jewellery retail
+    So/Facet has raised Rs 10 crore in seed funding. The capital will be used to build a premium lab-grown diamond jewellery retail brand.
+    sources: The Retail Jeweller India
+
+[1023] (retail) NBA to Open First India Store in 2027
+    The NBA has announced plans to open its first official store in India by the year 2027. This retail expansion marks a new milestone for the brand's physical presence in the Indian market.
+    sources: Indian Retailer
+
+[1025] (retail) UNIQLO Opens First Jaipur Store at Pacific Mall
+    UNIQLO has opened its first store in Jaipur at Pacific Mall. The expansion marks a new retail milestone for the brand in India.
+    sources: Passionate In Marketing
+
+[1031] (d2c) Siddharth Dungarwal and Snitch founder story and Shark Tank success
+    This article discusses Siddharth Dungarwal, the founder of Snitch, including details about his age, net worth, and success on Shark Tank. It outlines the brand's origin story and growth in the market.
+    sources: theoptimist.news
+
+[1034] (textiles) EU parcel fees and India's textile trade risk
+    This article discusses whether India's $10.2 billion textile trade is at risk due to EU parcel fees. It examines the potential impact of these fees on the trade sector.
+    sources: Fibre2Fashion
+
+[1035] (textiles) India's share in US babywear imports plunges
+    India's share in US babywear imports has plunged amid higher tariffs. The text does not provide additional details regarding the drop or the specific tariffs involved.
+    sources: Fibre2Fashion
+
 [1013] (fashion-week) Model and child models at Lakme Fashion Week
     A licensable picture shows a model and two child models at Lakme Fashion Week in New Delhi. No further business details or text are provided in the snippet.
     sources: Reuters Connect
@@ -16,7 +52,7 @@
 
 [968] (retail) Bershka turns profitable in India as Zara growth stalls
     Inditex's Bershka has become profitable during its first full year of operations in India. Meanwhile, growth for Zara in the region has experienced a stall.
-    sources: The Economic Times
+    sources: The Economic Times, The Economic Times
 
 [969] (funding) Traya Eyes Rs 300 Cr Funding From Verlinvest
     Traya is looking to secure Rs 300 crore in funding. The potential investment is expected to come from Belgium-based investor Verlinvest.
@@ -24,7 +60,7 @@
 
 [970] (funding) The Souled Store Funding and Key Investors Details
     This article discusses the funding amount raised by The Souled Store. It also details the key investors involved in the funding round.
-    sources: Clay
+    sources: Clay, Clay
 
 [973] (retail) State of Joy expands retail footprint in India
     State of Joy has strengthened its retail presence in India with over 4,000 retail touchpoints. The brand also has plans to open exclusive brand outlets.
@@ -36,7 +72,7 @@
 
 [976] (retail) Apparel Group launches Carrefour's second store in Ghaziabad
     Apparel Group has accelerated its India retail strategy by launching Carrefour's second store in Ghaziabad. This move is part of the expansion of Carrefour's presence in the Indian retail market.
-    sources: Outlook Business, https://www.indiagazette.com/
+    sources: Outlook Business, https://www.indiagazette.com/, Magzter
 
 [977] (retail) UNIQLO to Open First Jaipur Store and Expand in India
     UNIQLO is opening its first store in Jaipur on November 13. This expansion brings the brand's total network in India to 22 outlets.
@@ -68,7 +104,7 @@
 
 [988] (retail) Amazon Fashion sees non-metros drive festive orders
     Amazon Fashion reported that non-metro areas drove over 50 per cent of festive fashion and beauty orders. This indicates a shift in shopping habits across the region.
-    sources: Cosmopolitan India
+    sources: Cosmopolitan India, Cosmopolitan India
 
 [989] (retail) Myntra Report Details Gen Z Impact on Beauty Market
     A Myntra report highlights how Gen Z is reshaping India's beauty and personal care market. The findings detail evolving consumption trends within this demographic.
@@ -224,7 +260,7 @@
 
 [872] (fashion-week) Why Lakmé is invested in fashion despite not selling clothes
     Lakmé maintains a strong investment in the fashion sector even though the brand does not sell clothing items. The snippet questions the strategic reasoning behind this ongoing participation in the fashion industry.
-    sources: Fortune India
+    sources: Fortune India, Fortune India
 
 [873] (funding) So/Facet Raises Rs 10 Cr to Enter India's Lab-Grown Diamond Market
     So/Facet has secured Rs 10 Cr in funding to enter India's lab-grown diamond market. The investment will support the brand's market entry strategy.
