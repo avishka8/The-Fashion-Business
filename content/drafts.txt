@@ -1,3 +1,7 @@
+[1013] (fashion-week) Model and child models at Lakme Fashion Week
+    A licensable picture shows a model and two child models at Lakme Fashion Week in New Delhi. No further business details or text are provided in the snippet.
+    sources: Reuters Connect
+
 [1010] (policy) Govt plans ₹25,000-crore skilling push for textile exports
     The government is planning a skilling initiative worth ₹25,000 crore. The push aims to sharpen the competitive edge of textile exports.
     sources: Livemint
