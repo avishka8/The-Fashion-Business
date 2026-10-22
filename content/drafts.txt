@@ -1,3 +1,11 @@
+[1059] (brand-moves) Zepto Expands Brand Collabs With Exclusive ITC Collectible
+    Zepto is expanding its brand collaborations through an exclusive collectible with ITC. The initiative brings a unique product offering to the quick-commerce platform.
+    sources: Indian Retailer
+
+[1062] (policy) Heritage passports introduced for GI-tagged sarees
+    A new heritage passport system has been introduced for GI-tagged sarees. This initiative aims to document and authenticate the traditional textiles.
+    sources: Deccan Herald
+
 [1038] (retail) YatriKart Plans 1,000 Quick Stop Stores in India
     YatriKart has announced plans to open 1,000 quick stop stores across India. The expansion is projected to take place over a period of five years.
     sources: Indian Retailer
@@ -152,7 +160,7 @@
 
 [993] (policy) India-New Zealand FTA takes effect, opens duty-free textile access
     The India-New Zealand Free Trade Agreement has officially taken effect. It opens up duty-free textile access between the regions.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [996] (fashion-week) Lakme Fashion Week x FDCI held in New Delhi
     The Lakme Fashion Week x FDCI edition took place in New Delhi. No further details were provided in the text regarding commerce, participants, or specific events.
