@@ -1104,4 +1104,6 @@ INSERT INTO "items" VALUES(1098,'7721b92b6f1cf8d29ac24bb192a947071aeaf37b','| In
 INSERT INTO "items" VALUES(1099,'154d476cab9ed578eb5d23091c6a03679f1ed22c','| Bangladesh apparel exports to EU fall 11.4%: What drives the drop?',NULL,NULL,NULL,NULL,NULL,NULL,'2026-10-23T19:57:11.005541+00:00','irrelevant');
 INSERT INTO "items" VALUES(1100,'d1a12e1ac3f2b1666645758382f2bb73edeeb125','Hanoitex – Hanoifabric 2026 opens, connecting technology and expanding cooperation for the Textile and Garment Industry',NULL,NULL,NULL,NULL,NULL,NULL,'2026-10-23T19:57:11.005541+00:00','irrelevant');
 INSERT INTO "items" VALUES(1101,'2053dc5735cf46d0b6589d654ebb5be87cb61273','Lakme x FDCI fashion week review: Lots of colour, but no new style',NULL,NULL,NULL,NULL,NULL,NULL,'2026-10-23T19:57:11.005541+00:00','irrelevant');
+INSERT INTO "items" VALUES(1102,'d5e43ce247d61428dfa1ac352fbc375d5582de95','Colgate-Palmolive India''s quarterly profit rises on oral care demand',NULL,NULL,NULL,NULL,NULL,NULL,'2026-10-23T23:08:33.359391+00:00','irrelevant');
+INSERT INTO "items" VALUES(1103,'b40d95fbe8d6a729054729a5a25d645253fe1156','ETtech Deals Digest: Even, Different lead as weekly funding hits $246 million, down 27% on-year',NULL,NULL,NULL,NULL,NULL,NULL,'2026-10-23T23:08:33.359391+00:00','irrelevant');
 COMMIT;
