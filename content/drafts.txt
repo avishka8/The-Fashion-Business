@@ -1,3 +1,35 @@
+[1071] (retail) Westside to charge ₹49 convenience fee on credit card transactions
+    Westside has announced plans to charge a ₹49 convenience fee on all in-store credit card transactions starting from October 8. The fee applies to purchases made at its physical retail locations.
+    sources: CNBC TV18
+
+[1073] (funding) The Pant Project raises ₹109 crore and plans 150 stores
+    The Pant Project has raised ₹109 crore in funding. The brand is evaluating whether opening 150 stores can pay off.
+    sources: Fibre2Fashion, Fibre2Fashion
+
+[1074] (retail) AAPE By A Bathing Ape Enters India With First Store
+    AAPE BY A BATHING APE has entered the Indian market by opening its first store in Delhi. The brand expansion marks its physical retail debut in the country.
+    sources: Indian Retailer
+
+[1077] (retail) United Colors Of Benetton Opens Five New Stores in One Day
+    United Colors Of Benetton has expanded its retail presence by opening five new stores across three states in a single day. This strategic move enhances the brand's footprint in the region through physical retail expansion.
+    sources: IFAB MEDIA
+
+[1078] (retail) NEWME Expands Retail Footprint With Four New Store Launches Across India
+    NEWME is expanding its retail footprint with the launch of four new stores across India. The text announces these new store openings as part of the brand's retail expansion.
+    sources: IFAB MEDIA
+
+[1087] (textiles) Odisha's handloom industry embraces the digital age
+    The handloom industry in Odisha is transitioning into the digital age. This move involves shifting processes from the traditional loom to cloud-based systems.
+    sources: ODISHA RAY
+
+[1088] (fashion-week) India Lakme Fashion Week licensable picture available
+    A licensable picture is available for India Lakme Fashion Week. No further details are provided in the text.
+    sources: Reuters Connect
+
+[1089] (fashion-week) HUEMN showcases collection at Lakme Fashion Week x FDCI
+    Fashion brand HUEMN presented a collection that blurs the lines between beauty and terror at the Lakme Fashion Week x FDCI event. The showcase highlighted the brand's latest designs on the runway.
+    sources: Indulge Express
+
 [1065] (retail) NBA Partners with Suditi for Merchandise Sales in India
     The NBA has partnered with Suditi to expand official merchandise sales within the Indian market. This collaboration focuses on growing the availability of official merchandise through retail channels in India.
     sources: Indian Retailer
@@ -24,7 +56,7 @@
 
 [1044] (retail) SHREE Plans 400 Stores by 2031 and Introduces New Retail Format
     Indian ethnic wear brand SHREE aims to reach the 400-store milestone by 2031. The brand's new retail format, 'SHREE-Beyond Special', is taking centre stage in its expansion plans.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1045] (retail) First NBA Store in India to Open in 2027
     The first NBA store in India is scheduled to open in 2027. This development comes through an expanded merchandising partnership with Suditi.
@@ -152,7 +184,7 @@
 
 [988] (retail) Amazon Fashion sees non-metros drive festive orders
     Amazon Fashion reported that non-metro areas drove over 50 per cent of festive fashion and beauty orders. This indicates a shift in shopping habits across the region.
-    sources: Cosmopolitan India, Cosmopolitan India
+    sources: Cosmopolitan India, Cosmopolitan India, Cosmopolitan India
 
 [989] (retail) Myntra Report Details Gen Z Impact on Beauty Market
     A Myntra report highlights how Gen Z is reshaping India's beauty and personal care market. The findings detail evolving consumption trends within this demographic.
