@@ -1,3 +1,43 @@
+[1111] (funding) Funding and acquisitions in Indian startups this week
+    This text provides an overview of funding and acquisitions in Indian startups for the week of October 19 to October 24. No specific brands or financial details are mentioned in the provided snippet.
+    sources: Entrackr
+
+[1115] (funding) Chapter Home Raises Rs 63 Crore for HOKIPO Expansion
+    Chapter Home has raised Rs 63 crore. The company plans to use the funds for its HOKIPO retail expansion.
+    sources: https://ascendants.in/
+
+[1116] (fashion-week) Indian Australian SMEs at Melbourne Fashion Week
+    Indian Australian small and medium enterprises made their mark at Melbourne Fashion Week. The event highlighted their presence and participation.
+    sources: SmartCompany
+
+[1119] (funding) Harajuku Tokyo Café Raises $3 Million
+    Harajuku Tokyo Café has raised $3 million in funding. The company is also targeting a revenue of 100 crore rupees.
+    sources: ascendants.in
+
+[1120] (retail) India sizing up issue as XL sizes out in West
+    The text highlights an issue regarding clothing sizes, noting that XL sizes are being phased out in the West while India is facing a sizing up issue. No additional details or company names are provided in the source text.
+    sources: The Financial Express
+
+[1121] (retail) Shoppers Stop sharpens premium retail push
+    Shoppers Stop is focusing on a premium retail strategy. The company aims to strengthen its market position through this upscale approach.
+    sources: The Financial Express
+
+[1122] (retail) Raymond Lifestyle CBO discusses retail expansion strategy
+    Neeraj Nagpal, CBO of Raymond Lifestyle, discusses the company's retail expansion strategy. The text outlines insights regarding their approach to growing their retail footprint.
+    sources: Storyboard18
+
+[1123] (retail) Libas targets 30% annual growth and store expansion
+    Libas is targeting a 30 percent annual growth rate. The brand also plans to open 250 to 300 stores over the next two to three years.
+    sources: ET Retail
+
+[1126] (d2c) How D2C Brands Can Build Stronger Teams While Scaling Across Markets
+    This article discusses strategies for D2C brands to build stronger teams while scaling across different markets. It provides guidance on team development during the scaling process.
+    sources: Indian Retailer
+
+[1127] (retail) Kicky & Perky Targets 200 Stores in Three Years
+    Jewellery brand Kicky & Perky plans to expand its offline retail presence by targeting 200 stores within the next three years. The brand is betting heavily on physical retail channels to drive its future growth.
+    sources: Indian Retailer
+
 [1107] (policy) Government considers ₹40,000-crore textile modernisation plan
     The government is weighing a ₹40,000-crore plan to modernise textile clusters over a five-year period. The initiative aims to upgrade the textile sector infrastructure.
     sources: Livemint
@@ -36,7 +76,7 @@
 
 [1078] (retail) NEWME Expands Retail Footprint With Four New Store Launches Across India
     NEWME is expanding its retail footprint with the launch of four new stores across India. The text announces these new store openings as part of the brand's retail expansion.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [1087] (textiles) Odisha's handloom industry embraces the digital age
     The handloom industry in Odisha is transitioning into the digital age. This move involves shifting processes from the traditional loom to cloud-based systems.
