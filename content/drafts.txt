@@ -1,3 +1,67 @@
+[1168] (funding) ReplyAll Raises Rs 9.7 Cr in Funding Round
+    Performance wear brand ReplyAll has raised Rs 9.7 crore in a new funding round. The investment will support the brand's growth and business operations.
+    sources: Indian Retailer
+
+[1169] (funding) ReplyAll Raises Rs. 9.7 crore in Funding
+    ReplyAll has raised Rs. 9.7 crore in a funding round. The investment was led by Sadev Ventures and Atom XVII.
+    sources: Local Samosa
+
+[1172] (retail) Jaipur Kurti Opens 5th Retail Store in Ludhiana
+    Nandani Creation Ltd's brand Jaipur Kurti is set to open its 5th retail store in October 2026. The new store will be located in Ludhiana.
+    sources: EquityBulls
+
+[1173] (retail) Jaipur Kurti Opens Fifth Store in October 2026
+    Jaipur Kurti is scheduled to open its fifth store in October 2026. The announcement highlights the brand's retail expansion plans.
+    sources: Indian Retailer
+
+[1174] (retail) Jaipur Kurti opens fifth store as part of expansion
+    Jaipur Kurti has opened its fifth store in October. This move is part of the brand's Project 50 retail expansion initiative.
+    sources: IFAB MEDIA
+
+[1175] (retail) Limelight Diamonds Crosses 100 Stores Across 45 Indian Cities
+    Limelight Diamonds has reached a milestone of over 100 stores. The retail presence now spans 45 cities across India.
+    sources: Indian Retailer
+
+[1176] (retail) Berkowits Hair and Skin Clinics Opens Franchise Opportunities
+    Berkowits Hair and Skin Clinics has announced the opening of franchise opportunities across India. The expansion invites partners to open clinics in various regions.
+    sources: Indian Retailer
+
+[1178] (d2c) Myntra Big Fashion Festival sees strong D2C orders
+    The Myntra Big Fashion Festival recorded nearly 2X orders for D2C brands. The event highlighted growth for direct-to-consumer labels on the platform.
+    sources: Indian Retailer
+
+[1179] (retail) Myntra doubles orders during Big Fashion Festival
+    Myntra's Big Fashion Festival nearly doubled orders as festive demand spread beyond metros. The event highlighted strong growth in consumer demand outside of major metropolitan areas.
+    sources: The Economic Times, The Economic Times
+
+[1183] (textiles) India's textile industry targets $350 billion by 2030
+    India's textile industry is targeting a market size of $350 billion by 2030. This projection comes as exports rebound while costs continue to rise.
+    sources: The Economic Times
+
+[1184] (textiles) India-NZ FTA and textile exports
+    The text discusses whether the India-New Zealand Free Trade Agreement can boost $125.6 million in textile exports. It examines the potential impact of zero tariffs on bilateral trade in the textile sector.
+    sources: Fibre2Fashion
+
+[1187] (textiles) Gujarat pitches textile sector to South Korea
+    Gujarat has made a textile pitch to South Korea, highlighting the PM-Mitra Park, an integrated chain, and export links. The focus is on textile infrastructure and international trade opportunities.
+    sources: India Tribune - Chicago
+
+[1188] (textiles) India's textile industry targets $350 billion by 2030
+    India's textile industry is targeting a market size of $350 billion by 2030. Additionally, the TEEM scheme may potentially benefit the state of Odisha.
+    sources: prameyanews.com
+
+[1191] (policy) GeM’s AABHAR Collection Connects Local Artisans with Government Buyers
+    The GeM has introduced the AABHAR Collection to connect local artisans with government buyers. This initiative aims to facilitate direct access for traditional creators to public procurement markets.
+    sources: SMEStreet
+
+[1193] (fashion-week) NIF Global presents GENNEXT at Lakmé Fashion Week x FDCI
+    NIF Global presents GENNEXT featuring three noteworthy visions at Lakmé Fashion Week x FDCI. The event showcases new perspectives within the context of fashion-week commerce.
+    sources: Hindustan Times, Outlook Business
+
+[1201] (fashion-week) Pearl Academy Showcases GenAnokhi at Lakme Fashion Week
+    Pearl Academy featured a showcase of GenAnokhi at Lakme Fashion Week. The event also included the launch of a men's styling guide by Sharad Mehra.
+    sources: Business Standard
+
 [1163] (funding) Harajuku Tokyo Cafe raises $3 million in Pre-Series A funding
     Harajuku Tokyo Cafe has raised $3 million in a Pre-Series A funding round. The capital will be used for the business according to the announcement.
     sources: ET HospitalityWorld
@@ -108,7 +172,7 @@
 
 [1127] (retail) Kicky & Perky Targets 200 Stores in Three Years
     Jewellery brand Kicky & Perky plans to expand its offline retail presence by targeting 200 stores within the next three years. The brand is betting heavily on physical retail channels to drive its future growth.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1107] (policy) Government considers ₹40,000-crore textile modernisation plan
     The government is weighing a ₹40,000-crore plan to modernise textile clusters over a five-year period. The initiative aims to upgrade the textile sector infrastructure.
