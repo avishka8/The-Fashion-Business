@@ -1,3 +1,35 @@
+[1207] (funding) D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A
+    D2C apparel brand ReplyAll has raised Rs 9.7 crore in a pre-Series A funding round. The capital will be utilized for the growth and expansion of the brand.
+    sources: Entrackr
+
+[1208] (funding) Gujarat plans umbrella AMC to fund startups
+    Gujarat plans an umbrella AMC to fund startups. The text does not contain any further details.
+    sources: The Times of India
+
+[1213] (retail) The Body Shop Opens New Store at Pacific Mall Jaipur
+    The Body Shop has opened a new retail store at Pacific Mall Jaipur. The expansion adds to the brand's physical retail presence in India.
+    sources: Indian Retailer
+
+[1215] (retail) AAPE By A Bathing Ape Enters India With First Store
+    AAPE BY A BATHING APE has entered the Indian market by opening its first standalone store. The new retail location is situated at Ambience Mall in Vasant Kunj, Delhi.
+    sources: BizzBuzz
+
+[1218] (retail) India's Fragrance Retail Evolves From Premium to Pocket-Friendly
+    India's fragrance retail market is evolving with a shift from premium perfumes to pocket-friendly scents. This change highlights new retail trends in the Indian fragrance sector.
+    sources: Indian Retailer
+
+[1220] (funding) The Pant Project raises 109 Crore and plans store expansion
+    The Pant Project has secured a funding raise of 109 Crore. The brand is evaluating whether opening 150 stores can pay off following this investment.
+    sources: Fibre2Fashion
+
+[1223] (textiles) GeM Promotes The AABHAR Collection to Support Artisans
+    GeM is promoting 'The AABHAR Collection' to showcase India's cultural heritage. The initiative aims to support local artisans.
+    sources: India Education Diary
+
+[1226] (fashion-week) American Express offers front-row seating at Lakmē Fashion Week
+    American Express is offering eligible card members access to reserved front-row seating at Lakmē Fashion Week. This initiative is in partnership with the Fashion Design Council of India.
+    sources: The Tribune
+
 [1168] (funding) ReplyAll Raises Rs 9.7 Cr in Funding Round
     Performance wear brand ReplyAll has raised Rs 9.7 crore in a new funding round. The investment will support the brand's growth and business operations.
     sources: Indian Retailer
@@ -28,7 +60,7 @@
 
 [1178] (d2c) Myntra Big Fashion Festival sees strong D2C orders
     The Myntra Big Fashion Festival recorded nearly 2X orders for D2C brands. The event highlighted growth for direct-to-consumer labels on the platform.
-    sources: Indian Retailer
+    sources: Indian Retailer, Apparel Resources
 
 [1179] (retail) Myntra doubles orders during Big Fashion Festival
     Myntra's Big Fashion Festival nearly doubled orders as festive demand spread beyond metros. The event highlighted strong growth in consumer demand outside of major metropolitan areas.
@@ -36,7 +68,7 @@
 
 [1183] (textiles) India's textile industry targets $350 billion by 2030
     India's textile industry is targeting a market size of $350 billion by 2030. This projection comes as exports rebound while costs continue to rise.
-    sources: The Economic Times
+    sources: The Economic Times, Devdiscourse
 
 [1184] (textiles) India-NZ FTA and textile exports
     The text discusses whether the India-New Zealand Free Trade Agreement can boost $125.6 million in textile exports. It examines the potential impact of zero tariffs on bilateral trade in the textile sector.
@@ -44,7 +76,7 @@
 
 [1187] (textiles) Gujarat pitches textile sector to South Korea
     Gujarat has made a textile pitch to South Korea, highlighting the PM-Mitra Park, an integrated chain, and export links. The focus is on textile infrastructure and international trade opportunities.
-    sources: India Tribune - Chicago
+    sources: India Tribune - Chicago, India Tribune - Chicago
 
 [1188] (textiles) India's textile industry targets $350 billion by 2030
     India's textile industry is targeting a market size of $350 billion by 2030. Additionally, the TEEM scheme may potentially benefit the state of Odisha.
@@ -64,7 +96,7 @@
 
 [1163] (funding) Harajuku Tokyo Cafe raises $3 million in Pre-Series A funding
     Harajuku Tokyo Cafe has raised $3 million in a Pre-Series A funding round. The capital will be used for the business according to the announcement.
-    sources: ET HospitalityWorld
+    sources: ET HospitalityWorld, BW Disrupt
 
 [1165] (textiles) India's Textile & Apparel Industry Begins AI & Digitalisation Journey
     India's textile and apparel industry has begun its journey towards AI and digitalisation. This is according to a study by CITI.
