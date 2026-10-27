@@ -1,3 +1,47 @@
+[1245] (funding) FY26 Financial Tracker for Indian Startups
+    This tracker monitors the financial performance of Indian startups for the fiscal year 26. It provides a system to track business and financial metrics within the startup ecosystem.
+    sources: Inc42
+
+[1246] (funding) Rotoris raises $8.5 million in Series A funding
+    Rotoris has secured $8.5 million in a Series A funding round led by Blume Ventures. The company plans to use the capital for global expansion.
+    sources: ET Retail
+
+[1247] (funding) Indian luxury watch brand Rotoris raises Rs 70 crore
+    Indian luxury watch brand Rotoris has raised Rs 70 crore. The brand plans to open Rotoris House in Mumbai and New York.
+    sources: Indian Startup News
+
+[1250] (funding) Live2.ai Raises Rs 130 Crore in Pre-Series B Funding
+    Live2.ai has raised Rs 130 crore in a Pre-Series B funding round. The investment was led by IvyCap Ventures.
+    sources: Indian Startup Times
+
+[1252] (retail) PNGS Reva Diamond Jewellery Reports H1 FY27 Growth
+    PNGS Reva Diamond Jewellery has reported strong revenue and profit growth for the first half of fiscal year 2027. The financial results highlight positive business performance during this period.
+    sources: Indian Retailer
+
+[1254] (retail) Stylox Fashion opens 61st store and first Gurugram flagship
+    Stylox Fashion has opened its 61st store with the launch of its first flagship outlet in Gurugram. This expansion marks a new retail milestone for the brand in the Indian market.
+    sources: Indian Retailer
+
+[1255] (retail) Allen Solly Opens New Store at Raipur
+    Allen Solly has opened a new store at Raipur. The announcement marks an expansion of the brand's retail presence.
+    sources: Indian Retailer
+
+[1256] (retail) Myntra Big Fashion Festival Records Strong Growth
+    Myntra's Big Fashion Festival has recorded strong growth. The text provides no further details beyond the headline.
+    sources: Passionate In Marketing
+
+[1257] (retail) Aape by A Bathing Ape to open first store in New Delhi
+    Streetwear brand AAPE BY A BATHING APE is entering the Indian market. The brand plans to open its first store in New Delhi.
+    sources: Indian Retailer
+
+[1261] (textiles) Government weighs ₹40,000-crore textile cluster plan
+    The government is considering a ₹40,000-crore plan to modernise textile clusters over a period of five years. This initiative aims to upgrade the textile sector infrastructure.
+    sources: Livemint
+
+[1267] (fashion-week) Ladakh's The Fifth Season showcased at Lakmé Fashion Week 2026
+    The fashion story from Ladakh titled 'The Fifth Season' made an appearance at Lakmé Fashion Week partnered by FDCI 2026. The presentation showcased Ladakhi fashion at the event.
+    sources: Morning Kashmir
+
 [1231] (retail) Neeman’s Expands Offline Retail Network with 50th Store in Hyderabad
     Footwear brand Neeman's has expanded its offline retail network by opening its 50th store in Hyderabad. This milestone marks the brand's continued growth in the physical retail sector.
     sources: Indian Retailer
@@ -12,7 +56,7 @@
 
 [1207] (funding) D2C apparel brand ReplyAll raises Rs 9.7 Cr in pre-Series A
     D2C apparel brand ReplyAll has raised Rs 9.7 crore in a pre-Series A funding round. The capital will be utilized for the growth and expansion of the brand.
-    sources: Entrackr
+    sources: Entrackr, Siliconindia
 
 [1208] (funding) Gujarat plans umbrella AMC to fund startups
     Gujarat plans an umbrella AMC to fund startups. The text does not contain any further details.
@@ -40,7 +84,7 @@
 
 [1226] (fashion-week) American Express offers front-row seating at Lakmē Fashion Week
     American Express is offering eligible card members access to reserved front-row seating at Lakmē Fashion Week. This initiative is in partnership with the Fashion Design Council of India.
-    sources: The Tribune
+    sources: The Tribune, TheWire.in
 
 [1168] (funding) ReplyAll Raises Rs 9.7 Cr in Funding Round
     Performance wear brand ReplyAll has raised Rs 9.7 crore in a new funding round. The investment will support the brand's growth and business operations.
@@ -48,7 +92,7 @@
 
 [1169] (funding) ReplyAll Raises Rs. 9.7 crore in Funding
     ReplyAll has raised Rs. 9.7 crore in a funding round. The investment was led by Sadev Ventures and Atom XVII.
-    sources: Local Samosa
+    sources: Local Samosa, ET Retail, Indian Startup News
 
 [1172] (retail) Jaipur Kurti Opens 5th Retail Store in Ludhiana
     Nandani Creation Ltd's brand Jaipur Kurti is set to open its 5th retail store in October 2026. The new store will be located in Ludhiana.
@@ -80,7 +124,7 @@
 
 [1183] (textiles) India's textile industry targets $350 billion by 2030
     India's textile industry is targeting a market size of $350 billion by 2030. This projection comes as exports rebound while costs continue to rise.
-    sources: The Economic Times, Devdiscourse, Dainik Jagran MP CG
+    sources: The Economic Times, Devdiscourse, Dainik Jagran MP CG, Fibre2Fashion, ET Retail, Apparel Views
 
 [1184] (textiles) India-NZ FTA and textile exports
     The text discusses whether the India-New Zealand Free Trade Agreement can boost $125.6 million in textile exports. It examines the potential impact of zero tariffs on bilateral trade in the textile sector.
