@@ -1,3 +1,23 @@
+[1273] (retail) Myntra Beauty adds Anua to its portfolio
+    Myntra Beauty has added Korean skincare brand Anua to its portfolio. The addition expands the platform's skincare offerings.
+    sources: Indian Retailer
+
+[1275] (retail) Jack & Jones Opens New Store in Bihar
+    Jack & Jones has opened a new retail store in Bihar. The expansion adds to the brand's physical retail footprint in the region.
+    sources: Indian Retailer
+
+[1277] (retail) Timex India grows 35-37 percent amid broader watch industry growth
+    Timex India is growing at 35 to 37 percent and aiming for market share as the watch industry clocks 14 percent growth. Deepak Chh... leads the company's growth strategy.
+    sources: ET Retail
+
+[1279] (d2c) Kapiva FY26 revenue nears Rs 465 Cr with offline growth
+    Kapiva's revenue is nearing Rs 465 crore in FY26. The growth is driven by an 81 percent increase in offline sales.
+    sources: Indian Retailer
+
+[1282] (textiles) Surgical Gowns Reusable Market in India
+    This text provides information regarding the surgical gowns reusable market in India, including size, trends, and a forecast up to 2035. No specific brands or additional factual details are included in the provided text.
+    sources: IndexBox
+
 [1245] (funding) FY26 Financial Tracker for Indian Startups
     This tracker monitors the financial performance of Indian startups for the fiscal year 26. It provides a system to track business and financial metrics within the startup ecosystem.
     sources: Inc42
@@ -12,7 +32,7 @@
 
 [1250] (funding) Live2.ai Raises Rs 130 Crore in Pre-Series B Funding
     Live2.ai has raised Rs 130 crore in a Pre-Series B funding round. The investment was led by IvyCap Ventures.
-    sources: Indian Startup Times
+    sources: Indian Startup Times, Indian Startup Times
 
 [1252] (retail) PNGS Reva Diamond Jewellery Reports H1 FY27 Growth
     PNGS Reva Diamond Jewellery has reported strong revenue and profit growth for the first half of fiscal year 2027. The financial results highlight positive business performance during this period.
