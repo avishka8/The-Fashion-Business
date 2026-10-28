@@ -1,10 +1,50 @@
+[1299] (funding) Skincare Brand CHOSEN Raises Series A Funding Extension
+    Indian skincare brand CHOSEN has raised a Series A funding extension. The company secured the capital to support its ongoing business operations and growth.
+    sources: Indian Retailer
+
+[1304] (brand-moves) MMG Group Appoints Smeer Chopra as Group CFO
+    MMG Group has announced the appointment of Smeer Chopra as its new Group CFO. The text provides no further details regarding the executive move or the company's business operations.
+    sources: Indian Retailer
+
+[1306] (retail) Apparel Group India opens 80th ALDO store in Ludhiana
+    Apparel Group India has opened its 80th store for the brand ALDO. The new retail outlet is located in Ludhiana.
+    sources: IFAB MEDIA
+
+[1307] (retail) LOTTO Opens First India Store in Surat, Gujarat
+    LOTTO has opened its first store in India. The new retail location is established in Surat, Gujarat.
+    sources: Indian Retailer
+
+[1309] (fashion-week) Gold Coast Films to debut Bharat Runway Tour in Paris
+    Gold Coast Films is set to debut the Bharat Runway Tour in Paris. The event is scheduled to take place in February 2027.
+    sources: The Tribune, LatestLY
+
+[1310] (retail) How AI Is Rewriting the Rules of India's Fast-Fashion Retail
+    Artificial intelligence is changing the rules of fast-fashion retail in India. The text discusses the impact of AI on the fast-fashion sector.
+    sources: Indian Retailer
+
+[1312] (retail) Nykaa Uses Experiential Retail for Nykaaland 4.0
+    Nykaa is utilizing experiential retail to drive beauty discovery through the event Nykaaland 4.0. The initiative focuses on enhancing consumer engagement and product discovery in the beauty sector.
+    sources: Indian Retailer
+
+[1315] (policy) India and Mexico to start trade talks
+    India and Mexico are set to begin trade talks. The discussions come amid 50 percent tariffs on Indian exports.
+    sources: Apparel Views
+
+[1316] (textiles) Gartex Texprocess India Expands to Kolkata for January 2027
+    Gartex Texprocess India is expanding its textile technology platform to Kolkata. The event is scheduled to be hosted in January 2027.
+    sources: Apparel Views
+
+[1322] (fashion-week) American Express Offers Reserved Front-Row Seats at Lakmē Fashion Week
+    American Express is offering reserved front-row seats at Lakmē Fashion Week. The initiative provides cardmembers special access to the fashion event.
+    sources: India CSR
+
 [1288] (d2c) Bombay Shaving Company and Male Grooming Habits
     This text discusses Bombay Shaving Company in the context of the evolution of male grooming habits. No further details, numbers, or specific events are provided in the snippet.
     sources: MarkHub24
 
 [1289] (funding) Rotoris Raises Rs 70 Crore in Series A Funding
     Rotoris has raised Rs 70 crore in a Series A funding round. The investment was led by Blume.
-    sources: Siliconindia
+    sources: Siliconindia, Passionate In Marketing
 
 [1290] (funding) Xelpmoc-incubated Live2.ai raises Rs 130 crore for AI agents
     Xelpmoc-incubated Live2.ai has raised Rs 130 crore. The funds will be used to build AI agents for social commerce.
@@ -16,7 +56,7 @@
 
 [1293] (policy) India and Mexico to launch PTA talks
     India and Mexico are set to launch preferential trade agreement talks. The discussions aim to counter tariffs of up to 50 percent.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1295] (textiles) BGMEA reports garment capacity loss and energy challenges
     The BGMEA reports a 25-30% loss in garment capacity due to issues surrounding energy supply. The situation raises questions about whether the energy supply can improve.
@@ -120,7 +160,7 @@
 
 [1213] (retail) The Body Shop Opens New Store at Pacific Mall Jaipur
     The Body Shop has opened a new retail store at Pacific Mall Jaipur. The expansion adds to the brand's physical retail presence in India.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1215] (retail) AAPE By A Bathing Ape Enters India With First Store
     AAPE BY A BATHING APE has entered the Indian market by opening its first standalone store. The new retail location is situated at Ambience Mall in Vasant Kunj, Delhi.
