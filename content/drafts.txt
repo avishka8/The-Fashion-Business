@@ -1,3 +1,31 @@
+[1323] (funding) Rotoris raises ₹70 crore in Series A funding
+    Rotoris has secured ₹70 crore in a Series A funding round. The investment was led by Blume Ventures.
+    sources: India Retailing
+
+[1325] (retail) Good Earth Opens Redesigned Flagship Store in Gurgaon
+    Good Earth has opened a redesigned flagship store in Gurgaon. The new retail space showcases the brand's offerings.
+    sources: Indian Retailer
+
+[1327] (retail) Nisara Opens New Fragrance Kiosk at Pacific Mall Jaipur
+    Nisara has opened a new fragrance kiosk at Pacific Mall in Jaipur. The retail expansion brings the brand's fragrance offerings to the Jaipur location.
+    sources: Indian Retailer
+
+[1328] (brand-moves) Flipkart Promotes Renuka Singaram to Senior Vice President
+    Flipkart has promoted Renuka Singaram to the position of Senior Vice President. The announcement details leadership changes within the company.
+    sources: Indian Retailer
+
+[1329] (retail) PC Jewellers Reports Q2 Profit Jump
+    PC Jewellers has announced a 58 percent jump in its Q2 profit, reaching Rs 331 Cr. The retail news highlights the company's financial performance during the quarter.
+    sources: Indian Retailer
+
+[1330] (textiles) AEPC aims to broaden India's apparel export base
+    The Apparel Export Promotion Council (AEPC) has emphasized the need to broaden India's export base to boost apparel shipments. The initiative focuses on strategic measures to enhance the country's textile and apparel export sector.
+    sources: Rediff
+
+[1331] (textiles) Textile ministry reopens PLI scheme with lower threshold
+    The textile ministry has reopened the PLI scheme and halved the turnover threshold to ₹100 crore. This policy update affects the textiles and exports sector in India.
+    sources: Livemint
+
 [1299] (funding) Skincare Brand CHOSEN Raises Series A Funding Extension
     Indian skincare brand CHOSEN has raised a Series A funding extension. The company secured the capital to support its ongoing business operations and growth.
     sources: Indian Retailer
@@ -32,7 +60,7 @@
 
 [1316] (textiles) Gartex Texprocess India Expands to Kolkata for January 2027
     Gartex Texprocess India is expanding its textile technology platform to Kolkata. The event is scheduled to be hosted in January 2027.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [1322] (fashion-week) American Express Offers Reserved Front-Row Seats at Lakmē Fashion Week
     American Express is offering reserved front-row seats at Lakmē Fashion Week. The initiative provides cardmembers special access to the fashion event.
@@ -160,7 +188,7 @@
 
 [1213] (retail) The Body Shop Opens New Store at Pacific Mall Jaipur
     The Body Shop has opened a new retail store at Pacific Mall Jaipur. The expansion adds to the brand's physical retail presence in India.
-    sources: Indian Retailer, Indian Retailer
+    sources: Indian Retailer, Indian Retailer, Indian Retailer
 
 [1215] (retail) AAPE By A Bathing Ape Enters India With First Store
     AAPE BY A BATHING APE has entered the Indian market by opening its first standalone store. The new retail location is situated at Ambience Mall in Vasant Kunj, Delhi.
