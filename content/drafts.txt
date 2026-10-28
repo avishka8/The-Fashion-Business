@@ -1,3 +1,39 @@
+[1288] (d2c) Bombay Shaving Company and Male Grooming Habits
+    This text discusses Bombay Shaving Company in the context of the evolution of male grooming habits. No further details, numbers, or specific events are provided in the snippet.
+    sources: MarkHub24
+
+[1289] (funding) Rotoris Raises Rs 70 Crore in Series A Funding
+    Rotoris has raised Rs 70 crore in a Series A funding round. The investment was led by Blume.
+    sources: Siliconindia
+
+[1290] (funding) Xelpmoc-incubated Live2.ai raises Rs 130 crore for AI agents
+    Xelpmoc-incubated Live2.ai has raised Rs 130 crore. The funds will be used to build AI agents for social commerce.
+    sources: Indian Startup News
+
+[1292] (textiles) Cambodia overtakes India in 9 US apparel categories
+    Cambodia has overtaken India in nine US apparel categories, resulting in a $770 million swing. The shift impacts the textile and export sector between the competing nations.
+    sources: Fibre2Fashion
+
+[1293] (policy) India and Mexico to launch PTA talks
+    India and Mexico are set to launch preferential trade agreement talks. The discussions aim to counter tariffs of up to 50 percent.
+    sources: Fibre2Fashion
+
+[1295] (textiles) BGMEA reports garment capacity loss and energy challenges
+    The BGMEA reports a 25-30% loss in garment capacity due to issues surrounding energy supply. The situation raises questions about whether the energy supply can improve.
+    sources: Fibre2Fashion
+
+[1296] (textiles) Garment workers protest pension rule changes in Karnataka
+    Garment workers at Shahi Exports and Laguna Clothing have protested against pension rule changes in Karnataka. The report includes company non-responses regarding the issue.
+    sources: Business and Human Rights Centre
+
+[1297] (textiles) Textiles Ministry to launch Digital Handloom Atlas
+    The Textiles Ministry is set to launch the Digital Handloom Atlas at the GI & Beyond 2.0 Summit. The announcement highlights government initiatives concerning the textiles sector.
+    sources: DD News
+
+[1298] (fashion-week) UP Village Women Create Handmade Fashion for Lakmé Fashion Week
+    Women from a village in Uttar Pradesh created handmade fashion from weed to reach Lakmé Fashion Week. The full story details their transition from weed to handmade fashion.
+    sources: The Daily Jagran
+
 [1273] (retail) Myntra Beauty adds Anua to its portfolio
     Myntra Beauty has added Korean skincare brand Anua to its portfolio. The addition expands the platform's skincare offerings.
     sources: Indian Retailer
@@ -112,7 +148,7 @@
 
 [1169] (funding) ReplyAll Raises Rs. 9.7 crore in Funding
     ReplyAll has raised Rs. 9.7 crore in a funding round. The investment was led by Sadev Ventures and Atom XVII.
-    sources: Local Samosa, ET Retail, Indian Startup News
+    sources: Local Samosa, ET Retail, Indian Startup News, Indian Startup Times
 
 [1172] (retail) Jaipur Kurti Opens 5th Retail Store in Ludhiana
     Nandani Creation Ltd's brand Jaipur Kurti is set to open its 5th retail store in October 2026. The new store will be located in Ludhiana.
