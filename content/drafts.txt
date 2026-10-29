@@ -1,3 +1,43 @@
+[1351] (funding) ISLAND Beauty raises funding
+    ISLAND Beauty has raised ₹2.58 Cr from AJVC and angel investors. The funding round involves the aforementioned entities.
+    sources: ET Entrepreneur
+
+[1352] (funding) Zepto becomes unicorn with $200 million funding
+    Zepto has raised $200 million in a new funding round. This round values the company at $1.4 billion, making it a unicorn.
+    sources: ET Retail
+
+[1353] (retail) Zara vs Bershka: Inditex brand strategy in India
+    This piece discusses the positioning and market play of Inditex brands Zara and Bershka within the Indian market. It evaluates which of the two brands holds a stronger presence in the country.
+    sources: Fibre2Fashion
+
+[1354] (d2c) Knya Builds ₹250 Crore Medical Scrubs Business in India
+    Knya has built a medical scrubs business in India valued at ₹250 crore. The company operates in the medical apparel sector.
+    sources: https://ascendants.in/
+
+[1358] (retail) Palmonas Opens 115th Store in Bengaluru
+    Palmonas has expanded its physical retail presence by opening its 115th store in HSR Layout, Bengaluru. The expansion marks another milestone for the brand in the Indian market.
+    sources: Indian Retailer
+
+[1360] (retail) OVS targets 7 stores in India by 2027
+    Italian brand OVS plans to open 7 stores in India by 2027 and aims to establish 25 to 40 outlets within 5 to 7 years. The company expects India to become its largest subsidiary outside of Italy.
+    sources: ET Retail
+
+[1362] (retail) Quick Commerce Expands India’s Retail Playbook
+    Quick commerce platforms are expanding their retail playbook by moving beyond groceries into fashion. This shift marks a new development in India's retail and delivery sector.
+    sources: Indian Retailer
+
+[1363] (retail) Changing Consumer Trends in India’s Premium Footwear Market
+    Consumer trends in India’s premium footwear market are shifting from festive splurges to everyday luxury. The market is experiencing changes in how consumers approach footwear purchases.
+    sources: Indian Retailer
+
+[1366] (textiles) India's textile industry targets $350 billion by 2030
+    India's textile industry has set a target of reaching $350 billion by the year 2030. The projection comes as exports rebound and costs continue to rise according to a report.
+    sources: ET Retail
+
+[1367] (textiles) India's $100B Blueprint and New Export Programs
+    India has introduced a $100 billion blueprint utilizing new export programs aimed at transforming the country's textile hubs. These initiatives are designed to restructure and impact the textile sector within India.
+    sources: The Daily Jagran
+
 [1341] (funding) D2C Nutrition Brand Ace Blend Raises $9.9 Mn in Series A2 Round
     Ace Blend has raised $9.9 million in a Series A2 funding round. The company operates as a D2C nutrition brand.
     sources: Indian Retailer
@@ -88,7 +128,7 @@
 
 [1312] (retail) Nykaa Uses Experiential Retail for Nykaaland 4.0
     Nykaa is utilizing experiential retail to drive beauty discovery through the event Nykaaland 4.0. The initiative focuses on enhancing consumer engagement and product discovery in the beauty sector.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1315] (policy) India and Mexico to start trade talks
     India and Mexico are set to begin trade talks. The discussions come amid 50 percent tariffs on Indian exports.
@@ -148,7 +188,7 @@
 
 [1277] (retail) Timex India grows 35-37 percent amid broader watch industry growth
     Timex India is growing at 35 to 37 percent and aiming for market share as the watch industry clocks 14 percent growth. Deepak Chh... leads the company's growth strategy.
-    sources: ET Retail
+    sources: ET Retail, ET Retail
 
 [1279] (d2c) Kapiva FY26 revenue nears Rs 465 Cr with offline growth
     Kapiva's revenue is nearing Rs 465 crore in FY26. The growth is driven by an 81 percent increase in offline sales.
