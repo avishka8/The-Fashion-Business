@@ -1,3 +1,7 @@
+[1336] (retail) Goenka India Opens Jewellery Store at Jio World Plaza
+    Goenka India has opened a new jewellery store. The location of the new store is Jio World Plaza.
+    sources: Indian Retailer
+
 [1323] (funding) Rotoris raises ₹70 crore in Series A funding
     Rotoris has secured ₹70 crore in a Series A funding round. The investment was led by Blume Ventures.
     sources: India Retailing
@@ -216,7 +220,7 @@
 
 [1169] (funding) ReplyAll Raises Rs. 9.7 crore in Funding
     ReplyAll has raised Rs. 9.7 crore in a funding round. The investment was led by Sadev Ventures and Atom XVII.
-    sources: Local Samosa, ET Retail, Indian Startup News, Indian Startup Times
+    sources: Local Samosa, ET Retail, Indian Startup News, Indian Startup Times, ET Retail
 
 [1172] (retail) Jaipur Kurti Opens 5th Retail Store in Ludhiana
     Nandani Creation Ltd's brand Jaipur Kurti is set to open its 5th retail store in October 2026. The new store will be located in Ludhiana.
@@ -228,7 +232,7 @@
 
 [1174] (retail) Jaipur Kurti opens fifth store as part of expansion
     Jaipur Kurti has opened its fifth store in October. This move is part of the brand's Project 50 retail expansion initiative.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [1175] (retail) Limelight Diamonds Crosses 100 Stores Across 45 Indian Cities
     Limelight Diamonds has reached a milestone of over 100 stores. The retail presence now spans 45 cities across India.
@@ -248,7 +252,7 @@
 
 [1183] (textiles) India's textile industry targets $350 billion by 2030
     India's textile industry is targeting a market size of $350 billion by 2030. This projection comes as exports rebound while costs continue to rise.
-    sources: The Economic Times, Devdiscourse, Dainik Jagran MP CG, Fibre2Fashion, ET Retail, Apparel Views
+    sources: The Economic Times, Devdiscourse, Dainik Jagran MP CG, Fibre2Fashion, ET Retail, Apparel Views, Fibre2Fashion
 
 [1184] (textiles) India-NZ FTA and textile exports
     The text discusses whether the India-New Zealand Free Trade Agreement can boost $125.6 million in textile exports. It examines the potential impact of zero tariffs on bilateral trade in the textile sector.
