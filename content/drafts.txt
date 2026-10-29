@@ -1,3 +1,35 @@
+[1341] (funding) D2C Nutrition Brand Ace Blend Raises $9.9 Mn in Series A2 Round
+    Ace Blend has raised $9.9 million in a Series A2 funding round. The company operates as a D2C nutrition brand.
+    sources: Indian Retailer
+
+[1342] (retail) Nike, Asics and Decathlon ramp up India bets
+    Nike, Asics, and Decathlon are increasing their focus on India as the sports goods and apparel manufacturing sector is expected to reach $10 billion by 2030. The major brands are expanding their presence in the growing Indian market.
+    sources: Livemint
+
+[1343] (retail) The Souled Store Opens New Outlet in Zirakpur
+    The Souled Store has opened a new retail outlet in Zirakpur. The expansion adds to the brand's physical retail presence in India.
+    sources: Indian Retailer
+
+[1345] (retail) Aadyam Handmade opens a new retail store in Gurugram
+    Aadyam Handmade has expanded its physical retail presence by opening a new store in Gurugram. The brand focuses on handcrafted products as part of its retail operations.
+    sources: Indian Retailer
+
+[1347] (textiles) CITI: Revamped textile PLI scheme will boost investment in India
+    CITI states that the revamped textile PLI scheme will boost investment in India. The organization highlights the positive impact of the updated policy on the Indian textile sector.
+    sources: Fibre2Fashion
+
+[1348] (policy) PLI Round 4 to Advance India's Textile Sector
+    CITI notes that PLI Round 4 will advance India's textile ambitions, boost investment, and enhance global competitiveness. The initiative focuses on the textile sector as outlined in the provided text.
+    sources: Apparel Views
+
+[1349] (textiles) India's Textile & Apparel Industry Begins AI & Digitalisation Journey
+    A study by CITI indicates that India's textile and apparel industry has begun its journey into artificial intelligence and digitalisation. The report highlights the sector's adoption of new digital tools.
+    sources: Apparel Views
+
+[1350] (textiles) Textile PLI Scheme Reopens with ₹100 Crore Turnover Threshold
+    The textile PLI scheme has been reopened. It features a turnover threshold of ₹100 crore.
+    sources: GK Today
+
 [1336] (retail) Goenka India Opens Jewellery Store at Jio World Plaza
     Goenka India has opened a new jewellery store. The location of the new store is Jio World Plaza.
     sources: Indian Retailer
@@ -60,7 +92,7 @@
 
 [1315] (policy) India and Mexico to start trade talks
     India and Mexico are set to begin trade talks. The discussions come amid 50 percent tariffs on Indian exports.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [1316] (textiles) Gartex Texprocess India Expands to Kolkata for January 2027
     Gartex Texprocess India is expanding its textile technology platform to Kolkata. The event is scheduled to be hosted in January 2027.
@@ -160,7 +192,7 @@
 
 [1257] (retail) Aape by A Bathing Ape to open first store in New Delhi
     Streetwear brand AAPE BY A BATHING APE is entering the Indian market. The brand plans to open its first store in New Delhi.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1261] (textiles) Government weighs ₹40,000-crore textile cluster plan
     The government is considering a ₹40,000-crore plan to modernise textile clusters over a period of five years. This initiative aims to upgrade the textile sector infrastructure.
