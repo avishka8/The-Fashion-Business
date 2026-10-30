@@ -1,6 +1,34 @@
+[1372] (retail) Why Smart Distribution Is Becoming the Real Moat for Indian Startups
+    Indian startups are increasingly focusing on smart distribution to build a competitive advantage. The piece examines how distribution strategies are becoming a crucial moat in the market.
+    sources: https://ascendants.in/
+
+[1375] (retail) Libas targets 30 pc annual growth and store expansion
+    Ethnic wear brand Libas is targeting an annual growth of 30 percent. The company also plans to open 250 to 300 new stores over the next two to three years.
+    sources: ET Retail
+
+[1376] (d2c) Neeman's plans 10X retail expansion to reach Rs 1,000 crore by FY30
+    Neeman's plans to expand its retail presence from 50 to 500 stores. The brand is targeting Rs 1,000 crore in business by FY30.
+    sources: ET Retail
+
+[1377] (retail) Aadyam Handmade Opens New Store in Gurugram
+    Aadyam Handmade has opened a new store in Gurugram. The expansion takes the brand beyond handwoven textiles.
+    sources: Indian Retailer
+
+[1380] (policy) PLI scheme to be extended to garments sector: Textiles Minister
+    The Textiles Minister announced that the Production-Linked Incentive (PLI) scheme is set to be extended to the garments sector. This policy move impacts the textiles and apparel industry.
+    sources: ET Government
+
+[1381] (textiles) Ministry of Textiles Organises TEXPORT Programme in Noida
+    The Ministry of Textiles has organised the second TEXPORT capacity-building programme in Noida. The event was conducted through the AEPC.
+    sources: Apparel Views
+
+[1383] (textiles) Cotton shortage set to worsen as new deals drive export demand
+    New deals are driving export demand, which is set to worsen the existing cotton shortage. The text highlights concerns regarding cotton supply and increasing export pressures.
+    sources: The Economic Times
+
 [1351] (funding) ISLAND Beauty raises funding
     ISLAND Beauty has raised ₹2.58 Cr from AJVC and angel investors. The funding round involves the aforementioned entities.
-    sources: ET Entrepreneur
+    sources: ET Entrepreneur, Indian Startup Times
 
 [1352] (funding) Zepto becomes unicorn with $200 million funding
     Zepto has raised $200 million in a new funding round. This round values the company at $1.4 billion, making it a unicorn.
@@ -8,7 +36,7 @@
 
 [1353] (retail) Zara vs Bershka: Inditex brand strategy in India
     This piece discusses the positioning and market play of Inditex brands Zara and Bershka within the Indian market. It evaluates which of the two brands holds a stronger presence in the country.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1354] (d2c) Knya Builds ₹250 Crore Medical Scrubs Business in India
     Knya has built a medical scrubs business in India valued at ₹250 crore. The company operates in the medical apparel sector.
@@ -32,7 +60,7 @@
 
 [1366] (textiles) India's textile industry targets $350 billion by 2030
     India's textile industry has set a target of reaching $350 billion by the year 2030. The projection comes as exports rebound and costs continue to rise according to a report.
-    sources: ET Retail
+    sources: ET Retail, Apparel Views
 
 [1367] (textiles) India's $100B Blueprint and New Export Programs
     India has introduced a $100 billion blueprint utilizing new export programs aimed at transforming the country's textile hubs. These initiatives are designed to restructure and impact the textile sector within India.
@@ -204,7 +232,7 @@
 
 [1246] (funding) Rotoris raises $8.5 million in Series A funding
     Rotoris has secured $8.5 million in a Series A funding round led by Blume Ventures. The company plans to use the capital for global expansion.
-    sources: ET Retail
+    sources: ET Retail, ET Retail
 
 [1247] (funding) Indian luxury watch brand Rotoris raises Rs 70 crore
     Indian luxury watch brand Rotoris has raised Rs 70 crore. The brand plans to open Rotoris House in Mumbai and New York.
