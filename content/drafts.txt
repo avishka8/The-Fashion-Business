@@ -1,3 +1,39 @@
+[1390] (retail) KisaanSay Expands Digital Retail Presence Across Six Cities
+    KisaanSay is expanding its digital retail presence across six cities ahead of Diwali.
+    sources: Indian Retailer
+
+[1391] (retail) AAPE enters India with first standalone store in Delhi
+    AAPE has entered the Indian market by opening its first standalone store in Delhi. The brand also has plans for further expansion across major cities in the country.
+    sources: ET Retail, ET Retail
+
+[1392] (retail) Trent Retail Expansion Reaches 339 Cities With Zudio Growth
+    Trent retail expansion has reached 339 cities. This expansion is driven by Zudio growth.
+    sources: urbanacres.in
+
+[1393] (retail) Trent plans expansion of Zudio and Westside stores
+    Trent has announced major expansion plans involving more Zudio and Westside stores. The strategy includes a deeper push into Tier 2 and Tier 3 markets in India.
+    sources: The Economic Times
+
+[1394] (retail) Trent's Retail Expansion Redraws India's Urban Shopping Map
+    Trent is expanding its retail presence, which is changing the urban shopping map in India. The text highlights how these retail moves impact the domestic market landscape.
+    sources: Urban Acres
+
+[1395] (retail) Hunkemöller expands India retail presence with Jaipur store launch
+    Hunkemöller has expanded its retail presence in India with the launch of a new store in Jaipur. The opening marks a continuation of the brand's retail expansion strategy within the country.
+    sources: IFAB MEDIA
+
+[1397] (retail) Victoria’s Secret opens store at Nexus Ahmedabad One Mall
+    Victoria’s Secret has entered Ahmedabad by opening a 3,440 square foot store. The new retail outlet is located at Nexus Ahmedabad One Mall.
+    sources: IFAB MEDIA
+
+[1398] (retail) Crossword Expands Bengaluru Retail Presence With New Store
+    Crossword has expanded its retail presence in Bengaluru by opening a new store. The development adds to the brand's physical retail footprint in the region.
+    sources: Indian Retailer
+
+[1402] (retail) India's Retail Entrepreneurs Prepare for Market Moves
+    India's retail entrepreneurs are rehearsing their first market moves to transition from shop floors to the stock ticker. The text discusses this growing shift among retail business owners in the country.
+    sources: Indian Retailer
+
 [1372] (retail) Why Smart Distribution Is Becoming the Real Moat for Indian Startups
     Indian startups are increasingly focusing on smart distribution to build a competitive advantage. The piece examines how distribution strategies are becoming a crucial moat in the market.
     sources: https://ascendants.in/
@@ -136,7 +172,7 @@
 
 [1304] (brand-moves) MMG Group Appoints Smeer Chopra as Group CFO
     MMG Group has announced the appointment of Smeer Chopra as its new Group CFO. The text provides no further details regarding the executive move or the company's business operations.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1306] (retail) Apparel Group India opens 80th ALDO store in Ludhiana
     Apparel Group India has opened its 80th store for the brand ALDO. The new retail outlet is located in Ludhiana.
@@ -148,7 +184,7 @@
 
 [1309] (fashion-week) Gold Coast Films to debut Bharat Runway Tour in Paris
     Gold Coast Films is set to debut the Bharat Runway Tour in Paris. The event is scheduled to take place in February 2027.
-    sources: The Tribune, LatestLY
+    sources: The Tribune, LatestLY, ANI News
 
 [1310] (retail) How AI Is Rewriting the Rules of India's Fast-Fashion Retail
     Artificial intelligence is changing the rules of fast-fashion retail in India. The text discusses the impact of AI on the fast-fashion sector.
