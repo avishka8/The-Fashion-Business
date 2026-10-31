@@ -1,3 +1,27 @@
+[1442] (funding) Fashion accessories startup Qiroko raises Rs 1.5 crore
+    One-year-old fashion accessories startup Qiroko has secured Rs 1.5 crore in funding. The investment round was led by ISV Capital.
+    sources: Indian Startup News
+
+[1443] (funding) B2B Quick Commerce Startup Zorit Raises Rs 27 Cr
+    B2B quick commerce startup Zorit has raised Rs 27 crore in funding. The company also reported annualised sales of Rs 120 crore.
+    sources: Indian Retailer
+
+[1449] (retail) TUMI Opens First Store in Hyderabad
+    TUMI has opened its first store in Hyderabad located at the GMR Hyderabad Airport.
+    sources: Indian Retailer, Indian Retailer
+
+[1450] (retail) Cantabil Retail India expands showroom network to 682 stores
+    Cantabil Retail India has expanded its showroom network with new additions in August. The expansion brings the total store count to 682 locations.
+    sources: Sahi
+
+[1451] (retail) Sai Silks Expands Kalamandir Store Network In Bangalore
+    Sai Silks has expanded the store network of Kalamandir in Bangalore. The text notes the store expansion within the city.
+    sources: Sahi
+
+[1453] (textiles) North India cotton yarn steady amid garment export concerns
+    Cotton yarn prices in North India remained steady. The market observed this trend amidst concerns regarding garment exports.
+    sources: Fibre2Fashion
+
 [1434] (retail) Hidedesign Opens New Store in Jaipur
     Hidedesign has opened a new retail store in Jaipur. The expansion increases the brand's physical retail presence in the location.
     sources: Indian Retailer
@@ -68,7 +92,7 @@
 
 [1391] (retail) AAPE enters India with first standalone store in Delhi
     AAPE has entered the Indian market by opening its first standalone store in Delhi. The brand also has plans for further expansion across major cities in the country.
-    sources: ET Retail, ET Retail, ET Retail
+    sources: ET Retail, ET Retail, ET Retail, ET Retail
 
 [1392] (retail) Trent Retail Expansion Reaches 339 Cities With Zudio Growth
     Trent retail expansion has reached 339 cities. This expansion is driven by Zudio growth.
@@ -224,7 +248,7 @@
 
 [1330] (textiles) AEPC aims to broaden India's apparel export base
     The Apparel Export Promotion Council (AEPC) has emphasized the need to broaden India's export base to boost apparel shipments. The initiative focuses on strategic measures to enhance the country's textile and apparel export sector.
-    sources: Rediff
+    sources: Rediff, Rediff MoneyWiz
 
 [1331] (textiles) Textile ministry reopens PLI scheme with lower threshold
     The textile ministry has reopened the PLI scheme and halved the turnover threshold to ₹100 crore. This policy update affects the textiles and exports sector in India.
