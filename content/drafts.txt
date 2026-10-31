@@ -1,3 +1,27 @@
+[1434] (retail) Hidedesign Opens New Store in Jaipur
+    Hidedesign has opened a new retail store in Jaipur. The expansion increases the brand's physical retail presence in the location.
+    sources: Indian Retailer
+
+[1435] (retail) Apparel Group Expands Victoria's Secret Footprint
+    Apparel Group has expanded the footprint of Victoria's Secret by opening a new store. The location of the new store is in Ahmedabad.
+    sources: Indian Retailer
+
+[1436] (d2c) Karwa Chauth drives 64 percent D2C sales growth for GoKwik
+    Karwa Chauth shopping has spread beyond north India. GoKwik recorded a 64 percent growth in D2C sales during the occasion.
+    sources: Passionate In Marketing
+
+[1437] (retail) GIVA Opens New Jewellery Store in Mahalunge, Pune
+    GIVA has opened a new jewellery store in Mahalunge, Pune. The expansion adds to the brand's retail footprint.
+    sources: Indian Retailer
+
+[1438] (retail) Myntra report highlights Gen Z trends in India's beauty market
+    A Myntra report indicates that Gen Z is reshaping India's beauty market. The demographic is driving changes through ingredient-led choices and self-expression.
+    sources: IFAB MEDIA
+
+[1439] (brand-moves) Organic India Expands Nutrition Portfolio
+    Organic India has expanded its nutrition portfolio by introducing a new range of certified organic nuts and seeds. This addition broadens the brand's product offerings within the health and nutrition segment.
+    sources: Indian Retailer
+
 [1421] (funding) Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A
     Luxury watch brand Rotoris has raised Rs 70 crore in a Series A funding round. The snippet contains no further details regarding the transaction or investors.
     sources: Indian Retailer
@@ -44,7 +68,7 @@
 
 [1391] (retail) AAPE enters India with first standalone store in Delhi
     AAPE has entered the Indian market by opening its first standalone store in Delhi. The brand also has plans for further expansion across major cities in the country.
-    sources: ET Retail, ET Retail
+    sources: ET Retail, ET Retail, ET Retail
 
 [1392] (retail) Trent Retail Expansion Reaches 339 Cities With Zudio Growth
     Trent retail expansion has reached 339 cities. This expansion is driven by Zudio growth.
@@ -144,7 +168,7 @@
 
 [1341] (funding) D2C Nutrition Brand Ace Blend Raises $9.9 Mn in Series A2 Round
     Ace Blend has raised $9.9 million in a Series A2 funding round. The company operates as a D2C nutrition brand.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1342] (retail) Nike, Asics and Decathlon ramp up India bets
     Nike, Asics, and Decathlon are increasing their focus on India as the sports goods and apparel manufacturing sector is expected to reach $10 billion by 2030. The major brands are expanding their presence in the growing Indian market.
