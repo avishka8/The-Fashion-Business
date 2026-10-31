@@ -1,3 +1,27 @@
+[1421] (funding) Luxury Watch Brand Rotoris Raises Rs 70 Cr in Series A
+    Luxury watch brand Rotoris has raised Rs 70 crore in a Series A funding round. The snippet contains no further details regarding the transaction or investors.
+    sources: Indian Retailer
+
+[1422] (d2c) Myntra sees double orders for D2C brands and FWD
+    Myntra's Big Fashion Festival recorded nearly double the orders for direct-to-consumer brands and FWD compared to the previous period. The event highlighted strong consumer demand for these segments on the platform.
+    sources: Apparel Resources
+
+[1423] (brand-moves) Jaipur Watch Company Expands Indian Heritage Watchmaking Global
+    Jaipur Watch Company has been featured on the JewelZ Power List. The brand is taking its Indian heritage watchmaking global.
+    sources: Indian Retailer
+
+[1424] (textiles) India's $1 bn fabric exports face new customs rules
+    India's $1 billion fabric exports are facing new customs rules set to take effect on November 1. The text notes the impending regulatory change impacting this export sector.
+    sources: Fibre2Fashion
+
+[1429] (brand-moves) Why garment construction matters for apparel brand margins
+    Garment construction plays an important role in determining the margins of apparel brands. Proper construction techniques can impact overall profitability in the clothing business.
+    sources: Fibre2Fashion
+
+[1430] (funding) TechnoSport invests Rs 4.5 crore in IIT Delhi
+    TechnoSport has invested Rs 4.5 crore in IIT Delhi. The investment is aimed at eyeing the next sportswear opportunity.
+    sources: ET Retail
+
 [1411] (funding) ReplyAll Raises ₹9.7 Crore to Expand D2C Apparel Business
     ReplyAll has raised ₹9.7 crore. The funding will be used to expand its direct-to-consumer apparel business.
     sources: D2c Insider Pulse
@@ -8,11 +32,11 @@
 
 [1416] (retail) QWEEN Debuts New Jewellery Retail Concept in Noida
     QWEEN has launched its first store in Noida, introducing a new jewellery retail concept. The debut marks the brand's latest expansion in the physical retail sector.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1419] (fashion-week) Ladakhi Brands Showcase at Lakme Fashion Week
     Ladakhi brands thanked the UT Administration for the opportunity to showcase local craftsmanship at Lakme Fashion Week.
-    sources: Administration of Union Territory of Ladakh
+    sources: Administration of Union Territory of Ladakh, Voice of Ladakh
 
 [1390] (retail) KisaanSay Expands Digital Retail Presence Across Six Cities
     KisaanSay is expanding its digital retail presence across six cities ahead of Diwali.
@@ -136,7 +160,7 @@
 
 [1347] (textiles) CITI: Revamped textile PLI scheme will boost investment in India
     CITI states that the revamped textile PLI scheme will boost investment in India. The organization highlights the positive impact of the updated policy on the Indian textile sector.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1348] (policy) PLI Round 4 to Advance India's Textile Sector
     CITI notes that PLI Round 4 will advance India's textile ambitions, boost investment, and enhance global competitiveness. The initiative focuses on the textile sector as outlined in the provided text.
