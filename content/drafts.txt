@@ -1,3 +1,11 @@
+[1468] (brand-moves) Nike Launches India-Specific Vegam Running Shoe
+    Nike has launched the India-specific Vegam running shoe. The product was introduced following a 55-day sprint.
+    sources: Retail News Asia
+
+[1469] (d2c) Dot & Key Engages Consumers at Nykaaland
+    Dot & Key drove consumer engagement by featuring an interactive booth at Nykaaland. The initiative highlights the brand's experiential retail strategy at the event.
+    sources: Indian Retailer
+
 [1457] (funding) Qiroko Raises Rs 1.5 Crore in Pre-Seed Round
     Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The investment round was led by ISV Capital.
     sources: Siliconindia
@@ -48,7 +56,7 @@
 
 [1434] (retail) Hidedesign Opens New Store in Jaipur
     Hidedesign has opened a new retail store in Jaipur. The expansion increases the brand's physical retail presence in the location.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1435] (retail) Apparel Group Expands Victoria's Secret Footprint
     Apparel Group has expanded the footprint of Victoria's Secret by opening a new store. The location of the new store is in Ahmedabad.
