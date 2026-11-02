@@ -1,3 +1,87 @@
+[1482] (funding) Dispatch Network Raises Rs 5 Cr for Last-Mile Operations
+    Dispatch Network has raised Rs 5 crore in funding. The capital will be used to scale its last-mile delivery operations.
+    sources: Indian Retailer
+
+[1483] (funding) Hyeglo Beauty raises ₹7 crore in seed funding
+    Hyeglo Beauty has raised ₹7 crore in seed funding. The funding round was led by Sauce.
+    sources: India Retailing, Indian Startup Times
+
+[1484] (funding) Indian Startups Raised Over $132 Mn This Week
+    Indian startups raised over $132 million during the week. Companies involved in the funding rounds include Cent and Matiks.
+    sources: Inc42
+
+[1485] (funding) Hyeglo Beauty Secures Seed Funding
+    Hyeglo Beauty has secured ₹7 crore in seed funding. The capital will be used to expand its skinified beauty portfolio.
+    sources: IFAB MEDIA
+
+[1486] (funding) Hyeglo raises Rs 7 crore for R&D and product launches
+    A makeup brand started by an ex-Nykaa executive, named Hyeglo, has raised Rs 7 crore. The funding will be used for research and development as well as new product launches.
+    sources: Indian Startup News
+
+[1489] (retail) Karan R Pethani Joins Apparel Group India as VP
+    Karan R Pethani has joined Apparel Group India as Vice President of Real Estate. The appointment comes amid the company's planned 1,000-store expansion.
+    sources: India Retailing
+
+[1490] (retail) Apparel Group Appoints Karan R Pethani as VP – Real Estate
+    Apparel Group has appointed Karan R Pethani as Vice President of Real Estate. The appointment is part of the company's expansion plans in India.
+    sources: Apparel Resources
+
+[1491] (retail) Neeman’s plans 10X retail expansion to reach 500 stores by FY30
+    Footwear brand Neeman’s plans to expand its retail footprint from 50 to 500 stores. The company is eyeing a business of Rs 1,000 crore by FY30.
+    sources: ET Retail
+
+[1492] (retail) The Indian Garage Co Opens 22nd Store in Jaipur
+    The Indian Garage Co has opened its 22nd store. The new retail location is situated at Pacific Mall in Jaipur.
+    sources: Indian Retailer
+
+[1493] (retail) ASICS Opens New Store Format at Select Citywalk, Delhi
+    ASICS has introduced a new store format at Select Citywalk in Delhi. The brand is bringing this updated retail experience to the location.
+    sources: Indian Retailer
+
+[1494] (retail) Festive season boosts ethnic wear demand and franchise opportunities
+    The festive season has increased the demand for ethnic wear in India. This rise in demand creates new opportunities for franchisees in the sector.
+    sources: Indian Retailer
+
+[1495] (retail) German brand Miele opens first exclusive showroom in Gurugram
+    German home appliances brand Miele has opened its first exclusive showroom in Gurugram. The new store marks the brand's entry into physical retail expansion in the region.
+    sources: India Retailing
+
+[1496] (retail) Myntra Beauty Onboards Kylie Cosmetics Ahead of Festive Season
+    Myntra Beauty has onboarded Kylie Cosmetics ahead of the festive season. The partnership brings the brand to Myntra's platform.
+    sources: Indian Retailer
+
+[1497] (retail) India Fashion Retail Market Report Forecast 2026-2034
+    A report has been released regarding the India fashion retail market size, share, growth, industry trends, and future forecast for the period spanning 2026 to 2034. The text provides the title for this upcoming industry analysis.
+    sources: openPR.com
+
+[1500] (brand-moves) The Indian Garage Co rebrands and unveils new identity
+    The Indian Garage Co has rebranded as Indian Garage and unveiled a new identity featuring Suryakumar Yadav. No further financial or business details were provided in the text.
+    sources: Indian Retailer
+
+[1502] (retail) Redefining Mall Retail and Changing Consumer Expectations
+    Kamakshi Mantri discusses the redefining of mall retail in response to changing consumer expectations. The text focuses on shifts in the retail sector and consumer behavior.
+    sources: Indian Retailer
+
+[1504] (brand-moves) Dot & Key creates brand experience at Nykaaland 4.0
+    Dot & Key created an interactive brand experience at the event Nykaaland 4.0. No further details about the engagement or business metrics were provided in the text.
+    sources: IFAB MEDIA
+
+[1506] (textiles) CITI: Revamped textile PLI scheme will boost investment in India
+    CITI stated that the revamped textile PLI scheme will boost investment in India. The initiative is expected to impact the textile sector positively.
+    sources: Fibre2Fashion
+
+[1508] (policy) Cotton import duty relief extension welcomed by CITI
+    CITI stated that the extension of cotton import duty relief was necessary for the industry. The organization expressed its views on the importance of this policy measure.
+    sources: Apparel Views
+
+[1509] (fashion-week) Vaseline Lakmé Fashion Week
+    This snippet references the Vaseline Lakmé Fashion Week event. No further details are provided in the text.
+    sources: MissMalini
+
+[1510] (fashion-week) Vaseline Introduces Shimmer Body Oils at Lakmé Fashion Week
+    Vaseline introduced its new shimmer body oils at Lakmé Fashion Week. The launch features skincare products presented during the fashion event.
+    sources: MissMalini
+
 [1473] (retail) Zara vs Bershka: Inditex brand India strategy comparison
     An analysis compares the market presence and strategies of Inditex-owned brands Zara and Bershka in India. The text evaluates which of the two fashion brands holds the stronger position in the Indian market.
     sources: Fibre2Fashion
@@ -88,7 +172,7 @@
 
 [1436] (d2c) Karwa Chauth drives 64 percent D2C sales growth for GoKwik
     Karwa Chauth shopping has spread beyond north India. GoKwik recorded a 64 percent growth in D2C sales during the occasion.
-    sources: Passionate In Marketing
+    sources: Passionate In Marketing, The Economic Times
 
 [1437] (retail) GIVA Opens New Jewellery Store in Mahalunge, Pune
     GIVA has opened a new jewellery store in Mahalunge, Pune. The expansion adds to the brand's retail footprint.
