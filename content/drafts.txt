@@ -1,10 +1,26 @@
+[1473] (retail) Zara vs Bershka: Inditex brand India strategy comparison
+    An analysis compares the market presence and strategies of Inditex-owned brands Zara and Bershka in India. The text evaluates which of the two fashion brands holds the stronger position in the Indian market.
+    sources: Fibre2Fashion
+
+[1477] (retail) Myntra Tech Threads 2026 highlights Indian fashion brands
+    Myntra Tech Threads 2026 spotlights the brands shaping India's evolving fashion and lifestyle landscape. The event focuses on the brands driving changes in the domestic market.
+    sources: ET Retail
+
+[1478] (textiles) India-NZ FTA and Textile Exports
+    The text discusses whether zero tariffs under the India-NZ FTA can boost textile exports valued at $125.6 million. It examines the potential impact of the trade agreement on Indian textile shipments to New Zealand.
+    sources: Fibre2Fashion
+
+[1480] (textiles) Exports rise 6 percent in July-October as RMG shipments recover
+    Exports increased by 6 percent during the July-October period. This growth was driven by a recovery in RMG shipments.
+    sources: Textile Today
+
 [1471] (other-business) Raymond Lifestyle H1 FY27 Revenue Rises 10 Pc to Rs 3,685 Cr
     Raymond Lifestyle reported a 10 percent rise in revenue for H1 FY27, reaching Rs 3,685 Cr according to the provided text.
     sources: Indian Retailer
 
 [1472] (retail) Apparel Group Opens Victoria's Secret in Ahmedabad
     Apparel Group has opened a new 3,440-square-foot Victoria's Secret store in Ahmedabad. The store launch expands the brand's retail presence in India.
-    sources: Retail News Asia
+    sources: Retail News Asia, Retail News Asia
 
 [1468] (brand-moves) Nike Launches India-Specific Vegam Running Shoe
     Nike has launched the India-specific Vegam running shoe. The product was introduced following a 55-day sprint.
@@ -100,7 +116,7 @@
 
 [1424] (textiles) India's $1 bn fabric exports face new customs rules
     India's $1 billion fabric exports are facing new customs rules set to take effect on November 1. The text notes the impending regulatory change impacting this export sector.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1429] (brand-moves) Why garment construction matters for apparel brand margins
     Garment construction plays an important role in determining the margins of apparel brands. Proper construction techniques can impact overall profitability in the clothing business.
