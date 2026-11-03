@@ -1,3 +1,39 @@
+[1545] (funding) GIVA raises $100 million-plus and closes FY26
+    GIVA has raised over $100 million in funding. The company also closed FY26 at Rs 865 crore.
+    sources: ET Retail
+
+[1546] (funding) Indian Jeweller Giva Raises $100 Million
+    Indian jeweller Giva has raised $100 million. The funding is intended to fuel retail expansion.
+    sources: The Business of Fashion
+
+[1547] (funding) Numour Eyes Secures $3.1 Million in Funding Led by Sharrp Ventures
+    D2C skincare brand Numour Eyes has raised $3.1 million in funding. The investment round was led by Sharrp Ventures.
+    sources: Indian Retailer
+
+[1550] (retail) Zen Diamond opens new store at Pacific Mall in Jaipur
+    Zen Diamond has entered the Jaipur market by opening a new retail store at Pacific Mall. The expansion adds to the brand's presence in the region.
+    sources: Indian Retailer
+
+[1551] (retail) V2 Retail Q2 Revenue Rises to ₹9.06 Billion
+    V2 Retail reported an increase in its Q2 revenue to ₹9.06 billion. This is a rise compared to the ₹7.05 billion recorded year-over-year.
+    sources: Sahi
+
+[1553] (retail) Trent Q2 Revenue Grows 23 Pc as Zudio Crosses 1,000 Stores
+    Trent reported a 23 percent growth in revenue for the second quarter. During the same period, its Zudio retail footprint surpassed 1,000 stores.
+    sources: Indian Retailer
+
+[1554] (retail) Kalamandir reports Q2 revenue of 4.34B rupees
+    Kalamandir has reported its financial results for the second quarter, posting a revenue of 4.34 billion rupees. This compares to a revenue of 4.44 billion rupees recorded in the same period year-over-year.
+    sources: Sahi
+
+[1555] (textiles) Bangladesh disturbances likely to impact yarn, fabric exports
+    Recent disturbances in Bangladesh are expected to have an impact on the export of yarn and fabric. The situation may affect trade dynamics within the textile sector.
+    sources: The Hindu
+
+[1556] (textiles) India's apparel crisis exposed with reduced units and revenue
+    An apparel crisis in India is exposed, showing a drop of 600 fewer units and a decline of $1 billion. The text highlights significant challenges facing the apparel sector in the country.
+    sources: Fibre2Fashion
+
 [1524] (funding) Jewellery Brand Giva Secures Over $100 Mn Funding
     Jewellery brand Giva has secured over $100 million in funding. The investment round was led by Multiples.
     sources: BW Disrupt
@@ -12,7 +48,7 @@
 
 [1527] (retail) The Souled Store Expands Offline Presence With Ranchi Launch
     The Souled Store is expanding its physical retail network by launching a new store in Ranchi. This move strengthens the brand's offline retail footprint.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [1528] (retail) Hamleys India Opens New Store in Season Mall, Pune
     Hamleys India has opened a new retail store located in Season Mall, Pune. The announcement details the expansion of the brand's physical retail presence in India.
