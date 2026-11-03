@@ -1,10 +1,38 @@
+[1513] (textiles) North India cotton yarn sees thin trade and market nervousness
+    North India cotton yarn experienced thin trade activity as market participants remained nervous. The current market conditions reflect caution among traders in the region.
+    sources: Fibre2Fashion
+
+[1515] (textiles) Indian exporters gearing up for a bigger European play?
+    Indian exporters are reportedly preparing to expand their presence in the European market. The short snippet indicates a strategic business focus on international trade within the textiles and exports sector.
+    sources: Fibre2Fashion
+
+[1518] (policy) India-US Trade Deal: Where the Edge Lies, and What It Will Cost
+    This article discusses the India-US trade deal, analyzing where the competitive edge lies and what the costs associated with the agreement will be. The snippet does not provide further details regarding specific fashion sectors or brand strategies.
+    sources: orfonline.org
+
+[1519] (textiles) North India cotton yarn steady as traders await demand revival
+    Cotton yarn prices in North India remained steady while traders awaited a revival in demand. The market conditions reflect the current state of the textile sector in the region.
+    sources: Fibre2Fashion
+
+[1520] (textiles) India Extends Duty-Free Cotton Imports Until December 31
+    India has extended duty-free cotton imports until December 31. The measure is designed to support the textile industry.
+    sources: boldnewsonline.com
+
+[1521] (textiles) India's Textile Ambition Faces Cost And Export Test
+    India's textile sector aims for a 350 billion dollar ambition. However, this goal faces a cost and export test based on the provided text.
+    sources: BW Businessworld
+
+[1522] (textiles) Textile PLI round 4 opens Nov 1; turnover bar cut to ₹100 Cr
+    Round 4 of the Textile PLI scheme is scheduled to open on November 1. The turnover bar for participation has been reduced to ₹100 crore.
+    sources: Fibre2Fashion
+
 [1482] (funding) Dispatch Network Raises Rs 5 Cr for Last-Mile Operations
     Dispatch Network has raised Rs 5 crore in funding. The capital will be used to scale its last-mile delivery operations.
     sources: Indian Retailer
 
 [1483] (funding) Hyeglo Beauty raises ₹7 crore in seed funding
     Hyeglo Beauty has raised ₹7 crore in seed funding. The funding round was led by Sauce.
-    sources: India Retailing, Indian Startup Times
+    sources: India Retailing, Indian Startup Times, Siliconindia
 
 [1484] (funding) Indian Startups Raised Over $132 Mn This Week
     Indian startups raised over $132 million during the week. Companies involved in the funding rounds include Cent and Matiks.
