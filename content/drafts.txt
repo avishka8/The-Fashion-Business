@@ -1,3 +1,55 @@
+[1524] (funding) Jewellery Brand Giva Secures Over $100 Mn Funding
+    Jewellery brand Giva has secured over $100 million in funding. The investment round was led by Multiples.
+    sources: BW Disrupt
+
+[1525] (d2c) Snitch targets Rs 835 Cr revenue for FY26
+    Men's D2C fashion brand Snitch is strengthening its market presence with a projected revenue of Rs 835 crore for the financial year 2026. The brand focuses on expanding its direct-to-consumer footprint in the Indian fashion sector.
+    sources: Indian Retailer
+
+[1526] (retail) Style Baazar Opens 3 New Stores in Eastern India
+    Style Baazar has expanded its physical retail footprint by opening three new stores located in Eastern India.
+    sources: Indian Retailer
+
+[1527] (retail) The Souled Store Expands Offline Presence With Ranchi Launch
+    The Souled Store is expanding its physical retail network by launching a new store in Ranchi. This move strengthens the brand's offline retail footprint.
+    sources: IFAB MEDIA
+
+[1528] (retail) Hamleys India Opens New Store in Season Mall, Pune
+    Hamleys India has opened a new retail store located in Season Mall, Pune. The announcement details the expansion of the brand's physical retail presence in India.
+    sources: Indian Retailer
+
+[1529] (retail) OVS Opens Third Store in India at R City Mall
+    Italian fashion brand OVS has opened its third store in India. The new retail location is situated at R City Mall.
+    sources: Indian Retailer
+
+[1531] (retail) QWEEN Opens First Jewellery Store in Noida
+    QWEEN has opened its first jewellery store in Noida. The new location marks the brand's latest retail expansion.
+    sources: Indian Retailer
+
+[1532] (d2c) Snitch revenue grows 68% to Rs 835 Cr in FY26; posts Rs 27 Cr loss
+    Snitch reported that its revenue grew by 68 percent to Rs 835 crore in FY26. During the same period, the company posted a loss of Rs 27 crore.
+    sources: Entrackr, Bharat Fast
+
+[1533] (retail) Jaypore Opens New Store at Jahangirabad Palace in Lucknow
+    Jaypore has expanded its retail presence by opening a new store at Jahangirabad Palace in Lucknow. The store launch marks the brand's latest retail expansion.
+    sources: Indian Retailer
+
+[1534] (brand-moves) Suryakumar Yadav Unveils Indian Garage's New Identity
+    Suryakumar Yadav has unveiled Indian Garage's brand new identity at Sky City Mall in Borivali.
+    sources: Passionate In Marketing
+
+[1536] (d2c) How Sqroot Supports D2C Brands with Profitable Growth
+    Sqroot assists over 350 D2C brands in achieving profitable growth beyond standard ad metrics. The company maintains a client retention rate of over 95 percent.
+    sources: Startup Pedia
+
+[1539] (textiles) Textile and garment stocks rally in India
+    Textile and garment stocks, including Kitex, Trident, and Gokaldas, saw high demand in the market. These stocks rallied by up to 18 percent.
+    sources: Business Standard
+
+[1540] (textiles) India's cotton duty relief to boost textile competitiveness
+    India's cotton duty relief is expected to boost textile competitiveness, according to CITI. The measure aims to support the textile and exports sector.
+    sources: Fibre2Fashion
+
 [1513] (textiles) North India cotton yarn sees thin trade and market nervousness
     North India cotton yarn experienced thin trade activity as market participants remained nervous. The current market conditions reflect caution among traders in the region.
     sources: Fibre2Fashion
@@ -128,7 +180,7 @@
 
 [1471] (other-business) Raymond Lifestyle H1 FY27 Revenue Rises 10 Pc to Rs 3,685 Cr
     Raymond Lifestyle reported a 10 percent rise in revenue for H1 FY27, reaching Rs 3,685 Cr according to the provided text.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1472] (retail) Apparel Group Opens Victoria's Secret in Ahmedabad
     Apparel Group has opened a new 3,440-square-foot Victoria's Secret store in Ahmedabad. The store launch expands the brand's retail presence in India.
