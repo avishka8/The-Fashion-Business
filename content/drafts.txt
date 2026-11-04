@@ -1,3 +1,27 @@
+[1568] (funding) B2B Quick Commerce Startup Zorit Raises Rs 27 Cr
+    B2B quick commerce startup Zorit has raised Rs 27 crore in funding. The company also reported annualised sales of Rs 120 crore.
+    sources: Indian Retailer
+
+[1570] (funding) Jewellery brand GIVA raises $100M from Multiples PE
+    Jewellery brand GIVA has raised $100M from Multiples PE. The funding involves the jewellery brand and Multiples PE.
+    sources: YourStory.com
+
+[1572] (funding) GIVA Raises Over USD 100 Million
+    GIVA has successfully raised over USD 100 million in a funding round. The investment round was led by Multiples.
+    sources: Indian Jeweller
+
+[1575] (funding) Qiroko Raises Rs 1.5 Cr Pre-Seed Led By ISV Capital
+    Everyday jewellery brand Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The investment was led by ISV Capital.
+    sources: Bharat Fast
+
+[1580] (textiles) South Indian cotton yarn prices ease amid weak demand and duty relief
+    South Indian cotton yarn prices have eased due to weak demand and duty relief. The market conditions reflect the current economic state of the textile sector in the region.
+    sources: Fibre2Fashion
+
+[1581] (textiles) Military Camouflage Fabrics Market in India Forecast to 2035
+    A report outlines the size, trends, and forecast for the military camouflage fabrics market in India up to the year 2035. The text provides high-level market data regarding the specialized textile sector.
+    sources: IndexBox
+
 [1559] (retail) Kiaasa Retail Limited Accelerates PAN-India Presence
     Kiaasa Retail Limited is accelerating its PAN-India presence. The company achieved this through the simultaneous opening of four strategic retail outlets during the festive season.
     sources: www.malaysiasun.com
@@ -52,7 +76,7 @@
 
 [1556] (textiles) India's apparel crisis exposed with reduced units and revenue
     An apparel crisis in India is exposed, showing a drop of 600 fewer units and a decline of $1 billion. The text highlights significant challenges facing the apparel sector in the country.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [1524] (funding) Jewellery Brand Giva Secures Over $100 Mn Funding
     Jewellery brand Giva has secured over $100 million in funding. The investment round was led by Multiples.
@@ -60,7 +84,7 @@
 
 [1525] (d2c) Snitch targets Rs 835 Cr revenue for FY26
     Men's D2C fashion brand Snitch is strengthening its market presence with a projected revenue of Rs 835 crore for the financial year 2026. The brand focuses on expanding its direct-to-consumer footprint in the Indian fashion sector.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1526] (retail) Style Baazar Opens 3 New Stores in Eastern India
     Style Baazar has expanded its physical retail footprint by opening three new stores located in Eastern India.
@@ -76,7 +100,7 @@
 
 [1529] (retail) OVS Opens Third Store in India at R City Mall
     Italian fashion brand OVS has opened its third store in India. The new retail location is situated at R City Mall.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1531] (retail) QWEEN Opens First Jewellery Store in Noida
     QWEEN has opened its first jewellery store in Noida. The new location marks the brand's latest retail expansion.
