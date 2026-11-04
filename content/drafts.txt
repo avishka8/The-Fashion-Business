@@ -1,3 +1,19 @@
+[1583] (retail) Jockey licensee Page Industries eyes new plant in India expansion
+    Jockey licensee Page Industries is eyeing a new plant as part of its expansion in India. The company is considering this move to grow its manufacturing capabilities.
+    sources: Reuters
+
+[1584] (brand-moves) Reliance Brands Elevates Karan Sachdeva
+    Reliance Brands has elevated Karan Sachdeva. The promotion comes amid the expansion of Pret A Manger in India.
+    sources: Indian Retailer
+
+[1585] (textiles) North India cotton yarn steady amid garment export concerns
+    Cotton yarn prices in North India remained steady. The stability comes amid ongoing concerns regarding garment exports.
+    sources: Fibre2Fashion
+
+[1590] (policy) India plans ₹8,000-cr outlay to boost khadi, handloom and handicraft
+    India is planning an outlay of ₹8,000 crore to boost the output of khadi, handloom, and handicrafts. The initiative aims to support and enhance production in these traditional sectors.
+    sources: Livemint
+
 [1568] (funding) B2B Quick Commerce Startup Zorit Raises Rs 27 Cr
     B2B quick commerce startup Zorit has raised Rs 27 crore in funding. The company also reported annualised sales of Rs 120 crore.
     sources: Indian Retailer
@@ -124,7 +140,7 @@
 
 [1539] (textiles) Textile and garment stocks rally in India
     Textile and garment stocks, including Kitex, Trident, and Gokaldas, saw high demand in the market. These stocks rallied by up to 18 percent.
-    sources: Business Standard
+    sources: Business Standard, Business Standard
 
 [1540] (textiles) India's cotton duty relief to boost textile competitiveness
     India's cotton duty relief is expected to boost textile competitiveness, according to CITI. The measure aims to support the textile and exports sector.
@@ -152,7 +168,7 @@
 
 [1521] (textiles) India's Textile Ambition Faces Cost And Export Test
     India's textile sector aims for a 350 billion dollar ambition. However, this goal faces a cost and export test based on the provided text.
-    sources: BW Businessworld
+    sources: BW Businessworld, ET Edge Insights
 
 [1522] (textiles) Textile PLI round 4 opens Nov 1; turnover bar cut to ₹100 Cr
     Round 4 of the Textile PLI scheme is scheduled to open on November 1. The turnover bar for participation has been reduced to ₹100 crore.
@@ -228,7 +244,7 @@
 
 [1506] (textiles) CITI: Revamped textile PLI scheme will boost investment in India
     CITI stated that the revamped textile PLI scheme will boost investment in India. The initiative is expected to impact the textile sector positively.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1508] (policy) Cotton import duty relief extension welcomed by CITI
     CITI stated that the extension of cotton import duty relief was necessary for the industry. The organization expressed its views on the importance of this policy measure.
