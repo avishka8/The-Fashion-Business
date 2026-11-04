@@ -1,3 +1,23 @@
+[1559] (retail) Kiaasa Retail Limited Accelerates PAN-India Presence
+    Kiaasa Retail Limited is accelerating its PAN-India presence. The company achieved this through the simultaneous opening of four strategic retail outlets during the festive season.
+    sources: www.malaysiasun.com
+
+[1562] (textiles) Ministry of Textiles Organises TEXPORT in Noida
+    The Ministry of Textiles has organised the second TEXPORT capacity-building programme in Noida through AEPC. The initiative focuses on textiles and exports.
+    sources: Apparel Views
+
+[1563] (policy) PLI Round 4 to Advance India's Textile Sector
+    CITI notes that PLI Round 4 will advance India's textile ambitions, boost investment, and enhance global competitiveness. The initiative aims to support the growth of the textile industry.
+    sources: Apparel Views
+
+[1565] (textiles) India and EU Hold Brussels Meetings on FTA and Textile Trade
+    India and the EU held meetings in Brussels. The discussions focused on FTA implementation and textile trade.
+    sources: Apparel Resources
+
+[1567] (policy) India cotton duty exemption ends October 31: Cost risks for spinners
+    India's cotton duty exemption is set to end on October 31. This expiration poses potential cost risks for spinners.
+    sources: Fibre2Fashion
+
 [1545] (funding) GIVA raises $100 million-plus and closes FY26
     GIVA has raised over $100 million in funding. The company also closed FY26 at Rs 865 crore.
     sources: ET Retail
@@ -32,7 +52,7 @@
 
 [1556] (textiles) India's apparel crisis exposed with reduced units and revenue
     An apparel crisis in India is exposed, showing a drop of 600 fewer units and a decline of $1 billion. The text highlights significant challenges facing the apparel sector in the country.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1524] (funding) Jewellery Brand Giva Secures Over $100 Mn Funding
     Jewellery brand Giva has secured over $100 million in funding. The investment round was led by Multiples.
