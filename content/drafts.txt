@@ -1,14 +1,30 @@
+[1594] (funding) Qiroko Raises Rs 1.5 Cr in Pre-Seed Round
+    Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The company plans to use the capital to expand beyond jewellery.
+    sources: https://ascendants.in/
+
+[1596] (retail) FirstCry opens new store at Vegas Mall in Dwarka, Delhi
+    FirstCry has opened a new retail store located at Vegas Mall in Dwarka, Delhi. The opening expands the brand's physical retail presence in the region.
+    sources: Indian Retailer
+
+[1598] (retail) US Polo Assn Opens New Store in Hyderabad
+    US Polo Assn has opened a new store in Hyderabad. The snippet provides information regarding this retail expansion.
+    sources: Indian Retailer
+
+[1600] (retail) Spykar Opens New Store in Nagpur
+    Spykar has announced the opening of a new store in Nagpur. The expansion adds to the brand's growing retail footprint.
+    sources: Indian Retailer
+
 [1592] (textiles) Textile-garment industry restructures supply chains
     The textile-garment industry is restructuring its supply chains. This is being done to meet rules of origin requirements.
     sources: Vietnam+ (VietnamPlus)
 
 [1583] (retail) Jockey licensee Page Industries eyes new plant in India expansion
     Jockey licensee Page Industries is eyeing a new plant as part of its expansion in India. The company is considering this move to grow its manufacturing capabilities.
-    sources: Reuters
+    sources: Reuters, ET Retail
 
 [1584] (brand-moves) Reliance Brands Elevates Karan Sachdeva
     Reliance Brands has elevated Karan Sachdeva. The promotion comes amid the expansion of Pret A Manger in India.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1585] (textiles) North India cotton yarn steady amid garment export concerns
     Cotton yarn prices in North India remained steady. The stability comes amid ongoing concerns regarding garment exports.
@@ -72,7 +88,7 @@
 
 [1547] (funding) Numour Eyes Secures $3.1 Million in Funding Led by Sharrp Ventures
     D2C skincare brand Numour Eyes has raised $3.1 million in funding. The investment round was led by Sharrp Ventures.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1550] (retail) Zen Diamond opens new store at Pacific Mall in Jaipur
     Zen Diamond has entered the Jaipur market by opening a new retail store at Pacific Mall. The expansion adds to the brand's presence in the region.
@@ -192,7 +208,7 @@
 
 [1485] (funding) Hyeglo Beauty Secures Seed Funding
     Hyeglo Beauty has secured ₹7 crore in seed funding. The capital will be used to expand its skinified beauty portfolio.
-    sources: IFAB MEDIA
+    sources: IFAB MEDIA, IFAB MEDIA
 
 [1486] (funding) Hyeglo raises Rs 7 crore for R&D and product launches
     A makeup brand started by an ex-Nykaa executive, named Hyeglo, has raised Rs 7 crore. The funding will be used for research and development as well as new product launches.
