@@ -1,3 +1,35 @@
+[1601] (funding) Qiroko Secures Rs 1.5 Cr from ISV Capital
+    Fashion accessories startup Qiroko has secured Rs 1.5 crore in funding from ISV Capital. The investment will support the brand's business growth.
+    sources: Indian Retailer
+
+[1602] (funding) GIVA Raises Rs 975 Cr in Funding Led by Multiples Alternate Asset Management
+    GIVA has secured Rs 975 crore in a funding round. The investment was led by Multiples Alternate Asset Management.
+    sources: Indian Retailer
+
+[1604] (retail) Soch Expands North India Retail Network with New Noida Store
+    Soch has expanded its retail network in North India by opening a new store in Noida. The brand continues to grow its presence in the region through this physical retail addition.
+    sources: Indian Retailer
+
+[1605] (retail) Brooks Brothers Opens First Store in Jaipur at Pacific Mall
+    Brooks Brothers has opened its first store in Jaipur. The new store is located at Pacific Mall.
+    sources: Indian Retailer
+
+[1607] (brand-moves) Namita Bali Takes Charge at Cocoblu
+    Namita Bali has taken charge of apparel, footwear, and handbags at Cocoblu. Cocoblu is betting on fashion leadership with this new appointment.
+    sources: India Retailing
+
+[1608] (d2c) Cotton Culture targets 100 stores and D2C expansion
+    Cotton Culture aims to reach 100 stores. The brand also plans to expand its D2C business by fivefold in 2027.
+    sources: Indian Retailer
+
+[1609] (retail) Libas plans store expansion and international presence
+    Libas aims to reach over 50 stores by 2027. The brand is also eyeing an international presence in the UAE and the US.
+    sources: Indian Retailer
+
+[1612] (textiles) Bangladesh garment crisis: India's yarn trade at risk?
+    The text questions whether India's $1.46 billion yarn trade is at risk due to the garment crisis in Bangladesh. It highlights potential impacts on the textile sector without providing additional details.
+    sources: Fibre2Fashion
+
 [1594] (funding) Qiroko Raises Rs 1.5 Cr in Pre-Seed Round
     Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The company plans to use the capital to expand beyond jewellery.
     sources: https://ascendants.in/
@@ -188,7 +220,7 @@
 
 [1521] (textiles) India's Textile Ambition Faces Cost And Export Test
     India's textile sector aims for a 350 billion dollar ambition. However, this goal faces a cost and export test based on the provided text.
-    sources: BW Businessworld, ET Edge Insights
+    sources: BW Businessworld, ET Edge Insights, ET Edge Insights
 
 [1522] (textiles) Textile PLI round 4 opens Nov 1; turnover bar cut to ₹100 Cr
     Round 4 of the Textile PLI scheme is scheduled to open on November 1. The turnover bar for participation has been reduced to ₹100 crore.
