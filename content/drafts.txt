@@ -1,3 +1,31 @@
+[1616] (funding) Dispatch Network Raises Rs 5 Cr for Last-Mile Delivery
+    Dispatch Network has raised Rs 5 crore in funding. The capital will be used to scale its last-mile delivery operations.
+    sources: Indian Retailer
+
+[1618] (retail) Libas Adds 9 Stores and Accelerates Retail Expansion in India
+    Libas has added nine new stores to accelerate its retail expansion within India. The brand is continuing to grow its physical retail presence across the country.
+    sources: Indian Retailer
+
+[1620] (retail) Ralph Lauren Opens First Polo Ralph Lauren Store in Bengaluru
+    Ralph Lauren has opened its first Polo Ralph Lauren store in Bengaluru. The new location expands the brand's retail presence into the city.
+    sources: Indian Retailer
+
+[1621] (retail) Nebula by Titan Opens First Exclusive Boutique in Mumbai
+    Nebula by Titan has opened its first exclusive boutique in Mumbai. The new store expands the brand's physical retail presence in the city.
+    sources: Indian Retailer
+
+[1625] (textiles) SGCCI signs two Morocco MoUs to expand Surat textile exports
+    The Southern Gujarat Chamber of Commerce and Industry has signed two MoUs with Morocco. The agreement aims to expand Surat textile exports.
+    sources: Apparel Views
+
+[1626] (policy) Cotton import duty relief extension welcomed by CITI
+    CITI stated that the extension of the cotton import duty relief was the need of the hour. The organization expressed its views on the policy measure affecting the textile sector.
+    sources: Apparel Views
+
+[1627] (textiles) Bangladesh garment wage hike could benefit India
+    A wage hike in Bangladesh's garment sector has the potential to hand India a long-awaited opening in the industry. The text discusses the potential trade shift resulting from the wage changes in Bangladesh.
+    sources: NDTV Profit
+
 [1601] (funding) Qiroko Secures Rs 1.5 Cr from ISV Capital
     Fashion accessories startup Qiroko has secured Rs 1.5 crore in funding from ISV Capital. The investment will support the brand's business growth.
     sources: Indian Retailer
@@ -8,7 +36,7 @@
 
 [1604] (retail) Soch Expands North India Retail Network with New Noida Store
     Soch has expanded its retail network in North India by opening a new store in Noida. The brand continues to grow its presence in the region through this physical retail addition.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1605] (retail) Brooks Brothers Opens First Store in Jaipur at Pacific Mall
     Brooks Brothers has opened its first store in Jaipur. The new store is located at Pacific Mall.
@@ -44,7 +72,7 @@
 
 [1600] (retail) Spykar Opens New Store in Nagpur
     Spykar has announced the opening of a new store in Nagpur. The expansion adds to the brand's growing retail footprint.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1592] (textiles) Textile-garment industry restructures supply chains
     The textile-garment industry is restructuring its supply chains. This is being done to meet rules of origin requirements.
@@ -140,7 +168,7 @@
 
 [1555] (textiles) Bangladesh disturbances likely to impact yarn, fabric exports
     Recent disturbances in Bangladesh are expected to have an impact on the export of yarn and fabric. The situation may affect trade dynamics within the textile sector.
-    sources: The Hindu
+    sources: The Hindu, The Hindu
 
 [1556] (textiles) India's apparel crisis exposed with reduced units and revenue
     An apparel crisis in India is exposed, showing a drop of 600 fewer units and a decline of $1 billion. The text highlights significant challenges facing the apparel sector in the country.
