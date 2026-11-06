@@ -1,3 +1,19 @@
+[1631] (funding) Carl Clarke targets India for Disco Brands funding round
+    Carl Clarke is set to launch a funding round for Disco Brands. The brand targets India as part of this expansion effort.
+    sources: restaurantonline.co.uk
+
+[1633] (retail) The Indian Garage Co Opens New Store in Jaipur
+    The Indian Garage Co has opened its 22nd store. The new retail location is situated at Pacific Mall in Jaipur.
+    sources: Indian Retailer
+
+[1634] (retail) Gargi by PNGS Adds Four Stores Across India in October
+    Gargi by PNGS has expanded its retail footprint by opening four new stores across India in the month of October. The brand's latest expansion highlights its ongoing growth in the Indian market.
+    sources: Indian Retailer
+
+[1642] (textiles) Punjab looks to expand textile industry
+    Punjab is looking to expand its textile industry into high-value segments. The state aims to develop this sector based on available information.
+    sources: Hindustan Times
+
 [1616] (funding) Dispatch Network Raises Rs 5 Cr for Last-Mile Delivery
     Dispatch Network has raised Rs 5 crore in funding. The capital will be used to scale its last-mile delivery operations.
     sources: Indian Retailer
@@ -56,7 +72,7 @@
 
 [1612] (textiles) Bangladesh garment crisis: India's yarn trade at risk?
     The text questions whether India's $1.46 billion yarn trade is at risk due to the garment crisis in Bangladesh. It highlights potential impacts on the textile sector without providing additional details.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1594] (funding) Qiroko Raises Rs 1.5 Cr in Pre-Seed Round
     Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The company plans to use the capital to expand beyond jewellery.
@@ -80,7 +96,7 @@
 
 [1583] (retail) Jockey licensee Page Industries eyes new plant in India expansion
     Jockey licensee Page Industries is eyeing a new plant as part of its expansion in India. The company is considering this move to grow its manufacturing capabilities.
-    sources: Reuters, ET Retail
+    sources: Reuters, ET Retail, Apparel Views
 
 [1584] (brand-moves) Reliance Brands Elevates Karan Sachdeva
     Reliance Brands has elevated Karan Sachdeva. The promotion comes amid the expansion of Pret A Manger in India.
