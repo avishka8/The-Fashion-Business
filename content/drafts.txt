@@ -1,6 +1,26 @@
+[1655] (funding) India B2C ecommerce funding declines by one-third
+    India's B2C ecommerce funding declined by one-third to $1.6 billion in 2026 year-to-date. The text reports on the decrease in funding amount and the timeframe for this change.
+    sources: Business Standard
+
+[1656] (funding) Jewellery brand GIVA raises Rs 975 crore
+    Jewellery brand GIVA has raised Rs 975 crore in a funding round. The company aims to expand its retail footprint to cross 1,000 outlets in the next 3 to 5 years.
+    sources: Indian Startup News
+
+[1657] (funding) Beauty Startup Hyeglo Raises Rs 7 Cr for Portfolio
+    Beauty startup Hyeglo has raised Rs 7 crore. The funding will be used to strengthen its makeup and skincare portfolio.
+    sources: Indian Retailer
+
+[1658] (funding) Indian Startups Raise Over $171 Million in Funding
+    Between October 26 and October 31, 2026, 29 Indian startups across diverse sectors raised over $171 million from investors. The participating sectors include Luxury and Ecommerce, alongside Healthtech, Fintech, and Manufacturing.
+    sources: Instagram
+
+[1660] (d2c) D2C Brands See 27% Order Growth This Diwali
+    Direct-to-consumer brands experienced a significant boost during Diwali. Orders increased by 27 percent while sales jumped by 45 percent.
+    sources: Rediff MoneyWiz
+
 [1647] (funding) ROTORIS raises $7.5M in Series A funding
     ROTORIS has secured $7.5 million in a Series A funding round. The investment was led by Blume Ventures.
-    sources: Forbes India
+    sources: Forbes India, Forbes India
 
 [1644] (retail) KIDZO Targets North India Expansion via Franchise Opportunity
     Kids retail brand KIDZO is targeting expansion across North India through a retail franchise opportunity valued at 23.25 lakh rupees. The initiative focuses on growing its presence in the region's children's retail market.
@@ -44,7 +64,7 @@
 
 [1625] (textiles) SGCCI signs two Morocco MoUs to expand Surat textile exports
     The Southern Gujarat Chamber of Commerce and Industry has signed two MoUs with Morocco. The agreement aims to expand Surat textile exports.
-    sources: Apparel Views
+    sources: Apparel Views, Apparel Views
 
 [1626] (policy) Cotton import duty relief extension welcomed by CITI
     CITI stated that the extension of the cotton import duty relief was the need of the hour. The organization expressed its views on the policy measure affecting the textile sector.
@@ -84,7 +104,7 @@
 
 [1612] (textiles) Bangladesh garment crisis: India's yarn trade at risk?
     The text questions whether India's $1.46 billion yarn trade is at risk due to the garment crisis in Bangladesh. It highlights potential impacts on the textile sector without providing additional details.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [1594] (funding) Qiroko Raises Rs 1.5 Cr in Pre-Seed Round
     Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The company plans to use the capital to expand beyond jewellery.
