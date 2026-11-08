@@ -1676,4 +1676,9 @@ INSERT INTO "items" VALUES(1670,'d8f3f65d3c3bcd5a8a92bfa8d6efe99fadb06e3c','Pope
 INSERT INTO "items" VALUES(1671,'f7b5a838bafd10e8e6d011bd12e6d69c2e4bc527','Tales of Travancore: A modern tribute to the royal heritage of Travancore',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-07T23:38:56.488843+00:00','irrelevant');
 INSERT INTO "items" VALUES(1672,'46b7071257347c32096a791c2a3c48eee9c83163','Amit Aggarwal on Festive Dressing and Old Saris',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-07T23:38:56.488843+00:00','irrelevant');
 INSERT INTO "items" VALUES(1673,'fe80fae32d3a22c1d18aaf6fd5e252a3f7d4bd22','Vaseline Glow Is The New Gold',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-07T23:38:56.488843+00:00','irrelevant');
+INSERT INTO "items" VALUES(1674,'80d70c3dc54535663976d2c3d5586b3587387f2f','Top 15 Health and Wellness D2C Brands in India (2026 Guide)',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-08T05:59:36.304343+00:00','irrelevant');
+INSERT INTO "items" VALUES(1675,'6e85b9eaac69e473b806eabf7bc824209e58f01f','Will the India-New Zealand FTA deliver on its promise?',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-08T05:59:36.304343+00:00','irrelevant');
+INSERT INTO "items" VALUES(1676,'10088ccaec46588c8f54d730d8b2bc6ae46cdb53','| Australia''s T&A imports down, fibre export dips in July-Sept 2026',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-08T05:59:36.304343+00:00','irrelevant');
+INSERT INTO "items" VALUES(1677,'b43dc5957f626d355847cf92cf57087dab0731dd','| Sri Lanka''s garment exports fall 5.3% to $3.52 bn in Jan–Sep 2026',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-08T05:59:36.304343+00:00','irrelevant');
+INSERT INTO "items" VALUES(1678,'f14a645bc3844218e303358e300805d0300b205d','| Indonesia''s 2027 wage rise: Can 6-8% increases cost it garment orders?',NULL,NULL,NULL,NULL,NULL,NULL,'2026-11-08T05:59:36.304343+00:00','irrelevant');
 COMMIT;
