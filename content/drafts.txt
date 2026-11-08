@@ -1,3 +1,11 @@
+[1679] (textiles) India's apparel production falls in H1 FY27
+    India's apparel production fell 5.6 percent in H1 FY27. The decline was driven by weak US demand and high costs affecting manufacturers.
+    sources: The Economic Times
+
+[1682] (retail) Retail launch of Usha's Silai label at Rohit Bal Studio
+    Usha's Silai label has launched its retail presence at the Rohit Bal Studio in the capital. The initiative showcases the brand's collaborative retail effort in a prominent studio setting.
+    sources: NDTV
+
 [1668] (retail) Guess Jeans Enters Seven Shoppers Stop Stores Across India
     Guess Jeans has entered seven Shoppers Stop stores across India. The expansion brings the brand's retail presence to these specific locations.
     sources: Indian Retailer
@@ -128,7 +136,7 @@
 
 [1612] (textiles) Bangladesh garment crisis: India's yarn trade at risk?
     The text questions whether India's $1.46 billion yarn trade is at risk due to the garment crisis in Bangladesh. It highlights potential impacts on the textile sector without providing additional details.
-    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [1594] (funding) Qiroko Raises Rs 1.5 Cr in Pre-Seed Round
     Qiroko has raised Rs 1.5 crore in a pre-seed funding round. The company plans to use the capital to expand beyond jewellery.
