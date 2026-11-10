@@ -1,3 +1,11 @@
+[1714] (retail) Kiaasa Retail Opens Four Strategic Outlets in India
+    Kiaasa Retail Limited has accelerated its PAN-India presence through the simultaneous opening of four strategic retail outlets. The expansion took place during the festive season.
+    sources: ANI News
+
+[1717] (textiles) Haryana bets on IMT Sohna to connect Surat players with NCR markets
+    Haryana is utilizing IMT Sohna to connect textile players from Surat with NCR apparel markets. The initiative focuses on Gujarat entrepreneurs.
+    sources: The Times of India
+
 [1696] (brand-moves) How House of Rare redefines premium fashion for Indian consumers
     The text discusses how the House of Rare brand is redefining premium fashion for consumers in India. It examines the positioning and strategy of the label within the domestic market.
     sources: ET Edge Insights
@@ -60,7 +68,7 @@
 
 [1689] (textiles) Global cotton faces a deficit: Why are prices falling?
     Global cotton is facing a deficit of 353,000 tonnes. The text questions why prices are falling despite this deficit.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1679] (textiles) India's apparel production falls in H1 FY27
     India's apparel production fell 5.6 percent in H1 FY27. The decline was driven by weak US demand and high costs affecting manufacturers.
