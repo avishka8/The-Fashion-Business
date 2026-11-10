@@ -1,3 +1,35 @@
+[1719] (brand-moves) Indian brands fund microdrama series
+    Indian brands are increasingly funding their own microdrama series as a new strategy. This approach is being used to script sales and engage audiences.
+    sources: Storyboard18
+
+[1721] (d2c) Snitch FY26 revenue rises as loss widens
+    Snitch reported a 67.6 per cent increase in revenue. Meanwhile, its loss for FY26 widened to Rs 27 crore.
+    sources: Indian Television Dot Com
+
+[1723] (d2c) Snitch increases ad spends by 30 percent in FY26
+    Snitch has raised its advertising spend by 30 percent to Rs 108 Cr in FY26. The financial update details the company's planned marketing investment for the fiscal year.
+    sources: Storyboard18
+
+[1724] (d2c) How three founders launched Gen Z socks brand Sockscarving
+    Three friends built a Gen Z-focused socks brand named Sockscarving starting with an initial investment of 40,000 rupees. The text details the origin of the business started by the three founders.
+    sources: Indian Startup Times
+
+[1725] (retail) Spanish Fragrance Brand Equivalenza Enters India With FranGlobal
+    Spanish fragrance brand Equivalenza is bringing its European scents, unique perfumes, and customized offerings to India in partnership with FranGlobal. The exclusive expansion brings the brand's retail concept and products to the Indian market.
+    sources: Indian Retailer
+
+[1726] (d2c) Direct-to-consumer brands report strong Diwali demand
+    Direct-to-consumer brands have experienced strong Diwali demand with orders rising by 27%. Additionally, sales value for these brands jumped by 45% during the festive period.
+    sources: The Pamphlet
+
+[1727] (d2c) Dermis Oracle Expands Digital Distribution
+    Dermis Oracle has expanded its digital distribution for its skincare and haircare portfolio. The brand continues to grow its online presence to reach consumers.
+    sources: Indian Retailer
+
+[1737] (textiles) Indian Export Stocks Could Gain From US Tariff Reset
+    Indian export stocks have the potential to gain from any upcoming reset of United States tariffs. The snippet indicates a possible positive impact on the Indian export sector based on US trade policy changes.
+    sources: Simply Wall St
+
 [1714] (retail) Kiaasa Retail Opens Four Strategic Outlets in India
     Kiaasa Retail Limited has accelerated its PAN-India presence through the simultaneous opening of four strategic retail outlets. The expansion took place during the festive season.
     sources: ANI News
