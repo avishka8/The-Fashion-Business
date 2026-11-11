@@ -1,3 +1,27 @@
+[1784] (retail) Laila Faisal Studio Opens in Delhi
+    Laila Faisal Studio has opened a new location in Delhi. The announcement marks an addition to the retail landscape in the region.
+    sources: Indian Retailer
+
+[1785] (retail) Palmonas Opens New Jewellery Store at City Centre Mall Patna
+    Palmonas has opened a new jewellery store located at City Centre Mall in Patna. The expansion marks the brand's latest retail presence in the location.
+    sources: Indian Retailer
+
+[1786] (retail) Premium spending holds up at Nexus malls
+    Premium spending has held up well even as electronics and hypermarkets experienced a slowdown at Nexus malls. The text highlights resilient consumer behavior in the premium retail segment within these shopping centers.
+    sources: Moneycontrol.com
+
+[1787] (textiles) Indian Garment Exporters Diversify Markets Amid US Tariff Uncertainty
+    Indian garment exporters are actively diversifying their target markets in response to ongoing uncertainty surrounding US tariffs. This strategic shift aims to mitigate risks associated with reliance on the US market.
+    sources: KNN India
+
+[1789] (textiles) India garment exporters cut U.S. dependence after tariff shock
+    India garment exporters have reduced their dependence on the U.S. market following a tariff shock. The text does not provide further details regarding the strategy or specific companies involved.
+    sources: Traders Union
+
+[1790] (textiles) Karnataka Handloom Heritage and Sustainable Textile Policies
+    Karnataka's rich handloom heritage is set to scale global heights through sustainable textile policies. The initiative focuses on the growth and international reach of traditional handlooms.
+    sources: Mega Media News
+
 [1769] (retail) Bata India targets turnover growth through new product lines
     Bata India announced that new product lines will drive its growth. The company also reiterated its target to double its turnover by the year 2030.
     sources: ET Retail
@@ -28,7 +52,7 @@
 
 [1744] (brand-moves) Ex-Rare Rabbit executive Lavish Soni launches IATE Fashion
     Lavish Soni, a former Rare Rabbit executive, has launched a new venture named IATE Fashion. The brand is targeting a size of Rs 500 to 800 crore in its first phase.
-    sources: ET Retail
+    sources: ET Retail, ET Retail
 
 [1746] (retail) FirstCry Expands Retail Presence In Delhi-NCR With New Store At Vegas Mall
     FirstCry has expanded its retail presence in the Delhi-NCR region. The company has opened a new store located at Vegas Mall.
@@ -56,7 +80,7 @@
 
 [1758] (textiles) India garment makers rethink US reliance after tariffs
     Indian garment manufacturers are reconsidering their reliance on the United States following a tariff shock. The shift highlights changes in export strategies for the domestic textile industry.
-    sources: Reuters, Internazionale, Unique Times Magazine
+    sources: Reuters, Internazionale, Unique Times Magazine, ET Retail
 
 [1719] (brand-moves) Indian brands fund microdrama series
     Indian brands are increasingly funding their own microdrama series as a new strategy. This approach is being used to script sales and engage audiences.
