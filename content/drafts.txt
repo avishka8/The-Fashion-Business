@@ -1,3 +1,23 @@
+[1769] (retail) Bata India targets turnover growth through new product lines
+    Bata India announced that new product lines will drive its growth. The company also reiterated its target to double its turnover by the year 2030.
+    sources: ET Retail
+
+[1770] (retail) Zudio and Westside expand using RFID technology
+    Zudio and Westside are expanding their operations. The brands are utilizing RFID technology to keep Trent's fast fashion fresh.
+    sources: Fibre2Fashion
+
+[1777] (retail) Activewear Brand Fuaark Opens Third Store in Delhi Market
+    Activewear brand Fuaark has opened its third store, strengthening its presence in the Delhi market. The expansion marks a new milestone for the brand's retail footprint.
+    sources: Indian Retailer
+
+[1778] (retail) Polo Ralph Lauren Opens New Store in Bengaluru
+    Polo Ralph Lauren has opened a new store in Bengaluru. The expansion marks a new retail development for the brand in India.
+    sources: Indian Retailer
+
+[1780] (retail) Festive Season 2026: E-commerce Giants Battle for India's Shopper
+    E-commerce giants are competing for Indian shoppers during the festive season of 2026. The growth stories for these platforms are taking different routes.
+    sources: Indian Retailer
+
 [1739] (d2c) Festive boost: D2C startups bag every third funding deal in October
     During October, D2C startups secured every third funding deal, receiving a festive boost. The text highlights this trend in funding and D2C startup deals during the month.
     sources: Entrackr
@@ -28,7 +48,7 @@
 
 [1755] (d2c) D2C brands see 45% GMV growth during Diwali 2026
     D2C brands experienced a 45% GMV growth during Diwali 2026. Shoppers opted for bigger and more premium carts, according to ClickPost.
-    sources: Storyboard18
+    sources: Storyboard18, Storyboard18
 
 [1757] (retail) Non-Metros Overtake Metros on Diwali Delivery
     An analysis of over 80 million orders by ClickPost reveals that non-metropolitan areas overtook metros in on-time delivery this Diwali season. The findings highlight shifting logistics and fulfillment trends across Indian cities during the festive period.
@@ -128,7 +148,7 @@
 
 [1691] (funding) Indian AI Fashion Discovery App Slayd Raises Pre-Seed Funding
     Indian AI fashion discovery app Slayd has raised $156,400 in pre-seed funding. The company operates in the fashion technology and business sector.
-    sources: Retail News Asia
+    sources: Retail News Asia, Retail News Asia
 
 [1693] (policy) Will the India-New Zealand FTA deliver on its promise?
     This article discusses the potential outcomes and impacts of the Free Trade Agreement between India and New Zealand. It questions whether the trade pact will successfully deliver on its stated promises.
