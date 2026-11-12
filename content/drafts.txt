@@ -1,3 +1,11 @@
+[1791] (brand-moves) Allen Solly Woman Expands Workwear into Women's Fashion
+    Allen Solly Woman is extending its workwear brand into women's fashion in India. The initiative focuses on the brand's market positioning within the country.
+    sources: MarkHub24
+
+[1795] (textiles) Karnataka's textile heritage looks to a global future
+    Karnataka's textile heritage is looking toward a global future. The text discusses the potential and direction of the state's textile sector in the global market.
+    sources: NammaWard
+
 [1784] (retail) Laila Faisal Studio Opens in Delhi
     Laila Faisal Studio has opened a new location in Delhi. The announcement marks an addition to the retail landscape in the region.
     sources: Indian Retailer
@@ -12,7 +20,7 @@
 
 [1787] (textiles) Indian Garment Exporters Diversify Markets Amid US Tariff Uncertainty
     Indian garment exporters are actively diversifying their target markets in response to ongoing uncertainty surrounding US tariffs. This strategic shift aims to mitigate risks associated with reliance on the US market.
-    sources: KNN India
+    sources: KNN India, KNN India
 
 [1789] (textiles) India garment exporters cut U.S. dependence after tariff shock
     India garment exporters have reduced their dependence on the U.S. market following a tariff shock. The text does not provide further details regarding the strategy or specific companies involved.
@@ -80,7 +88,7 @@
 
 [1758] (textiles) India garment makers rethink US reliance after tariffs
     Indian garment manufacturers are reconsidering their reliance on the United States following a tariff shock. The shift highlights changes in export strategies for the domestic textile industry.
-    sources: Reuters, Internazionale, Unique Times Magazine, ET Retail
+    sources: Reuters, Internazionale, Unique Times Magazine, ET Retail, Newswav
 
 [1719] (brand-moves) Indian brands fund microdrama series
     Indian brands are increasingly funding their own microdrama series as a new strategy. This approach is being used to script sales and engage audiences.
