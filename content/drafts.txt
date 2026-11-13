@@ -1,3 +1,11 @@
+[1841] (retail) Cantabil Retail H1 revenue rises 11 percent
+    Cantabil Retail reported an 11 percent increase in H1 revenue reaching Rs 370.5 crore. The company's EBITDA margin expanded to 28 percent during the same period.
+    sources: ET Retail
+
+[1842] (retail) Kidbea Opens Two New Stores in Delhi and Dehradun
+    Kidbea has expanded its retail presence by opening two new stores located in Delhi and Dehradun. The brand continues its retail growth strategy with these new physical outlet launches.
+    sources: Indian Retailer
+
 [1823] (funding) Jaipur menswear brand QB MEN raises pre-seed funding
     Jaipur-based menswear brand QB MEN has raised pre-seed funding. The brand is targeting 100% growth following the funding round.
     sources: Indian Startup News
@@ -32,7 +40,7 @@
 
 [1832] (d2c) Urban Pitara builds India's on-demand fashion platform
     Vishav Sharma is building Urban Pitara as an on-demand, zero-inventory fashion platform in India. The text outlines this new approach to the Indian fashion market.
-    sources: Indian Startup Times
+    sources: Indian Startup Times, Indian Startup Times
 
 [1833] (textiles) India's $1 bn US apparel gap: Can exporters win back buyers?
     Indian apparel exporters are facing a one billion dollar gap in the US market. The article examines whether exporters can successfully win back American buyers.
@@ -76,7 +84,7 @@
 
 [1799] (funding) QB MEN raises pre seed funding
     D2C menswear brand QB MEN has raised pre seed funding. The funding round was led by BeyondSeed.
-    sources: Entrackr
+    sources: Entrackr, Indian Startup Times, Siliconindia
 
 [1800] (funding) QB MEN Secures Pre-Seed Funding
     QB MEN has secured pre-seed funding in a round led by BeyondSeed. The investment aims to accelerate the growth journey of the company.
@@ -136,7 +144,7 @@
 
 [1778] (retail) Polo Ralph Lauren Opens New Store in Bengaluru
     Polo Ralph Lauren has opened a new store in Bengaluru. The expansion marks a new retail development for the brand in India.
-    sources: Indian Retailer
+    sources: Indian Retailer, IFAB MEDIA
 
 [1780] (retail) Festive Season 2026: E-commerce Giants Battle for India's Shopper
     E-commerce giants are competing for Indian shoppers during the festive season of 2026. The growth stories for these platforms are taking different routes.
