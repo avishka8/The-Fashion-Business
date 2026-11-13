@@ -1,3 +1,43 @@
+[1823] (funding) Jaipur menswear brand QB MEN raises pre-seed funding
+    Jaipur-based menswear brand QB MEN has raised pre-seed funding. The brand is targeting 100% growth following the funding round.
+    sources: Indian Startup News
+
+[1824] (funding) IvyCap Ventures leads USD 13M funding in Live2.ai
+    IvyCap Ventures has led a USD 13 million funding round in Live2.ai. The transaction was advised by Saraf and Partners.
+    sources: Prittle Prattle News
+
+[1825] (retail) Fab India Opens New Store in Raipur
+    Fab India has expanded its retail presence by opening a new store in Raipur. The store opening marks the brand's latest retail expansion.
+    sources: Indian Retailer
+
+[1826] (retail) Kidbea opens two new stores and targets expansion
+    Kidbea has opened two new stores in Dehradun and Delhi. The brand is targeting over 100 outlets in the next five years.
+    sources: India Retailing
+
+[1827] (brand-moves) Page Industries posts higher quarterly profit
+    Page Industries has reported a higher quarterly profit. The growth was driven by strong volume growth.
+    sources: ET Retail
+
+[1828] (retail) Smaller cities rewrite India's e-commerce growth story
+    Smaller cities are shifting the landscape of India's e-commerce growth. The trend highlights new consumption patterns emerging outside major metropolitan areas.
+    sources: India Retailing
+
+[1829] (brand-moves) Brand Concepts Targets Growth Through Premium Fashion and Lifestyle
+    Brand Concepts is targeting a 20 to 25 percent growth rate. The company is betting on the expansion of its premium fashion and lifestyle segments.
+    sources: Indian Retailer
+
+[1830] (retail) Brandman Retail Targets Tier-II and Tier-III Cities for Store Expansion
+    Brandman Retail is targeting Tier-II and Tier-III cities for its store expansion plans. The retail brand aims to grow its footprint in these smaller Indian markets.
+    sources: Indian Retailer
+
+[1832] (d2c) Urban Pitara builds India's on-demand fashion platform
+    Vishav Sharma is building Urban Pitara as an on-demand, zero-inventory fashion platform in India. The text outlines this new approach to the Indian fashion market.
+    sources: Indian Startup Times
+
+[1833] (textiles) India's $1 bn US apparel gap: Can exporters win back buyers?
+    Indian apparel exporters are facing a one billion dollar gap in the US market. The article examines whether exporters can successfully win back American buyers.
+    sources: Fibre2Fashion
+
 [1804] (funding) Greenjoules Raises Rs 150 Cr From Amazon Funds
     Greenjoules has raised Rs 150 crore from Amazon’s Smbhav Venture Fund, Climate Pledge Fund, and other investors. The funding details were shared in the announcement snippet.
     sources: BW Disrupt
@@ -28,7 +68,7 @@
 
 [1797] (funding) QB MEN Raises Pre-Seed Funding to Scale Print-First Menswear
     QB MEN has successfully raised pre-seed funding. The capital will be utilized to scale its print-first menswear brand.
-    sources: Indian Startup Times
+    sources: Indian Startup Times, D2c Insider Pulse
 
 [1798] (funding) D2C menswear brand QB MEN raises pre-seed funding
     D2C menswear brand QB MEN has raised pre-seed funding. The capital will be used to scale its menswear business.
@@ -72,7 +112,7 @@
 
 [1787] (textiles) Indian Garment Exporters Diversify Markets Amid US Tariff Uncertainty
     Indian garment exporters are actively diversifying their target markets in response to ongoing uncertainty surrounding US tariffs. This strategic shift aims to mitigate risks associated with reliance on the US market.
-    sources: KNN India, KNN India
+    sources: KNN India, KNN India, KNN India
 
 [1789] (textiles) India garment exporters cut U.S. dependence after tariff shock
     India garment exporters have reduced their dependence on the U.S. market following a tariff shock. The text does not provide further details regarding the strategy or specific companies involved.
