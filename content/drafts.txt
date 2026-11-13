@@ -1,3 +1,31 @@
+[1804] (funding) Greenjoules Raises Rs 150 Cr From Amazon Funds
+    Greenjoules has raised Rs 150 crore from Amazon’s Smbhav Venture Fund, Climate Pledge Fund, and other investors. The funding details were shared in the announcement snippet.
+    sources: BW Disrupt
+
+[1805] (d2c) QUE Universe Targets Rs 100 Crore Milestone
+    QUE Universe, backed by Shikhar Dhawan, is aiming for a revenue milestone of Rs 100 crore. The text provides this target without adding any further details.
+    sources: Indian Retailer
+
+[1807] (textiles) Polyester Spun Yarns Market Growth Forecast
+    The polyester spun yarns market is forecast to expand toward 2035. Growth is driven by fast-fashion demand and technical textile growth.
+    sources: IndexBox
+
+[1810] (retail) Bata opens new store in Varanasi
+    Footwear brand Bata has launched a new retail store in Shivpur, Varanasi. The opening expands the brand's retail presence in the location.
+    sources: Indian Retailer
+
+[1812] (retail) Escape Plan opens Bengaluru workspace for expansion
+    Escape Plan has established a 20,000 square foot workspace in Bengaluru. The new facility is set up to support the company's expansion.
+    sources: ET Retail
+
+[1817] (policy) India turns away from US market due to Trump tariffs
+    India is shifting away from the US market as a result of tariffs imposed by Trump. This trade shift impacts Indian exporters and international business strategy.
+    sources: UkrMedia News
+
+[1818] (textiles) Indian garment exporters diversify away from US
+    Indian garment exporters are diversifying their markets away from the United States. This strategic shift reflects changes in export destinations for the Indian textile and garment sector.
+    sources: Big News Network.com
+
 [1797] (funding) QB MEN Raises Pre-Seed Funding to Scale Print-First Menswear
     QB MEN has successfully raised pre-seed funding. The capital will be utilized to scale its print-first menswear brand.
     sources: Indian Startup Times
@@ -16,7 +44,7 @@
 
 [1801] (brand-moves) Perona targets festive growth and EBITDA targets
     Perona is targeting a festive growth of 20 to 30 percent. Additionally, the brand is eyeing an EBITDA of 15 percent.
-    sources: ET Retail, ET Retail
+    sources: ET Retail, ET Retail, ET Retail
 
 [1803] (retail) Safari Industries Q2 revenue rises to Rs 582 crore
     Safari Industries reported a 9.1 per cent rise in Q2 revenue to Rs 582 crore. Additionally, the company's board approved a capex of Rs 230 crore.
@@ -56,7 +84,7 @@
 
 [1769] (retail) Bata India targets turnover growth through new product lines
     Bata India announced that new product lines will drive its growth. The company also reiterated its target to double its turnover by the year 2030.
-    sources: ET Retail
+    sources: ET Retail, ET Retail
 
 [1770] (retail) Zudio and Westside expand using RFID technology
     Zudio and Westside are expanding their operations. The brands are utilizing RFID technology to keep Trent's fast fashion fresh.
