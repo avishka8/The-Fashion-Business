@@ -1,3 +1,15 @@
+[1869] (funding) UK-based Tide plans ₹3,100 crore investment in India
+    UK-based financial platform Tide has announced plans to invest ₹3,100 crore in India. The investment is scheduled to be made over the next four years.
+    sources: Business Standard
+
+[1870] (retail) Polo Ralph Lauren Opens First Store In Bengaluru
+    Polo Ralph Lauren has opened its first store in Bengaluru. The new retail location is situated at Phoenix Mall Of Asia.
+    sources: IFAB MEDIA
+
+[1871] (retail) Noel Tata builds retail powerhouse despite early doubts
+    Noel Tata overcame initial skepticism regarding his retail strategy. The article reflects on how he built a successful retail powerhouse.
+    sources: Livemint
+
 [1853] (funding) Funding and acquisitions in Indian startups this week
     The text provides a weekly update on funding and acquisitions within Indian startups. No specific brands, figures, or additional details are mentioned in the snippet.
     sources: Entrackr
@@ -20,11 +32,11 @@
 
 [1864] (retail) Baazar Style Retail targets ₹5,600 Cr turnover by FY29
     Baazar Style Retail has announced an ambitious growth target to achieve a turnover of ₹5,600 crore by the fiscal year 2029. The company outlined this significant financial milestone for its future business operations.
-    sources: Business Upturn
+    sources: Business Upturn, Business Upturn
 
 [1865] (textiles) Odisha's heritage and economic strength showcased at IITF
     Odisha's heritage and economic strength were showcased at the India International Trade Fair. The event highlighted the state's traditional sectors.
-    sources: The Statesman
+    sources: The Statesman, The Statesman
 
 [1846] (retail) Biba expands retail presence with new stores in Vizag and Gurgaon
     Ethnic wear brand Biba has expanded its retail footprint by opening new stores in Vizag and Gurgaon. The expansion is part of the brand's ongoing efforts to grow its physical store presence in India.
