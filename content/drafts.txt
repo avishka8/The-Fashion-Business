@@ -1,3 +1,55 @@
+[1914] (funding) India's B2C E-Commerce Funding Falls 33 Pc to USD 1.6 Bn in 2026 YTD
+    India's B2C e-commerce funding has fallen by 33 percent to USD 1.6 billion in 2026 year-to-date, according to a recent report. The decline highlights shifting investment trends within the country's digital retail sector.
+    sources: Indian Retailer
+
+[1916] (retail) Helios Luxe Opens New Luxury Watch Store in Bhopal
+    Helios Luxe has opened a new luxury watch store at DB City Mall in Bhopal. The new retail location expands the brand's presence in the region.
+    sources: Indian Retailer
+
+[1917] (d2c) How VIRGIO Uses AI in Fashion Manufacturing and Retail
+    VIRGIO is utilizing artificial intelligence to rethink the processes of fashion manufacturing and retail. The company applies technology to transform traditional industry operations.
+    sources: Indian Retailer
+
+[1918] (brand-moves) Thomas Scott India Secures Licensing and Global Deals
+    Thomas Scott India has secured licensing and global supplier deals with Forever 21 and Dockers. The agreements involve business operations between the companies as stated in the text.
+    sources: Sahi
+
+[1920] (brand-moves) Libas launches Season III of Saj Dhaj Ke wedding campaign
+    Libas has launched the third season of its Saj Dhaj Ke campaign, which focuses on celebrating a wider wedding wardrobe. The initiative highlights the brand's apparel offerings tailored for wedding celebrations.
+    sources: Adgully
+
+[1921] (retail) Beauty Brand Plum Targets 1Lk General-Trade Outlets Across India
+    Beauty brand Plum is targeting one lakh general-trade outlets across India. The expansion focuses on increasing its retail presence in the Indian market.
+    sources: Indian Retailer
+
+[1922] (brand-moves) HZY Expands Streetwear Identity Through Concept-Led Fashion
+    HZY is expanding its streetwear identity through concept-led fashion. The initiative focuses on the brand's creative direction and market positioning.
+    sources: SMEStreet
+
+[1923] (textiles) India's textile and apparel exports rise in October 2026
+    India's textile and apparel exports registered an increase of 26.27% in October 2026. The text highlights the growth in exports for the sector during this period.
+    sources: Fibre2Fashion
+
+[1924] (textiles) Bangladesh RMG Crisis as a Strategic Opportunity for India
+    The text discusses the ready-made garment crisis in Bangladesh and frames it as a strategic opportunity for India. No additional details are provided in the snippet.
+    sources: Drishti IAS
+
+[1925] (textiles) Indian Textiles and Apparel to Get Tariff Advantage in Oman
+    The Southern India Mills' Association (SIMA) has welcomed a trade pact that provides Indian textiles and apparel with a 5% tariff edge in Oman. This agreement is expected to benefit the sector's trade relations and export capabilities.
+    sources: Fibre2Fashion
+
+[1928] (textiles) Payment issues bother north Indian cotton yarn, demand slows
+    North Indian cotton yarn is facing payment issues and a slowdown in demand. The text highlights the current challenges in the cotton yarn sector in the region.
+    sources: Fibre2Fashion
+
+[1929] (textiles) Bangladesh garment industry faces protests over wages
+    Bangladesh's $40 billion garment industry is facing fresh protests regarding wages. The situation raises questions about potential supply chain disruptions and whether they could benefit India.
+    sources: Livemint
+
+[1930] (textiles) Odisha Inaugurates Pavilion Showcasing Handlooms at IITF 2026
+    Anu Garg inaugurated the Odisha state pavilion at IITF 2026. The pavilion showcases handlooms, Koraput coffee, and tribal heritage.
+    sources: Content Media Solution
+
 [1902] (retail) Yousta Opens 111th Store in Bengaluru
     Yousta has opened its 111th store with the launch of a new flagship location on Bengaluru's Commercial Street. This expansion adds to the brand's growing retail footprint.
     sources: IFAB MEDIA
@@ -108,7 +160,7 @@
 
 [1864] (retail) Baazar Style Retail targets ₹5,600 Cr turnover by FY29
     Baazar Style Retail has announced an ambitious growth target to achieve a turnover of ₹5,600 crore by the fiscal year 2029. The company outlined this significant financial milestone for its future business operations.
-    sources: Business Upturn, Business Upturn
+    sources: Business Upturn, Business Upturn, Ahmedabad Mirror
 
 [1865] (textiles) Odisha's heritage and economic strength showcased at IITF
     Odisha's heritage and economic strength were showcased at the India International Trade Fair. The event highlighted the state's traditional sectors.
