@@ -1,3 +1,27 @@
+[1902] (retail) Yousta Opens 111th Store in Bengaluru
+    Yousta has opened its 111th store with the launch of a new flagship location on Bengaluru's Commercial Street. This expansion adds to the brand's growing retail footprint.
+    sources: IFAB MEDIA
+
+[1904] (textiles) Fleece Fabrics Market in India: Size, Trends and Forecast to 2035
+    This text presents an overview of the fleece fabrics market in India, including its size, trends, and a forecast extending to the year 2035. No further specific business details or brand names are provided in the snippet.
+    sources: IndexBox
+
+[1905] (textiles) Apparel industry sees sign of export revival
+    The apparel industry is seeing signs of an export revival. This development highlights potential growth for the sector.
+    sources: The Times of India
+
+[1908] (textiles) North India cotton yarn steady amid uncertainty
+    North India cotton yarn prices remained steady amid market uncertainty. The sector found some respite from Bangladesh.
+    sources: Fibre2Fashion
+
+[1909] (textiles) India eyes stronger second half to reach $1 trn export goal
+    India is looking forward to a stronger second half in order to reach its one trillion dollar export goal. The text does not provide further details regarding specific sectors or companies.
+    sources: Fibre2Fashion
+
+[1911] (retail) Bata India targets younger consumers with sneakers and premium lines
+    Bata India is focusing on younger consumers by introducing sneakers and premium product lines. The strategy aims to appeal to a broader demographic within the market.
+    sources: Fibre2Fashion
+
 [1897] (funding) Indian Startups Raise Over $63 Million in Funding
     Between November 09 and November 14, 2026, nine Indian startups across diverse sectors raised over $63 million in funding from investors. The funded sectors include Climatetech, Foodtech, Manufacturing, Sportstech, AI, Renewable Energy, and Fashion.
     sources: Instagram
@@ -24,7 +48,7 @@
 
 [1890] (textiles) Maharashtra's 60-day textile subsidy plan
     Maharashtra has introduced a 60-day textile subsidy plan. The text raises the question of when textile mills will receive their payments under this scheme.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1891] (textiles) Tiruppur Apparel Exports Rise 20% as Orders Strengthen
     Tiruppur apparel exports have experienced a 20 percent increase. This rise is attributed to strengthening orders.
@@ -128,7 +152,7 @@
 
 [1825] (retail) Fab India Opens New Store in Raipur
     Fab India has expanded its retail presence by opening a new store in Raipur. The store opening marks the brand's latest retail expansion.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1826] (retail) Kidbea opens two new stores and targets expansion
     Kidbea has opened two new stores in Dehradun and Delhi. The brand is targeting over 100 outlets in the next five years.
@@ -156,7 +180,7 @@
 
 [1833] (textiles) India's $1 bn US apparel gap: Can exporters win back buyers?
     Indian apparel exporters are facing a one billion dollar gap in the US market. The article examines whether exporters can successfully win back American buyers.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1804] (funding) Greenjoules Raises Rs 150 Cr From Amazon Funds
     Greenjoules has raised Rs 150 crore from Amazon’s Smbhav Venture Fund, Climate Pledge Fund, and other investors. The funding details were shared in the announcement snippet.
