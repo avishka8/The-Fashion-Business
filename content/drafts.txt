@@ -1,3 +1,11 @@
+[1933] (retail) Cantabil Retail India Reaffirms FY27 Growth Guidance
+    Cantabil Retail India has reaffirmed its growth guidance for FY27. The decision follows the company's performance during the first half of the fiscal year.
+    sources: Sahi
+
+[1934] (d2c) India's Most Influential D2C Investors List
+    The text introduces The Consumer Capital 100, highlighting India's most influential investors in the direct-to-consumer sector. No further details are provided in the snippet.
+    sources: Indian Startup Times
+
 [1914] (funding) India's B2C E-Commerce Funding Falls 33 Pc to USD 1.6 Bn in 2026 YTD
     India's B2C e-commerce funding has fallen by 33 percent to USD 1.6 billion in 2026 year-to-date, according to a recent report. The decline highlights shifting investment trends within the country's digital retail sector.
     sources: Indian Retailer
@@ -100,7 +108,7 @@
 
 [1890] (textiles) Maharashtra's 60-day textile subsidy plan
     Maharashtra has introduced a 60-day textile subsidy plan. The text raises the question of when textile mills will receive their payments under this scheme.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [1891] (textiles) Tiruppur Apparel Exports Rise 20% as Orders Strengthen
     Tiruppur apparel exports have experienced a 20 percent increase. This rise is attributed to strengthening orders.
