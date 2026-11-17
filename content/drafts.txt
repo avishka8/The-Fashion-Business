@@ -1,3 +1,27 @@
+[1940] (textiles) Aadyam Handwoven Expands Its Focus
+    Aadyam Handwoven is looking beyond traditional textiles. The brand is shifting its strategic focus in the textile sector.
+    sources: Indian Retailer
+
+[1941] (brand-moves) India's Smallcap Apparel Companies Build Brand Portfolios
+    Indian smallcap apparel companies are expanding their offerings beyond traditional categories like jeans and shoes. These firms are actively building diverse portfolios of brands within the market.
+    sources: https://smallcapspotlight.in/
+
+[1942] (retail) UNIQLO Opens First Store In Jaipur
+    UNIQLO has opened its first store in Jaipur, marking its entry into Rajasthan. The launch includes local collaborations to celebrate the brand's expansion into the new market.
+    sources: IFAB MEDIA
+
+[1944] (retail) Kishore Biyani's retail comeback unlikely
+    Once known as India's retail king, Kishore Biyani was previously seeking a comeback in the industry. However, reports indicate that such a comeback is now unlikely.
+    sources: Fortune India
+
+[1948] (brand-moves) Libas Launches Saj Dhaj Ke Season Three Wedding Campaign
+    Libas has unveiled the third season of its wedding campaign titled Saj Dhaj Ke. The campaign focuses on the brand's wedding collection.
+    sources: Passionate In Marketing
+
+[1949] (textiles) China's T&A exports reach US $26.11 bn
+    China's textiles and apparel exports reached US $26.11 billion. The text discusses the implications of this export data for the China+1 strategy.
+    sources: Fibre2Fashion
+
 [1933] (retail) Cantabil Retail India Reaffirms FY27 Growth Guidance
     Cantabil Retail India has reaffirmed its growth guidance for FY27. The decision follows the company's performance during the first half of the fiscal year.
     sources: Sahi
@@ -28,7 +52,7 @@
 
 [1921] (retail) Beauty Brand Plum Targets 1Lk General-Trade Outlets Across India
     Beauty brand Plum is targeting one lakh general-trade outlets across India. The expansion focuses on increasing its retail presence in the Indian market.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [1922] (brand-moves) HZY Expands Streetwear Identity Through Concept-Led Fashion
     HZY is expanding its streetwear identity through concept-led fashion. The initiative focuses on the brand's creative direction and market positioning.
