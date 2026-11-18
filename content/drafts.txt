@@ -1,3 +1,31 @@
+[1980] (retail) US Polo Assn targets 1000 India stores in 4-5 years
+    Arvind Fashions plans to double its business as its brand US Polo Assn targets expanding to 1,000 stores in India over the next 4 to 5 years.
+    sources: ET Retail
+
+[1981] (brand-moves) Perona targets festive growth and EBITDA margin
+    Perona is targeting a festive growth of 20 to 30 percent. Additionally, the brand is eyeing a 15 percent EBITDA.
+    sources: ET Retail
+
+[1982] (retail) Bewakoof Opens New Store At Z Square Mall In Kanpur
+    Fashion brand Bewakoof has opened a new store at Z Square Mall. This move expands the company's offline retail presence in Kanpur.
+    sources: IFAB MEDIA, IFAB MEDIA
+
+[1983] (retail) FirstCry opens a new retail store in Bhuj
+    FirstCry has opened a new retail store located at Harsh Plaza in Bhuj. The opening marks a new physical retail addition for the brand.
+    sources: Indian Retailer
+
+[1988] (textiles) India's apparel exports to US fall 20.5%
+    India's apparel exports to the United States experienced a decline of 20.5 percent. The report raises the question of whether the country can win back buyers.
+    sources: Fibre2Fashion, Fibre2Fashion
+
+[1990] (textiles) US tariff shock prompts Indian textile exporters to diversify markets
+    Indian textile exporters are facing a tariff shock from the US market. As a result, these exporters are seeking to diversify their markets and reduce their overall reliance on the United States.
+    sources: The Tribune
+
+[1991] (textiles) Odisha's Craftsmanship Shines at IITF
+    Odisha's living craftsmanship, including Dhokra art and silver filigree, was showcased at IITF. Pavilion sales crossed Rs 14 lakh during the event.
+    sources: Ommcom News
+
 [1967] (brand-moves) EDT appoints former Dyson India head Hemant Chauhan as CCO
     EDT has named Hemant Chauhan, the former head of Dyson India, as its chief commercial officer. Chauhan will take on the new role at the company.
     sources: Indian Retailer, ET Retail
@@ -36,7 +64,7 @@
 
 [1962] (textiles) US takes 29% of India's textile exports
     The United States accounts for 29 percent of India's textile exports. The text questions whether new capacity can pay off.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1963] (textiles) Swedish textile firms to showcase innovations at India ITME forum
     Swedish textile firms are set to showcase their innovations at the India ITME forum. The event will feature new developments from the Swedish textile sector.
@@ -108,7 +136,7 @@
 
 [1923] (textiles) India's textile and apparel exports rise in October 2026
     India's textile and apparel exports registered an increase of 26.27% in October 2026. The text highlights the growth in exports for the sector during this period.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [1924] (textiles) Bangladesh RMG Crisis as a Strategic Opportunity for India
     The text discusses the ready-made garment crisis in Bangladesh and frames it as a strategic opportunity for India. No additional details are provided in the snippet.
