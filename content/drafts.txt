@@ -1,3 +1,19 @@
+[2029] (funding) Style Union raises Rs 485 crore to scale operations
+    Style Union has raised Rs 485 crore in funding. The company aims to scale its revenue significantly over three years to compete with Zudio.
+    sources: Indian Startup News
+
+[2030] (retail) Almost Gods Enters Hyderabad With New Store
+    Almost Gods has expanded its retail presence by opening a new store in Jubilee Hills, Hyderabad. The brand enters the Hyderabad market with this latest retail location.
+    sources: Indian Retailer
+
+[2031] (d2c) 10 Best RTO Reduction Tools for D2C Brands in India (2026)
+    This text provides a list of ten tools designed to help direct-to-consumer brands in India reduce return to origin rates in 2026. No additional details or brand names are mentioned in the source text.
+    sources: ClickPost
+
+[2036] (brand-moves) Day & Age explores gender-fluid fashion with vintage Kantha quilts
+    Day & Age is exploring gender-fluid fashion using vintage Kantha quilts. The brand's focus highlights textile usage in its collection.
+    sources: IndulgExpress
+
 [2008] (funding) Style Union Parent Nexon Omniverse Raises Rs 485 Cr
     Nexon Omniverse, the parent company of Style Union, has raised Rs 485 crore in a Series E funding round. The funding details were shared in the announcement snippet.
     sources: BW Disrupt, IFAB MEDIA, IFAB MEDIA
@@ -8,7 +24,7 @@
 
 [2014] (funding) Style Union raises Rs 485 Cr for expansion
     Style Union has raised Rs 485 Cr. The funding will be used to expand its operations beyond southern India.
-    sources: YourStory.com, Apparel Resources
+    sources: YourStory.com, Apparel Resources, Business Standard, Apparel Resources, Indian Startup Times
 
 [2015] (retail) U.S. Polo Assn. targets Rs 4,000 crore sales in India in FY27
     U.S. Polo Assn. has set a sales target of Rs 4,000 crore in India for the financial year 2027. The brand aims to achieve significant growth in the Indian retail market by this timeframe.
@@ -144,7 +160,7 @@
 
 [1963] (textiles) Swedish textile firms to showcase innovations at India ITME forum
     Swedish textile firms are set to showcase their innovations at the India ITME forum. The event will feature new developments from the Swedish textile sector.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [1964] (textiles) South Indian cotton yarn remains stable with demand signs
     South Indian cotton yarn prices have remained stable alongside signs of better demand. The market shows positive indicators for the textile sector in the region.
