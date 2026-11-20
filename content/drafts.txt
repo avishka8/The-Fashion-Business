@@ -1,3 +1,27 @@
+[2041] (funding) Funding Wrap: Dreamteam, Style Union, Cyient Semiconductors raise fresh capital
+    Dreamteam, Style Union, and Cyient Semiconductors have raised fresh capital in recent funding rounds. The snippet notes the capital raise without providing further details on the amounts or investors.
+    sources: ET Entrepreneur
+
+[2042] (funding) Nexon Omniverse Secures Rs 485 Crore for Style Union
+    Nexon Omniverse has secured Rs 485 crore. The funds will be used for Style Union's store expansion into West and North India.
+    sources: BMI
+
+[2046] (brand-moves) Provogue Sponsors MTV Roadies to Target India's Youth
+    Provogue has secured an associate sponsorship for MTV Roadies. The brand is using this partnership to connect with India's youth demographic.
+    sources: 5 Dariya News
+
+[2048] (textiles) Garment exporters urged to focus on financial discipline
+    Garment exporters have been urged to focus on financial discipline and strategic foresight to capture orders. The text highlights the importance of these strategic measures for exporters in the industry.
+    sources: The Hindu
+
+[2050] (policy) Madras High Court to hear Bangladesh challenge on Tangail Saree GI tag
+    The Madras High Court is set to hear a challenge filed by Bangladesh against the Geographical Indication tag granted to West Bengal's Tangail saree. The legal proceeding focuses on the GI status of the traditional textile.
+    sources: Live Law
+
+[2052] (fashion-week) India Fashion Night Showcases Designers in Cairo
+    The India Fashion Night event showcased various designers in Cairo. The initiative highlights international presentations by Indian design talent.
+    sources: Wisevoter
+
 [2029] (funding) Style Union raises Rs 485 crore to scale operations
     Style Union has raised Rs 485 crore in funding. The company aims to scale its revenue significantly over three years to compete with Zudio.
     sources: Indian Startup News
@@ -12,7 +36,7 @@
 
 [2036] (brand-moves) Day & Age explores gender-fluid fashion with vintage Kantha quilts
     Day & Age is exploring gender-fluid fashion using vintage Kantha quilts. The brand's focus highlights textile usage in its collection.
-    sources: IndulgExpress
+    sources: IndulgExpress, IndulgExpress
 
 [2008] (funding) Style Union Parent Nexon Omniverse Raises Rs 485 Cr
     Nexon Omniverse, the parent company of Style Union, has raised Rs 485 crore in a Series E funding round. The funding details were shared in the announcement snippet.
@@ -36,7 +60,7 @@
 
 [2020] (textiles) Indian Textile Exporters Diversify Markets to Europe and Australia
     Indian textile exporters are diversifying their markets toward Europe and Australia amid uncertainty surrounding US tariffs. The shift highlights strategic market expansion efforts within the textile and export sector.
-    sources: KNN India
+    sources: KNN India, KNN India
 
 [2024] (textiles) India ITME 2026 to showcase textile technology in Greater Noida
     India ITME 2026 is scheduled to showcase textile technology in Greater Noida. The event focuses on the textile sector's technological advancements.
@@ -72,7 +96,7 @@
 
 [1999] (retail) Nandani Creation Q2 revenue rises 29% to Rs 36.5 crore
     Nandani Creation reported a 29 percent increase in Q2 revenue to reach Rs 36.5 crore. The company also opened five new stores under Project 50.
-    sources: ET Retail
+    sources: ET Retail, ET Retail
 
 [2000] (retail) Brandman Retail opens exclusive Saucony store in Jaipur
     Brandman Retail has opened an exclusive Saucony store in Jaipur. The company also has plans for a wider India expansion.
