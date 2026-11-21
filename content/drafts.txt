@@ -1,3 +1,47 @@
+[2078] (funding) Boba Bhai secures Series B funding for expansion
+    Boba Bhai has raised $18 million in Series B funding. The capital will be used to expand its store network.
+    sources: India Retailing
+
+[2079] (funding) Indian Startup Funding Surges to $290 Mn
+    Indian startup funding surged 826% to $290 million as 23 startups raised capital during the week. The text provides data on the total capital raised and the number of startups involved.
+    sources: TechStory
+
+[2081] (retail) Miraggio opens third retail store in Pune
+    Miraggio has opened its third retail store in Pune. The brand is targeting a total of 10 stores by the end of the financial year.
+    sources: Indian Retailer
+
+[2082] (retail) Nykaa Unveils New Kiosk-Format Store in Jaipur
+    Nykaa has launched a new kiosk-format store located in Pacific Mall, Jaipur. The expansion adds to the brand's physical retail presence in India.
+    sources: Indian Retailer
+
+[2084] (textiles) India's apparel exports to US fall 20.5%
+    India's apparel exports to the United States experienced a decline of 20.5 percent. The situation raises questions regarding the industry's ability to win back buyers.
+    sources: Fibre2Fashion
+
+[2085] (textiles) ₹23,000cr funding push: Can India lift export competitiveness in 2027?
+    A funding push of ₹23,000 crore raises the question of whether India can lift its export competitiveness in 2027. The text focuses on export competitiveness and the financial push without mentioning specific brands or additional details.
+    sources: Fibre2Fashion
+
+[2088] (textiles) Indian Textiles and EU's Non-Tariff Hurdles
+    Indian textiles need to prepare for and question the European Union's non-tariff hurdles. The text discusses the implications of these regulatory challenges for the Indian textile sector.
+    sources: Swarajya
+
+[2089] (textiles) Kalaburagi textile park and global orders
+    The text discusses a 10,000 crore textile dream and questions whether Kalaburagi can deliver global orders. No specific brand names or additional details are provided in the snippet.
+    sources: Fibre2Fashion
+
+[2091] (textiles) North Indian cotton yarn prices steady amid cautious buying
+    North Indian cotton yarn prices remained steady. The stability was observed amid cautious buying by market participants.
+    sources: Fibre2Fashion
+
+[2092] (textiles) AEPC organizes pan-India seminar on FTA utilisation for apparel exporters
+    The AEPC has organised a pan-India seminar focused on FTA utilisation for apparel exporters. The event took place in Chennai.
+    sources: Apparel Views
+
+[2096] (textiles) India cotton yarn steady amid weak demand; Gujarat prices fall
+    India cotton yarn remained steady amidst weak demand from the weaving industry. Meanwhile, cotton yarn prices in Gujarat experienced a decrease.
+    sources: Fibre2Fashion
+
 [2067] (retail) Kapsons opens first store in Gujarat, expanding West India retail
     Kapsons has opened its first store in Gujarat. This launch marks an expansion of the brand's retail presence in West India.
     sources: Indian Retailer
