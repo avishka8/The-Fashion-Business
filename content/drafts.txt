@@ -1,3 +1,31 @@
+[2056] (brand-moves) Archies reimagines India's gifting market for Gen Z
+    Archies is shifting its focus from nostalgia to target Gen Z consumers. The brand is reimagining its approach within India's gifting market.
+    sources: Indian Retailer
+
+[2058] (retail) Arvind Fashions shares rise as U.S. Polo Assn. targets sales
+    Shares of Arvind Fashions rose 3.93 percent following the announcement that U.S. Polo Assn. is targeting Rs 4,000 crore in India sales by fiscal year 2027. The brand strategy highlights the company's growth targets in the Indian market.
+    sources: HDFC Sky
+
+[2059] (retail) V-Bazaar Expands Retail Footprint and Adopts AI-Led Campaign
+    V-Bazaar has expanded its retail footprint by launching eight new stores. Alongside this retail growth, the company has integrated artificial intelligence into its Festive Fashion Swag campaign.
+    sources: Indian Retailer
+
+[2060] (retail) India Retail Infrastructure Readiness for 2030 Supply
+    India anticipates 43.7 million square feet of new retail supply by the year 2030. The text discusses the retail infrastructure readiness to accommodate this upcoming expansion.
+    sources: https://www.indiagazette.com/
+
+[2061] (retail) Banana Club Reports Rs 1 Cr Sales and 27 Offline Stores
+    Banana Club reports Rs 1 Cr in sales. Its offline retail network has reached 27 stores.
+    sources: Indian Retailer
+
+[2063] (textiles) Global brands want fewer suppliers: 3 textile stocks winning business
+    Global brands are increasingly seeking fewer suppliers. Three textile stocks are benefiting from this trend by winning more business.
+    sources: The Financial Express
+
+[2065] (policy) Madras High Court Hears Tangail Saree GI Tag Dispute
+    The dispute over the Tangail saree geographical indication tag has reached the Madras High Court following a challenge by Bangladesh. The case involves the cancellation of the GI tag granted to West Bengal for the traditional textile.
+    sources: NewsX
+
 [2041] (funding) Funding Wrap: Dreamteam, Style Union, Cyient Semiconductors raise fresh capital
     Dreamteam, Style Union, and Cyient Semiconductors have raised fresh capital in recent funding rounds. The snippet notes the capital raise without providing further details on the amounts or investors.
     sources: ET Entrepreneur
@@ -16,7 +44,7 @@
 
 [2050] (policy) Madras High Court to hear Bangladesh challenge on Tangail Saree GI tag
     The Madras High Court is set to hear a challenge filed by Bangladesh against the Geographical Indication tag granted to West Bengal's Tangail saree. The legal proceeding focuses on the GI status of the traditional textile.
-    sources: Live Law
+    sources: Live Law, Bar and Bench
 
 [2052] (fashion-week) India Fashion Night Showcases Designers in Cairo
     The India Fashion Night event showcased various designers in Cairo. The initiative highlights international presentations by Indian design talent.
@@ -52,7 +80,7 @@
 
 [2015] (retail) U.S. Polo Assn. targets Rs 4,000 crore sales in India in FY27
     U.S. Polo Assn. has set a sales target of Rs 4,000 crore in India for the financial year 2027. The brand aims to achieve significant growth in the Indian retail market by this timeframe.
-    sources: Indian Television Dot Com
+    sources: Indian Television Dot Com, Storyboard18
 
 [2016] (retail) Gloster Opens New Store In Wagholi, Pune
     Gloster has opened a new store in Wagholi, Pune. This expansion increases the brand's athleisure retail presence.
@@ -76,7 +104,7 @@
 
 [1993] (funding) Style Union raises Rs 485 crore in funding
     Style Union has raised Rs 485 crore in a funding round. The investment was co-led by Venturi Partners and Elev8 Venture Partners.
-    sources: Moneycontrol.com, ET Retail, Indian Retailer, ET Entrepreneur
+    sources: Moneycontrol.com, ET Retail, Indian Retailer, ET Entrepreneur, ET Entrepreneur
 
 [1994] (funding) Fatehpuria Hygiene raises Rs 100 Crore in maiden equity funding
     Fatehpuria Hygiene has raised Rs 100 Crore in its maiden equity funding round. The investment round was led by Madhu Kela.
