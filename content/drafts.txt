@@ -1,3 +1,19 @@
+[2114] (funding) Style Union raises Rs 485 crore in Series E funding
+    Style Union has raised Rs 485 crore in Series E funding. The funding round was led by Venturi Partners.
+    sources: ET Retail
+
+[2115] (retail) U.S. Polo Assn targets ₹4,000 crore sales in FY27
+    U.S. Polo Assn has set a target to achieve ₹4,000 crore in consumer sales within India by the fiscal year 2027. The brand focuses on retail growth and market expansion within the Indian region.
+    sources: Storyboard18
+
+[2116] (d2c) Comet Scales D2C Footwear Business
+    Comet is scaling its D2C footwear business through the opening of new stores and ongoing product development efforts. The brand is expanding its market presence with these strategic retail and product initiatives.
+    sources: Indian Retailer
+
+[2122] (policy) Punjab Targets ₹75,000 Crore Investment Under Policy
+    Punjab is targeting ₹75,000 crore in investment under its new industrial policy for 2026. The policy places a specific focus on sectors including textiles, engineering, and auto components.
+    sources: Oneindia
+
 [2104] (retail) Frontier Raas Expands Retail Footprint in Ahmedabad
     Frontier Raas has expanded its retail footprint by opening a new location in Ahmedabad, Gujarat. The brand continues to grow its presence through this physical retail expansion.
     sources: Indian Retailer
@@ -32,7 +48,7 @@
 
 [2084] (textiles) India's apparel exports to US fall 20.5%
     India's apparel exports to the United States experienced a decline of 20.5 percent. The situation raises questions regarding the industry's ability to win back buyers.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [2085] (textiles) ₹23,000cr funding push: Can India lift export competitiveness in 2027?
     A funding push of ₹23,000 crore raises the question of whether India can lift its export competitiveness in 2027. The text focuses on export competitiveness and the financial push without mentioning specific brands or additional details.
@@ -88,7 +104,7 @@
 
 [2076] (textiles) Karigar Bazaar's Second Edition At Jawaharlal Nehru Stadium
     India's master craftspeople and national award winners are gathering for the second edition of Karigar Bazaar. The event will take place at the Jawaharlal Nehru Stadium.
-    sources: ETV Bharat
+    sources: ETV Bharat, ETV Bharat
 
 [2056] (brand-moves) Archies reimagines India's gifting market for Gen Z
     Archies is shifting its focus from nostalgia to target Gen Z consumers. The brand is reimagining its approach within India's gifting market.
