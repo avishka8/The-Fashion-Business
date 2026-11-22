@@ -1,3 +1,19 @@
+[2104] (retail) Frontier Raas Expands Retail Footprint in Ahmedabad
+    Frontier Raas has expanded its retail footprint by opening a new location in Ahmedabad, Gujarat. The brand continues to grow its presence through this physical retail expansion.
+    sources: Indian Retailer
+
+[2106] (retail) PlayBlue enters India's sports retail market in Bengaluru
+    PlayBlue, backed by KL Rahul, has entered India's sports retail market with the launch of its flagship store in Bengaluru. The new retail presence marks the brand's entry into the country.
+    sources: Indian Retailer
+
+[2107] (textiles) Textiles and apparel exports post combined sector growth
+    Textiles and apparel exports recorded a combined sector growth of 17.5%. The short snippet provides the growth percentage for the sector.
+    sources: The Times of India
+
+[2109] (policy) India and Italy seek closer trade ties
+    India and Italy held talks in Rome aimed at seeking closer trade and investment ties. The discussions focused on bilateral cooperation between the two countries.
+    sources: Fibre2Fashion
+
 [2078] (funding) Boba Bhai secures Series B funding for expansion
     Boba Bhai has raised $18 million in Series B funding. The capital will be used to expand its store network.
     sources: India Retailing
@@ -8,7 +24,7 @@
 
 [2081] (retail) Miraggio opens third retail store in Pune
     Miraggio has opened its third retail store in Pune. The brand is targeting a total of 10 stores by the end of the financial year.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [2082] (retail) Nykaa Unveils New Kiosk-Format Store in Jaipur
     Nykaa has launched a new kiosk-format store located in Pacific Mall, Jaipur. The expansion adds to the brand's physical retail presence in India.
@@ -100,11 +116,11 @@
 
 [2065] (policy) Madras High Court Hears Tangail Saree GI Tag Dispute
     The dispute over the Tangail saree geographical indication tag has reached the Madras High Court following a challenge by Bangladesh. The case involves the cancellation of the GI tag granted to West Bengal for the traditional textile.
-    sources: NewsX
+    sources: NewsX, NewsX
 
 [2041] (funding) Funding Wrap: Dreamteam, Style Union, Cyient Semiconductors raise fresh capital
     Dreamteam, Style Union, and Cyient Semiconductors have raised fresh capital in recent funding rounds. The snippet notes the capital raise without providing further details on the amounts or investors.
-    sources: ET Entrepreneur
+    sources: ET Entrepreneur, ET Entrepreneur
 
 [2042] (funding) Nexon Omniverse Secures Rs 485 Crore for Style Union
     Nexon Omniverse has secured Rs 485 crore. The funds will be used for Style Union's store expansion into West and North India.
