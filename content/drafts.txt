@@ -1,3 +1,15 @@
+[2129] (retail) Almost Gods Enters Hyderabad With New Store
+    Almost Gods has expanded its retail presence by opening a new store in Jubilee Hills, Hyderabad. This move marks the brand's entry into the Hyderabad market.
+    sources: Indian Retailer
+
+[2131] (brand-moves) ABFRL Share Price Forecast for 2027, 2028, and 2030
+    This text provides financial share price forecasts and targets for ABFRL for the years 2027, 2028, and 2030. No other business details or operational updates are included in the snippet.
+    sources: Univest
+
+[2132] (textiles) India's textile and apparel exports rise in September
+    India's textile and apparel exports increased by 17.5% in September. However, the recovery during the first half remains uneven.
+    sources: Maritime Gateway
+
 [2127] (textiles) India's garment exporters seek US orders without dependence
     India's garment exporters are looking for US orders while managing their reliance on the US market.
     sources: Digg
@@ -56,7 +68,7 @@
 
 [2085] (textiles) ₹23,000cr funding push: Can India lift export competitiveness in 2027?
     A funding push of ₹23,000 crore raises the question of whether India can lift its export competitiveness in 2027. The text focuses on export competitiveness and the financial push without mentioning specific brands or additional details.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [2088] (textiles) Indian Textiles and EU's Non-Tariff Hurdles
     Indian textiles need to prepare for and question the European Union's non-tariff hurdles. The text discusses the implications of these regulatory challenges for the Indian textile sector.
