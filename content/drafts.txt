@@ -1,3 +1,63 @@
+[2150] (funding) Style Union parent raises ₹485 crore for expansion
+    The parent company of Style Union has raised ₹485 crore. The funds will be used to expand its presence into West and North India.
+    sources: Business Standard
+
+[2151] (funding) Zavya Raises Rs 22.6 Crore in Pre-Series A Funding
+    Zavya has raised Rs 22.6 crore in a Pre-Series A funding round. The investment was led by Daksham Growth Ventures.
+    sources: Indian Startup Times
+
+[2153] (funding) Humyn Labs Raises $47M in Series A Funding
+    India's Humyn Labs has raised $47 million in Series A funding. The capital will be used to expand its physical AI training and deployment services.
+    sources: AI Insider
+
+[2154] (funding) Kalyan Jewellers in talks to raise Rs 2,000 crore from PE firms
+    Kalyan Jewellers is in discussions to raise Rs 2,000 crore from private equity firms. Former investor Warburg Pincus is among the private equity firms involved in the talks.
+    sources: Moneycontrol.com
+
+[2158] (funding) Bloom Bags Secures $75 Million Funding From Kedaara Capital
+    Bloom has raised $75 million in funding from Kedaara Capital. The company also plans to target 12,000 hotel rooms using AI-powered technology.
+    sources: Free Press Journal
+
+[2159] (retail) Store Expansion Drives India Organised Retail Growth in Q2
+    Store expansion drives India's organised retail growth during the second quarter. Meanwhile, same-store sales remain subdued.
+    sources: Apparel Resources
+
+[2160] (retail) Where is India's organised retail expanding and how are economics changing?
+    The text questions the geographic expansion of organised retail in India. It also queries how the underlying economics of this expansion are changing without providing further details.
+    sources: India Retailing
+
+[2161] (brand-moves) ABFRL luxury business expected to grow revenue share
+    ABFRL's luxury business is projected to contribute 30-33 percent of revenue in four to five years. This is an increase from its current 20 percent share, according to Sathyajit Radhakrishnan.
+    sources: ET Retail
+
+[2162] (brand-moves) Nike Targets Threefold Business Growth in India
+    Nike has announced a target to achieve threefold business growth in India over the next five years. The strategy focuses on expanding its presence and market share in the country.
+    sources: Indian Retailer
+
+[2163] (retail) U.S. Polo Assn. Strengthens India Presence
+    U.S. Polo Assn. has strengthened its presence in India. The Indian market now contributes 20 percent to the brand's global revenue.
+    sources: Indian Retailer
+
+[2164] (retail) India's Retail Infrastructure and New Supply
+    India's retail infrastructure needs to keep pace with 43.7 million square feet of new supply. The snippet highlights the growth in retail space without providing additional details.
+    sources: The Realty Today
+
+[2165] (retail) Charles & Keith Opens First Jaipur Store
+    Charles & Keith has opened its first store in Jaipur at Pacific Mall. This new location marks the brand's 25th store in India.
+    sources: IFAB MEDIA
+
+[2166] (textiles) US tariff shock prompts Indian textile exporters to diversify markets
+    Indian textile exporters are facing a US tariff shock. In response, they are working to diversify their markets and reduce their reliance on the United States.
+    sources: www.indiagazette.com
+
+[2167] (textiles) India Has the Yarn. Can It Win More Clothing Orders?
+    The text questions whether India can leverage its yarn production to secure a larger share of clothing manufacturing orders. No additional details are provided in the snippet.
+    sources: WWD
+
+[2169] (textiles) India's Textile Export Ambition and Supply Chains
+    India has a $100-billion textile export ambition. This goal depends on manufacturing scale and reliable supply chains.
+    sources: Maritime Gateway
+
 [2135] (funding) Zavya Raises Rs 22.6 Cr in Fresh Funding
     Everyday silver jewellery brand Zavya has raised Rs 22.6 crore in fresh funding. The funding details were announced in a recent funding alert.
     sources: Indian Retailer, Indian Startup News
@@ -44,7 +104,7 @@
 
 [2149] (textiles) India's textile sector targets $350 billion by FY31
     A BCG-CII report states that India's textile sector requires over 10% annual growth to reach the $350 billion target by FY31.
-    sources: The Economic Times
+    sources: The Economic Times, ET Retail
 
 [2129] (retail) Almost Gods Enters Hyderabad With New Store
     Almost Gods has expanded its retail presence by opening a new store in Jubilee Hills, Hyderabad. This move marks the brand's entry into the Hyderabad market.
@@ -64,7 +124,7 @@
 
 [2114] (funding) Style Union raises Rs 485 crore in Series E funding
     Style Union has raised Rs 485 crore in Series E funding. The funding round was led by Venturi Partners.
-    sources: ET Retail
+    sources: ET Retail, Siliconindia
 
 [2115] (retail) U.S. Polo Assn targets ₹4,000 crore sales in FY27
     U.S. Polo Assn has set a target to achieve ₹4,000 crore in consumer sales within India by the fiscal year 2027. The brand focuses on retail growth and market expansion within the Indian region.
