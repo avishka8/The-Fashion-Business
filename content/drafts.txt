@@ -1,3 +1,55 @@
+[2173] (retail) Kraus Jeans opens three new stores in Bhopal, Jaipur and Pune
+    Kraus Jeans has expanded its retail presence by opening three new stores located in Bhopal, Jaipur, and Pune.
+    sources: India Retailing
+
+[2174] (retail) Chapter2Drip opens fifth store in Jaipur
+    Chapter2Drip has opened its fifth store in Jaipur. The expansion includes a partnership with Tan Coffee.
+    sources: ET Retail
+
+[2175] (retail) GUESS JEANS enters India with Shoppers Stop
+    GUESS JEANS is entering the Indian market. It has partnered with Shoppers Stop as its exclusive national chain partner.
+    sources: Indian Retailer
+
+[2176] (textiles) Arvind partners with unspun for 3D weaving technology
+    Arvind has partnered with unspun to deploy 3D weaving technology at its Ahmedabad facility. The collaboration introduces advanced weaving capabilities to the manufacturing operations.
+    sources: ET Retail
+
+[2177] (retail) Underneat targets Rs 2,000 crore revenue by 2032
+    Underneat has announced a revenue target of Rs 2,000 crore by the year 2032. Additionally, the company plans to open 10 to 20 new stores next year.
+    sources: ET Retail
+
+[2178] (brand-moves) EDT appoints Hemant Chauhan as chief commercial officer
+    EDT has appointed Hemant Chauhan, the former business head of Dyson India, as its new chief commercial officer.
+    sources: ET Retail
+
+[2179] (retail) COMET Opens First Store in Pune
+    Footwear brand COMET has opened its first store in Pune at The Pavillion Mall. The new retail location marks an expansion for the brand's physical presence.
+    sources: Indian Retailer
+
+[2180] (retail) The Organic World Opens Two New Stores in Hyderabad
+    The Organic World has expanded its presence by opening two new stores in Hyderabad. The stores increase the brand's retail footprint in the region.
+    sources: Indian Retailer
+
+[2182] (retail) Baby Forest Expands Retail Network to Three New Cities
+    Baby Forest is expanding its retail network by launching in three new cities. The expansion marks growth in its physical retail presence.
+    sources: Indian Retailer
+
+[2183] (brand-moves) Raymond Share: Cons Every Investor Must Know in 2026
+    The text presents an analysis of the cons for investors regarding Raymond shares in 2026. No further details or context are provided in the source text.
+    sources: Univest
+
+[2184] (d2c) BeyondSeed Partners with i-Hub for D2C Accelerator
+    BeyondSeed has partnered with i-Hub for a D2C accelerator program. The initiative focuses on supporting direct-to-consumer businesses.
+    sources: Passionate In Marketing
+
+[2185] (policy) Madras High Court to hear Bangladesh's challenge to Tangail Saree GI tag
+    The Madras High Court is set to hear Bangladesh's challenge regarding the geographical indication (GI) tag granted to Bengal's Tangail saree. No further details were provided in the text.
+    sources: Live Law
+
+[2186] (policy) Madras HC Refuses Challenge to Tangail Sarees GI Tag
+    The Madras High Court has refused to dismiss a challenge filed by a Bangladesh official against the GI tag for Tangail sarees.
+    sources: LiveLawBiz
+
 [2150] (funding) Style Union parent raises ₹485 crore for expansion
     The parent company of Style Union has raised ₹485 crore. The funds will be used to expand its presence into West and North India.
     sources: Business Standard
