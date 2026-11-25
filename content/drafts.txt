@@ -1,3 +1,59 @@
+[2211] (retail) Festive season brings mixed results for Indian apparel retailers
+    The festive season has resulted in mixed outcomes for apparel retailers in India. This impacts the retail sector as companies assess their performance during the key shopping period.
+    sources: Fibre2Fashion
+
+[2212] (retail) D’YAVOL X Enters Physical Retail with Golden Goose
+    D’YAVOL X has entered physical retail through a collaboration with Golden Goose. The text notes this move as the brand steps into brick-and-mortar retail spaces.
+    sources: Indian Retailer
+
+[2214] (retail) Uniqlo plans faster India expansion and increased sourcing
+    Uniqlo is looking to accelerate its expansion in India. The company also plans to increase its sourcing for both local and global markets.
+    sources: ET BrandEquity
+
+[2216] (policy) India's Exports on Track for USD 1 Trillion Goal
+    Piyush Goyal stated that India's exports are on track to achieve the USD 1 trillion goal. No additional details were provided in the snippet.
+    sources: Entrepreneur India
+
+[2218] (d2c) Top 10 Best D2C Marketing Agencies In India In 2027
+    This text lists the top ten D2C marketing agencies in India for the year 2027. It serves as a directory for direct-to-consumer businesses seeking marketing partners.
+    sources: Inventiva
+
+[2219] (retail) Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore
+    Reliance Brands reported a 3.8% increase in revenue to Rs 3,390.9 crore for FY26. During the same period, the company's loss narrowed to Rs 137 crore.
+    sources: The Economic Times
+
+[2220] (textiles) India textile industry needs 20% annual growth for $100bn export target
+    A report by CII and BCG states that India's textile industry requires a 20 percent annual growth rate to achieve a $100 billion export target. The report highlights that India possesses the necessary fabric capabilities to reach this goal.
+    sources: ThePrint
+
+[2221] (textiles) US tariff probe and India apparel export advantage
+    The text discusses whether India can strengthen its apparel export advantage in light of a US tariff probe. It focuses on the business and trade aspects of India's textile sector.
+    sources: Fibre2Fashion
+
+[2222] (textiles) India's Roadmap to Textile and Apparel Leadership
+    This text outlines a strategic roadmap for India to achieve leadership in the global textile and apparel market. It discusses pathways for winning in the global wardrobe sector.
+    sources: Boston Consulting Group
+
+[2224] (textiles) Textile Exports Need To Grow 20% To Achieve $100 Bn Target
+    Textile exports need to grow by 20% in order to achieve the 100 billion dollar target. The snippet outlines the required growth rate for the textile sector to meet its specific export goal.
+    sources: Deccan Chronicle
+
+[2225] (textiles) Can India maintain its apparel export edge amid US tariff probe?
+    India's apparel export edge is facing a US tariff probe. The text questions whether the country can maintain its competitive advantage under these conditions.
+    sources: Fibre2Fashion
+
+[2226] (textiles) India sets USD 100 bn textiles target by FY31
+    A report states that India needs over 20 percent annual export growth to achieve the USD 100 billion textiles target by fiscal year 2031. The target focuses on the textiles and exports sector in the country.
+    sources: The Week
+
+[2227] (textiles) India's Apparel Export Share Slips
+    A report by BCG and CII indicates that India's share of apparel exports has slipped. This decline has occurred despite a global shift away from China.
+    sources: KNN India
+
+[2231] (textiles) Robert Naorem Showcases Manipur Handloom in Madrid
+    Designer Robert Naorem showcased Manipur handloom at the India–Spain Festival in Madrid. The presentation highlighted traditional textile work from India on an international platform.
+    sources: The Sentinel - of this Land, for its People
+
 [2192] (retail) Reebok Opens Its Second Store in Tripura
     Reebok has opened its second store in Tripura. The new location expands the brand's retail presence in the region.
     sources: Indian Retailer
@@ -24,7 +80,7 @@
 
 [2201] (textiles) India must move beyond yarn and fabric for global apparel orders
     A report by BCG and CII indicates that India needs to move beyond yarn and fabric in order to win global apparel orders. The text highlights strategic positioning for India in the global textile and apparel market.
-    sources: Business Standard
+    sources: Business Standard, BW Businessworld
 
 [2202] (textiles) Global brands look to India for textile sourcing
     Global brands are looking to India for textile sourcing as trade shifts create new export opportunities. This shift highlights India's growing role in the international textile supply chain.
@@ -124,7 +180,7 @@
 
 [2163] (retail) U.S. Polo Assn. Strengthens India Presence
     U.S. Polo Assn. has strengthened its presence in India. The Indian market now contributes 20 percent to the brand's global revenue.
-    sources: Indian Retailer
+    sources: Indian Retailer, Indian Retailer
 
 [2164] (retail) India's Retail Infrastructure and New Supply
     India's retail infrastructure needs to keep pace with 43.7 million square feet of new supply. The snippet highlights the growth in retail space without providing additional details.
@@ -172,7 +228,7 @@
 
 [2142] (textiles) India's Textile and Apparel Exports Target US $100 Billion by FY '31
     A report states that India's textile and apparel exports require a 20 percent annual growth. This growth is necessary to reach the target of US $100 billion by fiscal year 2031.
-    sources: Apparel Resources
+    sources: Apparel Resources, MediaBrief
 
 [2143] (textiles) India's Textile and Apparel Exports Rise in September 2026
     India's textile and apparel exports rose by 17.51 percent in September 2026. Clusters in Gujarat supported this growth in exports.
