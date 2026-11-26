@@ -1,3 +1,79 @@
+[2247] (funding) Style Union secures ₹485 crore in funding
+    Style Union has secured ₹485 crore in funding. The company is evaluating its growth trajectory and expansion goals to reach 450 stores by 2030.
+    sources: Fibre2Fashion
+
+[2248] (funding) indē wild secures investment from Nikhil Kamath through WTF
+    indē wild has secured an investment from Nikhil Kamath through WTF. The funding news was announced in the text.
+    sources: Indian Retailer
+
+[2249] (funding) GIVA Raises ₹90 Crore From BlackSoil
+    GIVA has raised ₹90 crore in funding from BlackSoil. The capital will be used to fund retail expansion and working capital.
+    sources: IFAB MEDIA, ET Retail
+
+[2250] (brand-moves) Shein's India return faces challenges
+    Shein's return to the Indian market has encountered difficulties. These challenges are related to supply chain issues and leadership uncertainty.
+    sources: Business Standard
+
+[2252] (funding) Nikhil Kamath’s WTF invests in beauty brand indē wild
+    Nikhil Kamath’s WTF has made an investment in the beauty brand indē wild. The snippet announces the funding development without providing further details.
+    sources: ET Retail
+
+[2255] (funding) Bloom raises $75m in funding round from Kedaara
+    Bloom has raised 75 million dollars in its latest funding round. The investment was made by Kedaara.
+    sources: Business News This Week
+
+[2257] (retail) Apple to Open First Hyderabad Store on December 10
+    Apple is scheduled to open its first store in Hyderabad on December 10. The retail development marks a new store launch for the brand in India.
+    sources: Indian Retailer
+
+[2258] (retail) BCBG Opens Third Store in India at Noida Mall
+    BCBG has opened its third store in India. The new retail location is situated at the DLF Mall of India in Noida.
+    sources: IFAB MEDIA
+
+[2259] (retail) ECCO India aims for 50 stores by 2028 and strong CAGR
+    ECCO India has announced plans to expand its presence to 50 stores by the year 2028. The brand is also targeting a 65 percent CAGR through 2030.
+    sources: ET Retail
+
+[2260] (funding) GIVA Raises Rs 90 Cr Amid Organised Jewellery Retail Growth
+    GIVA has raised Rs 90 crore as India's organised jewellery retail market grows. The funding highlights the expansion of the jewellery sector in the country.
+    sources: Indian Retailer
+
+[2261] (retail) Underneat Opens Offline Store in Gurugram
+    Underneat has taken its online brand experience offline by opening a new store in Gurugram. The move marks the brand's expansion into physical retail.
+    sources: Indian Retailer
+
+[2262] (d2c) Virgio targets 100 crore revenue with made-on-demand model
+    Virgio is aiming to achieve a revenue of 100 crore within a year. The fashion brand is focusing its strategy on a made-on-demand business model.
+    sources: India Retailing
+
+[2263] (d2c) Repeat Purchase Rate India 2026: D2C Benchmarks by Category
+    The text provides benchmarks for repeat purchase rates in India's D2C sector by category for the year 2026. However, no additional details, metrics, or brand names are provided in the snippet.
+    sources: ClickPost
+
+[2264] (brand-moves) Provogue Sponsors Roadies Rebirth Season 21
+    Provogue has secured the associate sponsorship for Roadies Rebirth Season 21. The move aims to connect with India's youth pulse through the sponsorship.
+    sources: Business Standard
+
+[2267] (textiles) Indian textile exporters diversify markets amid US tariff uncertainty
+    Indian textile exporters are working to diversify their markets due to uncertainty surrounding US tariffs. The strategy aims to mitigate risks associated with reliance on the US market.
+    sources: Apparel Views
+
+[2268] (textiles) Cotton Textile Industry in India Features and Status
+    The text discusses the features, initiatives, and status of the cotton textile industry in India. It highlights various aspects related to the sector without introducing external information.
+    sources: Vajiram & Ravi
+
+[2269] (textiles) US tariff deal could boost India's T&A exporters
+    A potential US tariff deal could provide India's textiles and apparel exporters with a competitive edge. The text notes this development regarding trade policy and export advantages.
+    sources: Fibre2Fashion
+
+[2270] (textiles) China supplies 94% of India's polyester yarn imports
+    China accounts for 94 percent of India's total polyester yarn imports. The report raises questions regarding future developments in this sector.
+    sources: Fibre2Fashion
+
+[2271] (textiles) Tariff relief and FTA to boost India's textile exports
+    An Emkay report indicates that potential US tariff relief and the India-EU Free Trade Agreement will boost India's textile exports. The analysis highlights these trade developments as significant drivers for the Indian textile sector.
+    sources: The Financial Express
+
 [2232] (d2c) PRAO builds fast-fashion jewellery brand with INR 36 Crore run-rate
     Fast-fashion jewellery brand PRAO was bootstrapped with INR 25 Lakh. It has grown to achieve a run-rate of INR 36 Crore without burning cash.
     sources: TheWire.in
@@ -64,7 +140,7 @@
 
 [2221] (textiles) US tariff probe and India apparel export advantage
     The text discusses whether India can strengthen its apparel export advantage in light of a US tariff probe. It focuses on the business and trade aspects of India's textile sector.
-    sources: Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [2222] (textiles) India's Roadmap to Textile and Apparel Leadership
     This text outlines a strategic roadmap for India to achieve leadership in the global textile and apparel market. It discusses pathways for winning in the global wardrobe sector.
@@ -88,7 +164,7 @@
 
 [2231] (textiles) Robert Naorem Showcases Manipur Handloom in Madrid
     Designer Robert Naorem showcased Manipur handloom at the India–Spain Festival in Madrid. The presentation highlighted traditional textile work from India on an international platform.
-    sources: The Sentinel - of this Land, for its People
+    sources: The Sentinel - of this Land, for its People, Northeast Today
 
 [2192] (retail) Reebok Opens Its Second Store in Tripura
     Reebok has opened its second store in Tripura. The new location expands the brand's retail presence in the region.
