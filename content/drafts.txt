@@ -1,3 +1,39 @@
+[2232] (d2c) PRAO builds fast-fashion jewellery brand with INR 36 Crore run-rate
+    Fast-fashion jewellery brand PRAO was bootstrapped with INR 25 Lakh. It has grown to achieve a run-rate of INR 36 Crore without burning cash.
+    sources: TheWire.in
+
+[2233] (funding) Nikhil Kamath Invests In Indē Wild As Strategic Partner
+    Nikhil Kamath has invested in Indē Wild and joined the brand as a strategic partner. No additional financial details or operational specifics were provided in the text.
+    sources: IFAB MEDIA
+
+[2234] (retail) Forever New's growth strategy in India
+    Forever New is focusing on growing alongside its customer base in India rather than prioritizing mere store count expansion. The brand's India story highlights its strategic retail approach in the market.
+    sources: Indian Retailer
+
+[2235] (funding) Sachin Tendulkar-Backed TEN x YOU Targets Rs 100 Cr Run Rate
+    Sachin Tendulkar-backed TEN x YOU is eyeing a business run rate of Rs 100 crore. The text provides this target alongside the backing of Sachin Tendulkar.
+    sources: Indian Retailer
+
+[2236] (retail) Trent weighs online growth against store expansion for Zudio
+    Trent is evaluating online growth alongside its store expansion strategy for Zudio. The brand continues to focus on its physical footprint while considering digital channels.
+    sources: The Economic Times
+
+[2237] (retail) India Apparel and Footwear Market Growth Forecast
+    According to forecasts by Markntel Advisor, the India apparel and footwear market is projected to reach USD 250.83 billion by 2033. The report provides a growth outlook for the sector within the specified timeframe.
+    sources: openPR.com
+
+[2240] (textiles) CII-BCG Report sets roadmap for US$100 billion textile exports by FY31
+    A new CII-BCG report outlines a strategic roadmap for India to achieve US$100 billion in textile and apparel exports by the fiscal year 2031. The report focuses on the growth and targets for the Indian textile and export sector.
+    sources: IFAB MEDIA
+
+[2242] (textiles) India's cotton yarn stable on slow demand
+    India's cotton yarn remained stable due to slow demand despite firm prices. The market conditions reflect current trends in the textiles sector.
+    sources: Fibre2Fashion
+
+[2245] (textiles) Karigar Bazaar 2026 to Bring Artisans to Delhi
+    Karigar Bazaar 2026 is scheduled to bring over 250 artisans from more than 26 states to Delhi starting November 27. The event highlights traditional textiles and craftsmanship from across the country.
+    sources: www.nationpathindia.com
+
 [2211] (retail) Festive season brings mixed results for Indian apparel retailers
     The festive season has resulted in mixed outcomes for apparel retailers in India. This impacts the retail sector as companies assess their performance during the key shopping period.
     sources: Fibre2Fashion
@@ -16,7 +52,7 @@
 
 [2218] (d2c) Top 10 Best D2C Marketing Agencies In India In 2027
     This text lists the top ten D2C marketing agencies in India for the year 2027. It serves as a directory for direct-to-consumer businesses seeking marketing partners.
-    sources: Inventiva
+    sources: Inventiva, Inventiva
 
 [2219] (retail) Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore
     Reliance Brands reported a 3.8% increase in revenue to Rs 3,390.9 crore for FY26. During the same period, the company's loss narrowed to Rs 137 crore.
@@ -28,7 +64,7 @@
 
 [2221] (textiles) US tariff probe and India apparel export advantage
     The text discusses whether India can strengthen its apparel export advantage in light of a US tariff probe. It focuses on the business and trade aspects of India's textile sector.
-    sources: Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion
 
 [2222] (textiles) India's Roadmap to Textile and Apparel Leadership
     This text outlines a strategic roadmap for India to achieve leadership in the global textile and apparel market. It discusses pathways for winning in the global wardrobe sector.
@@ -36,7 +72,7 @@
 
 [2224] (textiles) Textile Exports Need To Grow 20% To Achieve $100 Bn Target
     Textile exports need to grow by 20% in order to achieve the 100 billion dollar target. The snippet outlines the required growth rate for the textile sector to meet its specific export goal.
-    sources: Deccan Chronicle
+    sources: Deccan Chronicle, Deccan Chronicle
 
 [2225] (textiles) Can India maintain its apparel export edge amid US tariff probe?
     India's apparel export edge is facing a US tariff probe. The text questions whether the country can maintain its competitive advantage under these conditions.
