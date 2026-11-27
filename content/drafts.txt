@@ -1,3 +1,15 @@
+[2279] (funding) Boba Bhai raises $18 mn series B funding
+    Boba Bhai has raised $18 million in a series B funding round. The investment was led by Left Lane Capital.
+    sources: ET Entrepreneur
+
+[2280] (d2c) D2C Customer Acquisition Cost India 2026: CAC Benchmarks
+    This text provides benchmarks regarding the customer acquisition cost for D2C brands in India projected for the year 2026. It focuses on the metrics and business strategies associated with digital brand acquisition.
+    sources: ClickPost
+
+[2282] (textiles) Textile stocks fall on proposed US tariffs
+    Textile stocks including Gokaldas Exports, Arvind, and Kitex Garments experienced a decline. The drop follows proposed US tariffs that have raised concerns regarding export operations.
+    sources: Moneycontrol.com
+
 [2247] (funding) Style Union secures ₹485 crore in funding
     Style Union has secured ₹485 crore in funding. The company is evaluating its growth trajectory and expansion goals to reach 450 stores by 2030.
     sources: Fibre2Fashion
@@ -8,11 +20,11 @@
 
 [2249] (funding) GIVA Raises ₹90 Crore From BlackSoil
     GIVA has raised ₹90 crore in funding from BlackSoil. The capital will be used to fund retail expansion and working capital.
-    sources: IFAB MEDIA, ET Retail
+    sources: IFAB MEDIA, ET Retail, ET Retail
 
 [2250] (brand-moves) Shein's India return faces challenges
     Shein's return to the Indian market has encountered difficulties. These challenges are related to supply chain issues and leadership uncertainty.
-    sources: Business Standard
+    sources: Business Standard, Business Standard
 
 [2252] (funding) Nikhil Kamath’s WTF invests in beauty brand indē wild
     Nikhil Kamath’s WTF has made an investment in the beauty brand indē wild. The snippet announces the funding development without providing further details.
@@ -76,7 +88,7 @@
 
 [2232] (d2c) PRAO builds fast-fashion jewellery brand with INR 36 Crore run-rate
     Fast-fashion jewellery brand PRAO was bootstrapped with INR 25 Lakh. It has grown to achieve a run-rate of INR 36 Crore without burning cash.
-    sources: TheWire.in
+    sources: TheWire.in, ANI News
 
 [2233] (funding) Nikhil Kamath Invests In Indē Wild As Strategic Partner
     Nikhil Kamath has invested in Indē Wild and joined the brand as a strategic partner. No additional financial details or operational specifics were provided in the text.
