@@ -1,3 +1,91 @@
+[2290] (funding) Kalyan Jewellers in talks to raise Rs 2,000 crore
+    Kalyan Jewellers is in discussions to raise Rs 2,000 crore from private equity firms. Former investor Warburg Pincus is among the private equity firms involved in the talks.
+    sources: Moneycontrol.com
+
+[2293] (funding) Biggest Startup Funding Rounds in India 2026: Top 10
+    This text provides information on the top 10 biggest startup funding rounds in India for the year 2026. It serves as an overview of major investment activity in the startup ecosystem.
+    sources: Business Outreach Magazine
+
+[2295] (retail) Tier 3 cities drive festive fashion retail growth in India
+    Tier 3 cities in India are driving growth in festive fashion retail. The snippet indicates increased consumer demand and purchasing activity outside major metropolitan areas during the festive season.
+    sources: Fibre2Fashion
+
+[2296] (retail) IMAGES GROUP Honours 36 Retail Footprint Leaders
+    IMAGES GROUP and Homeland Honours have recognized 36 retail footprint leaders for shaping retail expansion in India. The initiative highlights key figures driving retail growth across the country.
+    sources: India Retailing
+
+[2297] (retail) Zara, Zudio and the Battle for the Z Generation
+    This article discusses Zara and Zudio in the context of the battle for Generation Z. The snippet provides the title of the piece concerning these retail brands.
+    sources: Open Magazine
+
+[2300] (retail) IMAGES Retail Live 2026 and India D2C Summit 2026 Day 2
+    Day 2 of the IMAGES Retail Live 2026 and India D2C Summit 2026 explored India's next billion consumers. The event focused on retail and direct-to-consumer developments in the country.
+    sources: India Retailing
+
+[2302] (d2c) Libas Reports FY26 Revenue And Narrows Loss
+    Libas announced its revenue increased by 19% to Rs 726 crore in FY26. During the same period, the company's net loss narrowed to Rs 15.2 crore.
+    sources: BW Disrupt
+
+[2303] (retail) UNIQLO Expands Bengaluru Presence With New Store
+    UNIQLO is expanding its presence in Bengaluru by opening a new 14,500-square-foot store at RMZ Ecoworld. The retail expansion adds to the brand's footprint in the region.
+    sources: IFAB MEDIA
+
+[2304] (retail) Titan's Helios Luxe targets 40-50 stores in three years
+    Titan's Helios Luxe plans to expand its store count to 40-50 locations over the next three years. The brand is also eyeing a deeper play in the Rs 13,000 crore accessible luxury market.
+    sources: ET Retail
+
+[2305] (brand-moves) Reid & Taylor expands its menswear business beyond suiting
+    Reid & Taylor is expanding its menswear business beyond traditional suiting. The piece provides an inside look at this strategic business expansion.
+    sources: TheWire.in
+
+[2306] (retail) The Organic World expands Hyderabad presence with two new stores
+    The Organic World has expanded its presence in Hyderabad by launching two new stores. The retail expansion aims to increase the availability of its offerings in the region.
+    sources: India Retailing
+
+[2307] (retail) MiniKlub Introduces New Retail Concept In Madurai
+    MiniKlub has introduced an imagination-led store design and debuted a new retail concept in Madurai. The development highlights the brand's latest retail strategy and store format updates.
+    sources: IFAB MEDIA
+
+[2308] (retail) AAPE By A Bathing Ape makes India debut
+    AAPE BY A BATHING APE® has made its debut in India. The brand launched its first store at Ambience Mall in Vasant Kunj.
+    sources: Retail4growth
+
+[2312] (d2c) D2C firms eye double-digit sales growth on Black Friday
+    D2C firms are targeting double-digit sales growth on November 27 for Black Friday. The event highlights retail and D2C business activity.
+    sources: Business Standard
+
+[2314] (d2c) Black Friday 2026: D2C brands bet on sales growth in India
+    Direct-to-consumer brands in India are anticipating between 10 to 25 percent sales growth for Black Friday 2026. This comes as post-Diwali shopping picks up across the country.
+    sources: Business Today
+
+[2315] (retail) Non-metro shoppers drive 63% surge in early Black Friday spending
+    Non-metro shoppers have driven a 63 percent surge in early Black Friday spending, according to GoKwik. The data highlights changing consumer shopping patterns and retail demand outside major metropolitan areas.
+    sources: The Economic Times
+
+[2318] (textiles) North India cotton yarn prices steady ahead of US tariff hike
+    North India cotton yarn prices remained steady prior to a potential US tariff hike. The text provides no further details regarding the market situation.
+    sources: Fibre2Fashion
+
+[2319] (textiles) DRM to showcase textile end-of-line solutions at India ITME 2026
+    DRM is scheduled to showcase textile end-of-line solutions at the upcoming India ITME 2026 event. The announcement highlights the company's participation in the industry exhibition.
+    sources: Fibre2Fashion
+
+[2320] (textiles) Bangladesh garment unrest sparks order exodus to India
+    Unrest in Bangladesh's garment sector has sparked a significant order exodus amounting to $254 million directed towards India. This shift impacts the textile and export landscape within the region as production moves.
+    sources: The Avenue Mail
+
+[2321] (textiles) Welspun Living and Gokaldas Exports shares rise up to 6%
+    Shares of Welspun Living and Gokaldas Exports increased by up to 6 percent following developments related to the India-UK Free Trade Agreement. The snippet highlights the market movement of these two companies in the context of the trade pact.
+    sources: Univest
+
+[2322] (retail) Manipur Pavilion records strong sales at IITF 2026
+    The Manipur Pavilion recorded sales of nearly Rs 27 lakh at the International Trade Fair (IITF) in 2026. The event showcased regional products and generated significant commercial activity.
+    sources: India Today NE
+
+[2324] (textiles) India and Bangladesh Battle Over the Tangail Saree
+    India and Bangladesh are engaged in a battle over the Tangail saree. The text highlights a dispute between the two nations regarding this traditional textile.
+    sources: Outlook India
+
 [2279] (funding) Boba Bhai raises $18 mn series B funding
     Boba Bhai has raised $18 million in a series B funding round. The investment was led by Left Lane Capital.
     sources: ET Entrepreneur
@@ -20,7 +108,7 @@
 
 [2249] (funding) GIVA Raises ₹90 Crore From BlackSoil
     GIVA has raised ₹90 crore in funding from BlackSoil. The capital will be used to fund retail expansion and working capital.
-    sources: IFAB MEDIA, ET Retail, ET Retail
+    sources: IFAB MEDIA, ET Retail, ET Retail, India Retailing, ET Retail
 
 [2250] (brand-moves) Shein's India return faces challenges
     Shein's return to the Indian market has encountered difficulties. These challenges are related to supply chain issues and leadership uncertainty.
@@ -28,7 +116,7 @@
 
 [2252] (funding) Nikhil Kamath’s WTF invests in beauty brand indē wild
     Nikhil Kamath’s WTF has made an investment in the beauty brand indē wild. The snippet announces the funding development without providing further details.
-    sources: ET Retail
+    sources: ET Retail, IMPACT Magazine
 
 [2255] (funding) Bloom raises $75m in funding round from Kedaara
     Bloom has raised 75 million dollars in its latest funding round. The investment was made by Kedaara.
@@ -88,7 +176,7 @@
 
 [2232] (d2c) PRAO builds fast-fashion jewellery brand with INR 36 Crore run-rate
     Fast-fashion jewellery brand PRAO was bootstrapped with INR 25 Lakh. It has grown to achieve a run-rate of INR 36 Crore without burning cash.
-    sources: TheWire.in, ANI News
+    sources: TheWire.in, ANI News, ThePrint
 
 [2233] (funding) Nikhil Kamath Invests In Indē Wild As Strategic Partner
     Nikhil Kamath has invested in Indē Wild and joined the brand as a strategic partner. No additional financial details or operational specifics were provided in the text.
@@ -152,7 +240,7 @@
 
 [2221] (textiles) US tariff probe and India apparel export advantage
     The text discusses whether India can strengthen its apparel export advantage in light of a US tariff probe. It focuses on the business and trade aspects of India's textile sector.
-    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
+    sources: Fibre2Fashion, Fibre2Fashion, Fibre2Fashion, Fibre2Fashion
 
 [2222] (textiles) India's Roadmap to Textile and Apparel Leadership
     This text outlines a strategic roadmap for India to achieve leadership in the global textile and apparel market. It discusses pathways for winning in the global wardrobe sector.
