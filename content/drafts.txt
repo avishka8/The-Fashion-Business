@@ -1,3 +1,23 @@
+[2341] (funding) Zerodha co-founder Nikhil Kamath's WTF invests in Ayurveda brand
+    Zerodha co-founder Nikhil Kamath's WTF has invested in an Ayurveda-inspired brand following its five million dollar round. The investment connects to the funding sector of the business.
+    sources: Livemint
+
+[2344] (retail) Retail and consumer companies expand across stores and markets
+    Retail and consumer companies have undertaken expansions across various stores, distribution channels, and new markets. This weekly recap highlights ongoing growth initiatives within the retail and consumer sector.
+    sources: ET Retail
+
+[2345] (retail) Polo Ralph Lauren Opens New Store in Bengaluru
+    Polo Ralph Lauren has opened a new retail store in Bengaluru. The expansion increases the brand's presence in the Indian market.
+    sources: Indian Retailer
+
+[2346] (textiles) South India's cotton yarn market subdued as export demand slows
+    South India's cotton yarn market is currently subdued. This slowdown is attributed to reduced export demand.
+    sources: Fibre2Fashion
+
+[2348] (textiles) Indian textile exporters rush US shipments
+    Indian textile exporters are rushing shipments to the United States in an effort to beat a proposed 25% tariff.
+    sources: The Economic Times
+
 [2290] (funding) Kalyan Jewellers in talks to raise Rs 2,000 crore
     Kalyan Jewellers is in discussions to raise Rs 2,000 crore from private equity firms. Former investor Warburg Pincus is among the private equity firms involved in the talks.
     sources: Moneycontrol.com
@@ -220,7 +240,7 @@
 
 [2214] (retail) Uniqlo plans faster India expansion and increased sourcing
     Uniqlo is looking to accelerate its expansion in India. The company also plans to increase its sourcing for both local and global markets.
-    sources: ET BrandEquity
+    sources: ET BrandEquity, ET BrandEquity
 
 [2216] (policy) India's Exports on Track for USD 1 Trillion Goal
     Piyush Goyal stated that India's exports are on track to achieve the USD 1 trillion goal. No additional details were provided in the snippet.
